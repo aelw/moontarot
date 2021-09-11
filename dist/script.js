@@ -27,23 +27,19 @@ var Fool = {
     "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.\n \
     Reversed: Negligence, absence, distribution, carelessness, apathy, nullity, vanity.",
   rw_meaning:
-    "<p>A youthful figure in the robe of a magician, having the countenance of the divine Apollo, with smile of confidence \
-    and shining eyes. Above his head is the mysterious sign of the Holy Spirit, the sign of life, like an endless cord, forming the \
-    figure 8 in a horizontal position [infinity symbol]. About his waist is a serpent-cincture, the serpent appearing to devour \
-    its own tail. This is familiar to most as a conventional symbol of eternity, but here it indicates more especially the eternity of \
-    attainment in the spirit. In the Magician's right hand is a wand raised towards heaven, while the left hand is pointing to \
-    the earth. This dual sign is known in very high grades of the Instituted Mysteries; it shews the descent of grace, virtue, and \
-    light, drawn from things above and derived to things below. The suggestion throughout is therefore the possession and communication\
-    of the Powers and Gifts of the Spirit. On the table in front of the Magician are the symbols of the four Tarot suits, signifying the\
-    elements of natural life, which lie like counters before the adept, and he adapts them as he wills. Beneath are roses and lilies, the \
-    flos campi and lilium convallium, changed into garden flowers, to shew the culture of aspiration. This card signifies the divine motive\
-    in man, reflecting God, the will in the liberation of its union with that which is above. It is also the u nity of individual being on\
-    all planes and in a very high sense it is thought, in the fixation thereof. With further reference to what I have called the sign of \
-    life and its connexion with the number 8, it may be remembered that Christian Gnosticism speaks of rebirth in Christ as a change\
-    'unto the Ogdoad. The mystic number is termed Jerusalem above, the Land flowing with Milk and Honey, the Holy Spirit and the Land\
-    of the Lord. According to Martinism, 8 is the number of Christ.</p><p>\
-    He signifies the journey outward, the state of the first emanation, the graces and passivity of the spirit. His wallet is inscribed\
-    with dim signs, to shew that many subconcious memories are stored up in the soul.</p>"
+    "<p>바보가 정방향으로 나타난다면 당신이 인생의 새로운 단계에 들어서려고 한다는 것이다. \
+    예상치 못한 기회는 여러분이 기대하지 않을 때 발생할 수 있고, 혹은 여러분이 중요한 결정을 하도록 호출될 수 있고 그것은 여러분을 새로운 길로 이끌 것이다. \
+    이 새로운 시작은 어느 곳으로도 이어질 수 있으며, 사건의 경과를 따라야 할지도 모른다. \
+    새로운 관계가 시작되려고 할 수도 있고, 아니면 다른 사람이 당신의 인생에 나타날 수도 있다.  \
+    당신이 현재 만나는 사람들은 나중에 당신의 경력이나 개인발전의 새로운 단계의 조력자가 될 수도 있다. \
+    바보는 또한 상황에 영향을 줄 이성이나 동성을 나타낼 수 있다. \
+    이 카드는 어린 시절의 낙천주의와 태평스러움으로 위험을 감수할 필요성을 보여준다.\
+    믿을 수 없는 관점은 문제를 해결하는 방법을 제공할 수 있기 때문에, 당신은 새로운 아이디어에 대한 개방성을 유지할 필요가 있다.\
+    바보는 스트레스, 명확성의 결여, 불확실한 조건들로 표시된 기간을 나타낼 수 있다. \
+    갑작스런 발전은 당신을 무방비 상태로 만들 수 있고 당신이 태도를 회복할 때까지 약간의 불안감을 줄 수 있다. \
+    이쯤 되면 아주 특별한 능력을 갖게 된다. 현명하게 과거를 떠나 새로운 일을 시작해야 한다. \
+    잠재의식이 새로운 삶을 시작하도록 안내하고 있기 때문에 전통적이고 구시대적인 방법을 고수하는 것은 잘못된 것일 수도 있다.\
+    때로는 바보가 진짜 여행에 대한 헌신을 보여주기도 하는데, 특히 다른 여행 카드(예: 전차, 운명의 수레바퀴, 세계, 6검, 8완즈 또는 완즈기사)가 주변에 나온다면 더욱 그렇다.</p>"
 };
 
 var Magician = {
