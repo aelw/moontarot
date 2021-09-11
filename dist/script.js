@@ -1771,34 +1771,34 @@ var set_celtic_identifier = function (card_obj, i) {
   console.log("inside set_celtic_identifier");
   switch (i) {
     case 1:
-      card_obj["identifier"] = "Present";
+      card_obj["identifier"] = "선물";
       break;
     case 2:
-      card_obj["identifier"] = "Challenge";
+      card_obj["identifier"] = "도전";
       break;
     case 3:
-      card_obj["identifier"] = "Past";
+      card_obj["identifier"] = "과거";
       break;
     case 4:
-      card_obj["identifier"] = "Future";
+      card_obj["identifier"] = "미래";
       break;
     case 5:
-      card_obj["identifier"] = "Above";
+      card_obj["identifier"] = "내가 생각하는 미래";
       break;
     case 6:
-      card_obj["identifier"] = "Below";
+      card_obj["identifier"] = "내가 처한 상황";
       break;
     case 7:
-      card_obj["identifier"] = "Advice";
+      card_obj["identifier"] = "조언";
       break;
     case 8:
-      card_obj["identifier"] = "Influences";
+      card_obj["identifier"] = "영향";
       break;
     case 9:
-      card_obj["identifier"] = "Hopes";
+      card_obj["identifier"] = "소망";
       break;
     case 10:
-      card_obj["identifier"] = "Outcome";
+      card_obj["identifier"] = "결과";
       break;
   }
   return card_obj;
