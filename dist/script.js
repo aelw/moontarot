@@ -6,9 +6,9 @@ function getRndInteger(min, max) {
 
 function upright_or_reversed() {
   if (getRndInteger(0, 1) == 0) {
-    return "upright";
+    return "정방향";
   } else {
-    return "reversed";
+    return "역방향";
   }
 }
 
@@ -1702,7 +1702,7 @@ var show_indexed_card = function (index) {
   //generic display message
   // document.getElementById("results").innerHTML +="The card drawn is...<br> <br> <div class='placard-container'><div class='card-container'>";
   //testing reverse or upright
-  if (rightCard["direction"] == "reversed") {
+  if (rightCard["direction"] == "역방향") {
     document.getElementById("results").innerHTML +=
       "<img src= '" +
       rightCard["img"] +
