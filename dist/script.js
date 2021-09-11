@@ -27,7 +27,7 @@ var Fool = {
     "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.\n \
     Reversed: Negligence, absence, distribution, carelessness, apathy, nullity, vanity.",
   rw_meaning:
-    "<script> if (rightCard["direction"] == "역방향") { document.write("역방향"); } else { document.write("정방향"); } </script>"
+    "<script> if (rightCard[\"direction\"] == \"역방향\") { document.write(\"역방향\"); } else { document.write(\"정방향\"); } </","script>"
 };
 
 var Magician = {
