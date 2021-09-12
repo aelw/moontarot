@@ -24,11 +24,7 @@
   
 <body>
 <main>
-  <script>
-$( document ).ready(function() {
-  draw_celtic_cross();
-});
-    </script>
+
 <div style='text-align:right !important'><h3><a href=''>오늘의 운세</a></h3></div>
 <div style='text-align:right !important'><h3>이달의 운세</h3></div>
 <div style='text-align:right !important'><h3>올해의 운세</h3></div>
@@ -99,5 +95,12 @@ $( document ).ready(function() {
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.2/particles.min.js'></script><script  src="./script.js"></script>
 
+<script>
+window.onload = function(){
+var a = document.getElementById( 'hel' );
+draw_celtic_cross();
+}
+</script>
+  
 </body>
 </html>
