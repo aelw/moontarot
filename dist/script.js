@@ -17,9 +17,9 @@ function upright_or_reversed() {
 
 function fool() {
   if (u == 0) {
-    return "<p>틀에 박히지 않은 발상을 해라, 너무 애쓰지 마라, 마음을 가볍게 먹으세요. 자유롭게 하세요.</p>";
+    return "<p>절벽을 향해 발을 디디려고 하는 젊은 여행자. 개가 그곳은 위험하다고 경고를 해주고 있지만, 그는 마치 아무것도 모른 채 자신감이 있어 보이는 것 같습니다. 고정관념이나 상식, 대중의 시선에 얽매이지 않는 자유로운 가치관을 나타냅니다. 미래는 불확실하고, 한 치 앞도 어떻게 될지 모르겠지만, 그래도 \"어떻게든 될 것\"이라고 낙관적으로 보입니다.</p>";
   } else {
-    return "<p>상황을 회피하지말고. 책임감을 가져라. 그렇지 않으면 신뢰를 잃는다.</p>";
+    return "<p>아무것도 결정하지 않은 등 부정적으로 작용합니다. 불안해하거나 제멋대로이거나 게으른, 불성실한 태도를 취했다고 할 수 있습니다. 변덕이나 무책임한 모습은 주위에서 보기에 신용을 깎아내릴 수 있는 원인이 되어 버립니다.</p>";
   }
 }
 var Fool = {
@@ -39,9 +39,9 @@ var Fool = {
 
 function Magician() {
   if (u == 0) {
-    return "<p>상대를 설득해라, 앞에 나서는 것에 두려워 말고 자신감을 가져라.</p>";
+    return "<p>자신감에 찬 표정으로 지팡이를 내거는 마술사. 그는 무에서 유를 만들어내는 힘을 가지고 요소를 자유자재로 조종할 수 있습니다. \"자신이, 무엇으로, 앞으로 어떻게 하고 싶은가\"라는 정체성과 목적의식이 뚜렷합니다. 자발적으로 생각하고 행동을 취할 수 있습니다. 그것은 꿈을 이루는 것이나 사람에게 인정받게 되는 것입니다.</p>";
   } else {
-    return "<p>바보카드의 역방향은, 만약 당신이 아직 상황을 신중하게 고려하지 않았다면 위험을 감수할 것을 경고한다. 벼랑 끝에 서서 떨어질 준비를 하고 싶은 기분이 들지도 모른다. 너는 너의 견해에 속을지도 모른다. 어리석음의 지속된다면 지혜의 유령이라는 에머슨(랄프알도에머슨)의 말을 기억하라. 현재의 상황은 알지 못하는 것 또는 미래가 가져올 수 있는 것을 두려워하게 만든다.</p>";
+    return "<p>정체성과 목적 의식이 뚜렷하지 않습니다. 아직 진정한 자신이 성숙되지 않은지도 모릅니다. 사람의 의견에 휩쓸리기 쉽기 때문에 사기당할 위험성도 높아지고 있습니다. 조심하세요.</p>";
   }
 }
 var Magician = {
@@ -60,6 +60,13 @@ var Magician = {
   rw_meaning: Magician()
 };
 
+function HighPriestess() {
+  if (u == 0) {
+    return "<p>대지 모신의 왕관을 받은 신비로운 여성의 사제가 바다가 보이는 성전에서 혼자 경전을 손에 지니고 있습니다. 주위에는 엄숙한 분위기가 감 돕니 다. 풍부한 영성과 높은 이상을 상징하는 카드입니다. 지적인 문제와 마주하는 성실한 태도를 나타냅니다. 고풍적인 플라톤의 생각, 근면한 자세가 당신에게 도움이 될 것입니다. 마음의 섬세함과 한결같음을 나타낼 수도 있습니다.</p>";
+  } else {
+    return "<p>성실함이 지나쳐버리는 것을 나타냅니다. 결벽이거나 완벽주의이거나 당신을 살기 어렵게 만들 가능성이 있습니다. 영성이 흐트러지고 있어서 의심과 불안에 휩싸인다 볼 수 있을 것입니다.</p>";
+  }
+}
 var HighPriestess = {
   name: "The High Priestess",
   index: 2,
@@ -73,24 +80,16 @@ var HighPriestess = {
   rw_addendum:
     "Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male;\n \
     the Querent herself, if female; silence, tenacity; mystery, wisdom, science. Reversed: Passion, moral or physical ardour, conceit, surface knowledge.",
-  rw_meaning:
-    "<p>She has the lunar crescent at her feet, a horned diadem on her head, with a globe in the middle place, and \
-    a large solar cross on her breast. The scroll in her hands is inscribed with the word Tora, signifying the Greater Law, \
-    the Secret Law and the second sense of the Word. It is partly covered by her mantle, to shew that some things are implied and \
-    some spoken. She is seated between the white and black pillars--J. and B.--of the mystic Temple, and the veil of the Temple is behind her: \
-    it is embroidered with palms and pomegranates. The vestments are flowing and gauzy, and the mantle suggests light--a shimmering radiance.</p><p>\
-    She has been called occult Science on the threshold of the Sanctuary of Isis, but she is really the Secret Church, the House which is of God and man.\
-    She represents also the Second Marriage of the Prince who is no longer of this world; she is the spiritual Bride and Mother, the daughter\
-    of the stars and the Higher Garden of Eden. She is, in fine, the Queen of the borrowed light, but this is the light of all. She is the Moon\
-    nourished by the milk of the Supernal Mother.</p><p> \
-    In a manner, she is also the Supernal Mother herself--that is to say, she is the bright reflection. It is in this sense of reflection that her truest\
-    and highest name in bolism is Shekinah--the co-habiting glory. According to Kabalism, there is a Shekinah both above and below. \
-    In the superior world it is called Binah, the Supernal Understanding which reflects to the emanations that are beneath. \
-    In the lower world it is Malkuth--that world being, for this purpose, understood as a blessed Kingdom that with which\
-    it is made blessed being the Indwelling Glory. Mystically speaking, the Shekinah is the Spiritual Bride of the just man, and when \
-    he reads the Law she gives the Divine meaning. There are some respects in which this card is the highest and holiest of the Greater Arcana.</p>"
+  rw_meaning: HighPriestess()
 };
 
+function Empress() {
+  if (u == 0) {
+    return "<p>풍부하게 여무는 자연에 둘러싸여 호화로운 의자에 느긋하게 앉아 있는 아름다운 여제. 사랑스러운 표정의 그녀는 임신하고 있는 것 같습니다. 모든 풍요와 결실을 나타내는 카드입니다. 모든 것을 받아들이는 포용력과 대가를 요구하지 않고 주는 사랑이 번영을 제공합니다. 물질적인 보상이나 성공뿐만 아니라 사랑과 여유와 같은 형태가 없는 것까지도 얻을 수 있을 것입니다.</p>";
+  } else {
+    return "<p>다소 풍요로움이 과도한 상태입니다. 주어진 것  또는 가지고 있는 것에 대한 고마움을 잊고 오만하고 게으른 생각을 하고 있습니다. 달콤한 전망으로 나중에 눈을 당하는지도 모릅니다. 풍요로움이 부족하거나 고갈 등을 나타내는 수도 있습니다.</p>";
+  }
+}
 var Empress = {
   name: "The Empress",
   index: 3,
@@ -104,22 +103,16 @@ var Empress = {
   rw_addendum:
     "Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.\n\
     Reversed: Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.",
-  rw_meaning:
-    "<p>A stately figure, seated, having rich vestments and royal aspect, as of a daughter of heaven and earth. Her diadem \
-    is of twelve stars, gathered in a cluster. The symbol of Venus is on the shield which rests near her. A field of corn is ripening \
-    in front of her, and beyond there is a fall of water. The sceptre which she bears is surmounted by the globe of this world. She is the \
-    inferior Garden of Eden, the Earthly Paradise, all that is symbolized by the visible house of man. She is not Regina coeli, but she is still\
-    refugium peccatorum, the fruitful mother of thousands. There are also certain aspects in which she has been correctly described as desire \
-    and the wings thereof, as the woman clothed with the sun, as Gloria Mundi and the veil of the Sanctum Sanctorum; but she is not, I may \
-    add, the soul that has attained wings, unless all the symbolism is counted up another and unusual way. She is above all universal fecundity \
-    and the outer sense of the Word. This is obvious, because there is no direct message which has been given to man like that which is borne by woman; \
-    but she does not herself carry its interpretation.</p><p>\n\
-    In another order of ideas, the card of the Empress signifies the door or gate by which an entrance is obtained into this life, as into the Garden \
-    of Venus; and then the way which leads out therefrom, into that which is beyond, is the secret known to the High Priestess; it is communicated \
-    by her to the elect. Most old attributions of this card are completely wrong on the symbolism-- as, for example, its identification with the \
-    Word, Divine Nature, the Triad, and so forth.</p>"
+  rw_meaning: Empress()
 };
 
+function Emperor() {
+  if (u == 0) {
+    return "<p>깎아지른 절벽에 있는 왕좌에 위엄 넘치는 앉아있는 황제. 야망과 통솔력에 차있으며 사람들을 지배하고 있습니다. 건설적인 노력을 통해 지역 사회를 안정시키는 데 성공하고 있는 상태. 확실한 실력과 경험, 자신감과 인품을 인정받아 사람들로부터 신뢰를 얻을 수 있을 것입니다. 또는 당신에게 권위를 가진 사람이 당신에게 크게 영향을 미칠 가능성을 보여줍니다.</p>";
+  } else {
+    return "<p>노력과 인품을 바탕으로 하지 않는 권위가 사람들을 억누르는 감이 있습니다. 사람과의 관계를 유지하려고 해도 실제 역부족인 것이 밝혀지면서 신뢰 관계가 무너지는 것입니다. 회사, 학교, 친구 관계 가족 관계 등 커뮤니티의 규모와 상관없이 늘 행동을 조심해야 합니다.</p>";
+  }
+}
 var Emperor = {
   name: "The Emperor",
   index: 4,
@@ -131,19 +124,9 @@ var Emperor = {
   img:
     "https://upload.wikimedia.org/wikipedia/en/c/c3/RWS_Tarot_04_Emperor.jpg",
   rw_addendum:
-    "Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.\n\
-    Reversed: Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
-  rw_meaning:
-    "<p>He has a form of the Crux ansata for his sceptre and a globe in his left hand. He is a crowned monarch--commanding, stately, \
-    seated on a throne, the arms of which are fronted by rams' heads. He is executive and realization, the power of this world, here clothed \
-    with the highest of its natural attributes. He is occasionally represented as seated on a cubic stone, which, however, confuses some of the issues. \
-    He is the virile power, to which the Empress responds, and in this sense is he who seeks to remove the Veil of Isis; yet she remains virgo intacta.</p><p>\n\
-    It should be understood that this card and that of the Empress do not precisely represent the condition of married life, though this state is implied. \
-    On the surface, as I have indicated, they stand for mundane royalty, uplifted on the seats of the mighty; but above this there is the suggestion \
-    of another presence. They signify also--and the male figure especially--the higher kingship, occupying the intellectual throne. Hereof is \
-    the lordship of thought rather than of the animal world. Both personalities, after their own manner, are 'full of strange experience', but \
-    theirs is not consciously the wisdom which draws from a higher world. The Emperor has been described as (a) will in its embodied form, but this is \
-    only one of its applications, and (b) as an expression of virtualities contained in the Absolute Being--but this is fantasy.</p>"
+    "사회성 권위, 지배, 안정, 행동력, 성취, 달성, 완전 강한 긍정, 능력자, 사업자기질, 완벽주의\n\
+    역방향: 낭비하는, 의심 많은, 자기 주장이 강함, 게으름",
+  rw_meaning: Emperor()
 };
 
 var Hierophant = {
