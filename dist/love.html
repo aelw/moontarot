@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Tarot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="./style.css">
+
+  
+<style>
+  @font-face {
+    font-family: 'a';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/국립박물관문화재단클래식B.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+  a {color:#fff;text-decoration:none}
+  html {font-family: 'a', monospace !important;color:#fff !important}
+</style>
+  
+</head>
+  
+ 
+<img onClick="javascript:window.scrollTo(0,0)" style='width:50px;position:fixed;padding:10px'src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/waxing-crescent-moon-symbol_1f312.png'>    
+  
+<body>
+<main>
+
+<div style='text-align:right !important'><h3><a href=''>오늘의 운세</a></h3></div>
+<div style='text-align:right !important'><h3>이달의 운세</h3></div>
+<div style='text-align:right !important'><h3>올해의 운세</h3></div>
+<div style='text-align:right !important'><h3>애정운</h3></div>
+<div style='text-align:right !important'><h3>학업운</h3></div>
+<div style='text-align:right !important'><h3>금전운</h3></div>
+<!--<div style='text-align:right !important' onclick="erase_display()"><h3>Clear</h3></div>
+  
+    onclick="show_all_cards()" -->
+ 
+  <div class="grid-container-overall">
+    <div class="grid-container-cross-part">
+      <div class="cross-col-1">
+        <div class="grid-item-cross" id="celtic-num-3">
+        </div>
+      </div>
+      <div class="cross-col-2">
+        <div class="grid-item-cross" id="celtic-num-5">
+        </div>
+        <div class="special-grid-item-middle">
+          <div class="special-grid-item-1" id="celtic-num-1">
+          </div>
+          <div class="special-grid-item-2" id="celtic-num-2">
+          </div>
+        </div>
+        <div class="grid-item-cross" id="celtic-num-6">
+        </div>
+      </div>
+      <div class="cross-col-3">
+        <div class="grid-item-cross" id="celtic-num-4">
+        </div>
+      </div>
+    </div>
+
+    <div class="grid-container-staff-part">
+      <div class="grid-item-staff" id="celtic-num-7">
+      </div>
+      <div class="grid-item-staff" id="celtic-num-8">
+      </div>
+      <div class="grid-item-staff" id="celtic-num-9">
+      </div>
+      <div class="grid-item-staff" id="celtic-num-10">
+      </div>
+    </div>
+  </div>
+
+  <div id="explanation-display">
+    <div id="results"></div>
+    <!--     <p id="results-array"></p> -->
+    <!--     <ol id="results"></ol> -->
+
+    <!-- <div class="placard-container" id="celtic-exp-1">
+      <p class="placard-container-item celtic-identifier-name">Celtic Card Name</p>
+      <div class="placard-container-item card-container" style="flex-grow: 2">
+        <img width=55 height=200px class="card-image card-container-item">
+        <p class="card-container-item card-name"></p>
+      </div>
+      <p class="placard-container-item card-explanation" style="flex-grow: 3"></p>
+    </div> -->
+  </div>
+</div>
+
+<!--   <button onclick="show_indexed_card(0)">Click to draw King of Pentacles card</button>-->
+
+<script></script>
+  
+</main>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.2/particles.min.js'></script><script  src="./script.js"></script>
+
+<script>
+window.onload = function(){
+var a = document.getElementById( 'hel' );
+draw_celtic_cross();
+}
+</script>
+  
+</body>
+</html>
