@@ -21,7 +21,7 @@ var Fool = {
   suit: "NA",
   element: "NA",
   zodiac_sign: "NA",
-  direction: upright_or_reversed(),
+  direction: "정방향",
   img: "https://upload.wikimedia.org/wikipedia/en/9/90/RWS_Tarot_00_Fool.jpg",
   rw_addendum:
     "어리석음, 조증, 사치, 도취, 정신 착란, 광란, 비통함.\n \
