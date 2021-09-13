@@ -17,9 +17,9 @@ function upright_or_reversed() {
 
 function fool() {
   if (u == 0) {
-    return "<p>절벽을 향해 발을 디디려고 하는 젊은 여행자. 개가 그곳은 위험하다고 경고를 해주고 있지만, 그는 마치 아무것도 모른 채 자신감이 있어 보이는 것 같습니다. 고정관념이나 상식, 대중의 시선에 얽매이지 않는 자유로운 가치관을 나타냅니다. 미래는 불확실하고, 한 치 앞도 어떻게 될지 모르겠지만, 그래도 \"어떻게든 될 것\"이라고 낙관적으로 보입니다.</p>";
+    return "<p>Opportunity knocks! With the Fool in your career, it may be time to go for that new job or start your own business that you’ve been dreaming of. Other people may try to put you off or may not understand what you’re doing, be patient with them and try to make them understand but do not let them deter you. For current projects it indicates fresh new ideas and being reinvigorated with energy. The Fool indicates big opportunities for advancement. Be clever and research your opportunities and the risk but don’t be afraid to take the plunge! Financially, if you take the chance and work hard you will make more than you thought you would.</p>";
   } else {
-    return "<p>아무것도 결정하지 않은 등 부정적으로 작용합니다. 불안해하거나 제멋대로이거나 게으른, 불성실한 태도를 취했다고 할 수 있습니다. 변덕이나 무책임한 모습은 주위에서 보기에 신용을 깎아내릴 수 있는 원인이 되어 버립니다.</p>";
+    return "<p>Financially, the fool reversed shows some potentially promising financial opportunities but exercise caution and do your homework before committing to anything. You don’t want to be taken advantage of. Career-wise you may be becoming restless in your current position or thinking of going out on your own. Think before you act! Or you may simply be holding back your best ideas due to a lack of confidence, don’t be afraid to put yourself out there and assert yourself. Your ideas are just as valid as everyone else’s. Don’t be afraid to speak up.</p>";
   }
 }
 var Fool = {
