@@ -17,9 +17,9 @@ function upright_or_reversed() {
 
 function fool() {
   if (u == 0) {
-    return "<p>절벽을 향해 발을 디디려고 하는 젊은 여행자. 개가 그곳은 위험하다고 경고를 해주고 있지만, 그는 마치 아무것도 모른 채 자신감이 있어 보이는 것 같습니다. 고정관념이나 상식, 대중의 시선에 얽매이지 않는 자유로운 가치관을 나타냅니다. 미래는 불확실하고, 한 치 앞도 어떻게 될지 모르겠지만, 그래도 \"어떻게든 될 것\"이라고 낙관적으로 보입니다.</p>";
+    return "<p>The first card of the Major Arcana, The Fool is generally a positive card indicating new beginnings. If it appears in your readings it could mean that you are on the verge of an exciting, unexpected new adventure. Your new adventure will bring you along a path which may require you to make a leap of faith but you will grow as a result of this new experience. This new adventure could be a literal new adventure, like travelling to a place you’ve never been before. The change this card can bring will usually be a welcome one. While the Fool is generally a positive card, its appearance in a reading can also indicate that you need to take the time to look before you leap.</p>";
   } else {
-    return "<p>아무것도 결정하지 않은 등 부정적으로 작용합니다. 불안해하거나 제멋대로이거나 게으른, 불성실한 태도를 취했다고 할 수 있습니다. 변덕이나 무책임한 모습은 주위에서 보기에 신용을 깎아내릴 수 있는 원인이 되어 버립니다.</p>";
+    return "<p>As with the upright meaning, The Fool reversed signifies a new beginning. However, when reversed this Major Arcana trump card indicates that the beginning is something you may be reluctant to jump into. This new beginning is still coming either way! The Fool tarot card reversed can be an indication of living in the moment but also can be a sign that in your excitement you are behaving somewhat recklessly towards others. It can signify being irrational, lack of fun and lack of faith or hope.</p>";
   }
 }
 var Fool = {
