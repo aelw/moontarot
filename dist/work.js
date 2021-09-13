@@ -17,9 +17,9 @@ function upright_or_reversed() {
 
 function fool() {
   if (u == 0) {
-    return "<p>절벽을 향해 발을 디디려고 하는 젊은 여행자. 개가 그곳은 위험하다고 경고를 해주고 있지만, 그는 마치 아무것도 모른 채 자신감이 있어 보이는 것 같습니다. 고정관념이나 상식, 대중의 시선에 얽매이지 않는 자유로운 가치관을 나타냅니다. 미래는 불확실하고, 한 치 앞도 어떻게 될지 모르겠지만, 그래도 \"어떻게든 될 것\"이라고 낙관적으로 보입니다.</p>";
+    return "<p>The Fool bodes well for physical health if you have been ill as it indicates vitality and energy. However, it can also indicate being accident prone so if you get the Fool for health be extra careful. It can also represent pregnancy as it represents the beginning of a new life.</p>";
   } else {
-    return "<p>아무것도 결정하지 않은 등 부정적으로 작용합니다. 불안해하거나 제멋대로이거나 게으른, 불성실한 태도를 취했다고 할 수 있습니다. 변덕이나 무책임한 모습은 주위에서 보기에 신용을 깎아내릴 수 있는 원인이 되어 버립니다.</p>";
+    return "<p>When The Fool reversed is in a health reading it indicates trying out alternative treatments could be helpful in resolving any health issues. Also the tendency to be accident prone is stronger when this is in your reading so be mindful of your surroundings.</p>";
   }
 }
 var Fool = {
