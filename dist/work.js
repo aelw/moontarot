@@ -13,7 +13,7 @@ function upright_or_reversed() {
   }
 }
 
-/*=================================MAJOR ARCANA===================================*/
+/*heath=================================MAJOR ARCANA===================================*/
 
 function fool() {
   if (u == 0) {
@@ -39,9 +39,9 @@ var Fool = {
 
 function Magician() {
   if (u == 0) {
-    return "<p>자신감에 찬 표정으로 지팡이를 내거는 마술사. 그는 무에서 유를 만들어내는 힘을 가지고 요소를 자유자재로 조종할 수 있습니다. \"자신이, 무엇으로, 앞으로 어떻게 하고 싶은가\"라는 정체성과 목적의식이 뚜렷합니다. 자발적으로 생각하고 행동을 취할 수 있습니다. 그것은 꿈을 이루는 것이나 사람에게 인정받게 되는 것입니다.</p>";
+    return "<p>Your strength and good health may be making a comeback if you have been ill recently or feeling drained. If your illness or ill health is not improving you may benefit from trying alternative therapies.  The Magician Tarot can indicate that an experienced, powerful healer may be needed to give you the healing boost you need.</p>";
   } else {
-    return "<p>정체성과 목적 의식이 뚜렷하지 않습니다. 아직 진정한 자신이 성숙되지 않은지도 모릅니다. 사람의 의견에 휩쓸리기 쉽기 때문에 사기당할 위험성도 높아지고 있습니다. 조심하세요.</p>";
+    return "<p>The Magician Tarot card reversed is still generally a positive card indicating that you need to believe in your ability to heal in order to manifest that healing. However, for mental health issues involving any sort of hallucinations, psychosis or paranoia, The Magician reversed indicates that you should seek the help of an experienced professional sooner rather than later.</p>";
   }
 }
 var Magician = {
@@ -62,9 +62,9 @@ var Magician = {
 
 function HighPriestess() {
   if (u == 0) {
-    return "<p>대지 모신의 왕관을 받은 신비로운 여성의 사제가 바다가 보이는 성전에서 혼자 경전을 손에 지니고 있습니다. 주위에는 엄숙한 분위기가 감 돕니 다. 풍부한 영성과 높은 이상을 상징하는 카드입니다. 지적인 문제와 마주하는 성실한 태도를 나타냅니다. 고풍적인 플라톤의 생각, 근면한 자세가 당신에게 도움이 될 것입니다. 마음의 섬세함과 한결같음을 나타낼 수도 있습니다.</p>";
+    return "<p>The High Priestess is generally telling you to listen to the messages your body is trying to send you about what it needs. The High Priestess can indicate that you are not being taken seriously in relation to your health concerns. Don’t allow your concerns to be ignored! The High Priestess can also symbolise fertility and hormones coming into balance and menstruation.</p>";
   } else {
-    return "<p>성실함이 지나쳐버리는 것을 나타냅니다. 결벽이거나 완벽주의이거나 당신을 살기 어렵게 만들 가능성이 있습니다. 영성이 흐트러지고 있어서 의심과 불안에 휩싸인다 볼 수 있을 것입니다.</p>";
+    return "<p>If you have been isolating yourself from the world, you would do well to get active. The High Priestess reversed can indicate menstruation issues for women, hormonal imbalances and/or fertility issues. As in the upright meaning, if you feel you have a health issue that is not being taken seriously, make your voice heard. Try a few different healthcare practitioners if you need to, as long as doing so doesn't delay your treatment!</p>";
   }
 }
 var HighPriestess = {
@@ -85,9 +85,9 @@ var HighPriestess = {
 
 function Empress() {
   if (u == 0) {
-    return "<p>풍부하게 여무는 자연에 둘러싸여 호화로운 의자에 느긋하게 앉아 있는 아름다운 여제. 사랑스러운 표정의 그녀는 임신하고 있는 것 같습니다. 모든 풍요와 결실을 나타내는 카드입니다. 모든 것을 받아들이는 포용력과 대가를 요구하지 않고 주는 사랑이 번영을 제공합니다. 물질적인 보상이나 성공뿐만 아니라 사랑과 여유와 같은 형태가 없는 것까지도 얻을 수 있을 것입니다.</p>";
+    return "<p>The Empress is a strong pregnancy indicator and very good omen of success for those actively trying to get pregnant. On the flip side, if you are not intending to get pregnant and you are capable of getting pregnant, The Empress is a warning to be very careful and take proper precautions! If pregnancy is not a factor in your health concerns, The Empress is an indicator that you need to nurture yourself more and listen to your body’s signals. Watch your energy levels, take time out for yourself to relax and unwind.</p>";
   } else {
-    return "<p>다소 풍요로움이 과도한 상태입니다. 주어진 것  또는 가지고 있는 것에 대한 고마움을 잊고 오만하고 게으른 생각을 하고 있습니다. 달콤한 전망으로 나중에 눈을 당하는지도 모릅니다. 풍요로움이 부족하거나 고갈 등을 나타내는 수도 있습니다.</p>";
+    return "<p>Generally in health terms, The Empress tells you to take care of your health in a productive way as you deal with your emotions. It can indicate that emotional conflicts may be causing laziness, apathy, lethargy, or binge eating. You need to exercise and do activities that make you feel good about yourself. Your health will be all the better for it. The Empress reversed in a tarot reading can also indicate fertility/ pregnancy issues. That can be an unwanted pregnancy, a difficult pregnancy, miscarriage, termination or problems conceiving depending on the supporting cards.</p>";
   }
 }
 var Empress = {
@@ -108,9 +108,9 @@ var Empress = {
 
 function Emperor() {
   if (u == 0) {
-    return "<p>깎아지른 절벽에 있는 왕좌에 위엄 넘치는 앉아있는 황제. 야망과 통솔력에 차있으며 사람들을 지배하고 있습니다. 건설적인 노력을 통해 지역 사회를 안정시키는 데 성공하고 있는 상태. 확실한 실력과 경험, 자신감과 인품을 인정받아 사람들로부터 신뢰를 얻을 수 있을 것입니다. 또는 당신에게 권위를 가진 사람이 당신에게 크게 영향을 미칠 가능성을 보여줍니다.</p>";
+    return "<p>The Emperor can mean that you may be being too hard on yourself. Reduce or eliminate activities that are too harsh on your body, avoid punishing exercise regimes and be kind to yourself. Work with your energy levels not against them. If you are having health issues, be logical in your approach to treating them. The “suck it up and get on with it” approach will not serve you well this time. If you need to rest, rest! If you’re ill, seek medical treatment and listen to your doctor’s advice.</p>";
   } else {
-    return "<p>노력과 인품을 바탕으로 하지 않는 권위가 사람들을 억누르는 감이 있습니다. 사람과의 관계를 유지하려고 해도 실제 역부족인 것이 밝혀지면서 신뢰 관계가 무너지는 것입니다. 회사, 학교, 친구 관계 가족 관계 등 커뮤니티의 규모와 상관없이 늘 행동을 조심해야 합니다.</p>";
+    return "<p>The Emperor reversed indicates that you may be being too rigid with your routine and causing yourself undue stress. This may be manifesting in physical symptoms like headaches or poor sleeping patterns. Pushing your body too far can also cause injuries. Don’t be afraid to loosen up the routine and give yourself time to relax. Alternately, if you have not been taking care of your health, The Emperor reversed can show you need to increase yourself discipline to bring yourself back to good health.</p>";
   }
 }
 var Emperor = {
@@ -129,6 +129,13 @@ var Emperor = {
   rw_meaning: Emperor()
 };
 
+function Hierophant() {
+  if (u == 0) {
+    return "<p>If you are experiencing health issues The Hierophant Tarot card indicates that conventional medicine may be the best route for you at the moment. You would also do well to introduce some sort of health routine such into your daily life e.g. exercising daily or taking vitamin supplements to boost your immune system.</p>";
+  } else {
+    return "<p>If you are ill, The Hierophant in reverse indicates that now is a good time to try alternative or holistic therapies. It will benefit you greatly. Don’t be too rigid in sticking to your normal health or exercise routines. It’s time to shake things up, try things you wouldn’t normally try and step outside your comfort zone.</p>";
+  }
+}
 var Hierophant = {
   name: "The Hierophant",
   index: 5,
@@ -142,26 +149,16 @@ var Hierophant = {
   rw_addendum:
     "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.\n\
     Reversed: Society, good understanding, concord, overkindness, weakness.",
-  rw_meaning:
-    "<p>He wears the triple crown and is seated between two pillars, but they are not those of the Temple which is guarded \
-    by the High Priestess. In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives \
-    the well-known ecclesiastical sign which is calleed that of esotericism, distinguishing between the manifest and concealed part \
-    of the doctrine. It is noticeable in this connexion that the High Priestess makes no sign. At his feet are the crossed keys, and two \
-    priestly ministers in albs kneel before him. He has been usually called the Pope, which is a particular application of the more general \
-    office that he symbolizes. He is the ruling power of external religion, as the High Priestess is the prevailing genius of the esoteric, \
-    withdrawn power. </p><p>\
-    The proper meanings of this card have suffered woeful admixture from nearly all hands. Grand Orient says truly that \
-    the Hierophant is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; \
-    but he is certainly not the prince of occult doctrine, as another commentator has suggested.\
-    He is rather the summa totius theologiae, when it has passed into the utmost rigidity of expression; \
-    but he symbolizes also all things that are righteous and sacred on the manifset side. </p><p> As such, he is the channel of grace belonging \
-    to the world of institution as distinct from that of Nature, and he is the leader of salvation for the human race at large. \
-    He is the order and the head of the recognized hierarchy, which is the reflection of another and greater hierarchic order; \
-    but it may so happen that the pontiff forgets the significance of this his symbolic state and acts as if he contained within his \
-    proper measures all that his sign signifies or his symbol seeks to shew forth. He is not, as it has been thought, philosophy--\
-    except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression."
+  rw_meaning: Hierophant()
 };
 
+function Lovers() {
+  if (u == 0) {
+    return "<p>The Lovers in a health reading is a signifier that having the right support will help you to get through any health issues. This may be a partner or friend who is offering moral support or a doctor or healthcare provider. The Lovers  can simply be an indication that you have decisions to make regarding a course of treatment. The Lovers can also be related to heart health so make sure you are taking good care of your heart when this card appears.</p>";
+  } else {
+    return "<p>The Lovers Tarot card in a reversed position indicates that you need to reconnect with how your body is feeling to bring harmony and health. At the moment, you may feel like your body is working against you but you need to learn to be kind to it and work within your energy levels. Your body is capable of amazing things but sometimes is needs rest and recuperation to restore itself. Don’t get frustrated at your body just give it the time it needs to heal.</p>";
+  }
+}
 var Lovers = {
   name: "The Lovers",
   index: 6,
@@ -174,21 +171,16 @@ var Lovers = {
   rw_addendum:
     "Attraction, love, beauty, trials overcome.\n\
     Reversed: Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
-  rw_meaning:
-    "<p>The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down influences. In the \
-    foreground are two human figures, male and female, unveiled before each other, as if Adam and Eve when they first occupied the paradise \
-    of the earthly body. Behind the man is the Tree of Life, bearing twelve fruits, and the Tree of the Knowledge of Good and Evil is behind the woman; \
-    the serpent is twining round it. The figures suggest youth, virginity, innocence and love before it is contaminated by gross material desire.\
-    This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life. It replaces, by recourse to first \
-    principles, the old card of marriage, which I have described previously, and the later follies which depicted man between vice and virtue. \
-    In a very high sense, the card is a mystery of the Covenant and Sabbath. </p><p>\
-    The suggestion in respect of the woman is that she signifies that attraction towards the sensitive life which carries within it the idea \
-    of the Fall of Man, but she is rather the working of a Secret Law of Providence than a willing and conscious temptress. It is through her \
-    imputed lapse that man shall arise ultimately, and only by her can he complete himself. The card is therefore in its way another intimation \
-    concerning the great mystery of womanhood. The old meanings fall to pieces of necessity with the old pictures, but even as interpretations \
-    of the latter, some of them were of the order of commonplace and others were false in symbolism.</p>"
+  rw_meaning: Lovers()
 };
 
+function Chariot() {
+  if (u == 0) {
+    return "<p>If you have been having health issues that have been wearing you down, you will feel a new burst of motivation and energy to tackle them. You may have a long road to recovery ahead but you are strong and you will overcome these challenges. The Chariot can also represent issues with the digestive system. It’s a great time to start a new exercise regime!</p>";
+  } else {
+    return "<p>As with the upright meaning, The Chariot reversed signifies a burst of motivation and energy .  Just remember to pace yourself and not to rush things. If starting a new exercise program remember: slow and steady wins the race. If you try to do too much too soon you could end up hurting yourself! </p>";
+  }
+}
 var Chariot = {
   name: "The Chariot",
   index: 7,
@@ -202,18 +194,16 @@ var Chariot = {
   rw_addendum:
     "Succour, providence; also war, triumph, presumption, vengeance, trouble.\n\
     Reversed: Riot, quarrel, dispute, litigation, defeat.",
-  rw_meaning:
-    "<p>An erect and princely figure carrying a drawn sword and corresponding, broadly speaking, to the traditional description which \
-    I have given in the first part. On the shoulders of the victorious hero are supposed to be the Urim and Thummim. He has led captivity captive; \
-    he is conquest on all planes--in the mind, in science, in progress, in certain trials of initiation. He has thus replied to the sphinx, \
-    and it is on this account that I have accepted the variation of Eliphas Levi; two sphinxes thus draw his chariot. He is above all things triumph in the mind.</p><p>\n\
-    It is to be understood for this reason (a) that the question of the sphinx is concerned with a Mystery of Nature and not of the world of Grace, to which the charioteer\
-    could offer no answer; (b) that the planes of his conquest are manifest or external and not within himself; (c) that the liberation which \
-    he effects may leave himself in the bondage of the logical understanding; (d) that the tests of initiation through which he has passed in triumph \
-    are to be understood physically or rationally; and (e) that if he came to the pillars of that Temple between which the High Priestess is seated, \
-    he could not open the scroll called Tora, nor if she questioned him could he answer. He is not hereditary royalty and he is not priesthood.</p>"
-};
+  rw_meaning: Chariot() 
+  };
 
+function Strength() {
+  if (u == 0) {
+    return "<p>The Strength Tarot Card  is a great card to get. It usually an indicator of good or improving health and feeling fit as a fiddle. If you have been ill, Strength reversed can represent overcoming an illness or beginning to get your strength back. It also shows the body and mind coming back into balance. Now is a good time to make positive changes to make your lifestyle healthier, especially those that require you to exercise more self-control.</p>";
+  } else {
+    return "<p>Strength in reversal is still an indicator of good health. However, you may be lacking in self-control which could be leading to bad habits that negatively affect your health. Try to reconnect with your inner self control and tackle these bad habits one at a time. Don’t try to do everything at once.  Small regular changes will accumulate into a big positive change.</p>";
+  }
+}
 var Strength = {
   name: "Strength",
   index: 8,
@@ -227,21 +217,15 @@ var Strength = {
   rw_addendum:
     "Power, energy, action, courage, magnanimity; also complete success and honours.\n\
     Reversed: Despotism, abuse if power, weakness, discord, sometimes even disgrace.",
-  rw_meaning:
-    "<p>A woman, over whose head there broods the same symbol of life which we have seen in the card of the Magician, is closing the jaws \
-    of a lion. The only point in which this design differs from the conventional presentations is that her beneficient fortitude has already subdued \
-    the lion, which is being led by a chain of flowers. For reasons which satisfy myself, this card has been interchanged with that of Justice, \
-    which is usually numbered eight. As the variation carries nothing with it which will signify to the reader, there is no cause for explanation. \
-    Fortitude, in one of its most exalted aspects, is connected wtih the Divine Mystery of Union; the virtue, of course, operates in all planes, \
-    and hence draws on all in its symbolism. It connects also with innocentia inviolata, and with the strength which resides in contemplation. </p><p>\n\
-    These higher meanings are, however, matters of inference, and I do not suggest that they are transparent on the surface of the card.\
-    They are intimated in a concealed manner by the chain of flowers, which signifies, among many other things, the sweet yoke and the light burden \
-    of Divine Law, when it has been taken into the heart of hearts. The card has nothing to do with self-confidence in the ordinary sense, though \
-    this has been suggested--but it concerns the confidence of those whose strength is God, who have found their refuge in Him. There is one aspect in which \
-    the lion signifies the passions, and she who is called Strength is the higher nature in its liberation. It has walked upon the asp and the basilisk \
-    and has trodden down the lion and the dragon.</p>"
-};
+  rw_meaning: Strength()};
 
+function Hermit() {
+  if (u == 0) {
+    return "<p>The Hermit  indicates overdoing things may lead to health issues. If you find that you’re rushed off your feet, never having a minute to take a breath, The Hermit suggests that if you don’t make time for yourself to rest and reboot your health may suffer. Take a break. Even taking a few minutes every day to meditate or just clear your mind and connect with how your body is feeling would benefit your health at this time.</p>";
+  } else {
+    return "<p>The Hermit Tarot card reversed  can be an indication of mental health issues such as agoraphobia and paranoia. It can also be a stronger warning than the upright card that you need to take time out to relax or your health may suffer.</p>";
+  }
+}
 var Hermit = {
   name: "The Hermit",
   index: 9,
@@ -254,20 +238,15 @@ var Hermit = {
   rw_addendum:
     "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.\n\
     Reversed: Concealment, disguise, policy, fear, unreasoned caution.",
-  rw_meaning:
-    "<p>The variation from conventional models in this card is only that the lamp is not enveloped partially in the mantle of its bearer, \
-    who blends the idea of the Ancient of Days with the Light of the World. It is a star which shines in the lantern. I have said that this \
-    is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence. Therefore the Hermit is not, \
-    as Court de Gebelin explained, a wise man in search of truth and justice; nor is he, as a later explanation proposes, an especial example of experience. \
-    His beacon intimates that 'where I am, you also may be.' </p><p>\n\
-    It is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of \
-    personal magnetism against admixture. This is one of the frivolous renderings which we owe to Eliphas Levi. It has been adopted by the \
-    French Order of Martinism and some of us have heard a great deal of the Silent and Unknown Philosophy enveloped by his mantle from the knowledge \
-    of the profane. In true Martinism, the significance fo the term Philosophe inconnu was of another order. It did not refer to the intended concealment \
-    of the Instituted Mysteries, much less of their substittues, but--like the card itself--to the truth that the Divine Mysteries secure their \
-    own protection from those who are unprepared.</p> "
-};
+  rw_meaning: Hermit()};
 
+function WheelFortune() {
+  if (u == 0) {
+    return "<p>Again change is the theme of Wheel of Fortune in a health reading. So if you’ve been battling health issues the wheel may start to turn in your favour. Likewise you may experience some health issues that force you to make a necessary adjustment in your life. For instance, if you’ve been pushing yourself too far mentally, physically or emotionally, you may find a bout of illness forces you to slow down and take things easy.  This may simply be the universe’s way of telling you that you need to take better care of yourself. So heed the warning and make positive adjustments that are kind to your body and health.</p>";
+  } else {
+    return "<p>Wheel of Fortune reversed can indicate that you may be finding upheaval or disruption in another area of your life is having a knock on effect on your health. Try to remain positive and avoid letting pessimism take over.  While change can be stressful, especially unwelcome change, remember that even if you can’t control the situation, you can control how you let it affect you. Don’t try to stop events from happening but make positive steps to take care of yourself and your body even through the tough times and your health will benefit.</p>";
+  }
+}
 var WheelFortune = {
   name: "Wheel of Fortune",
   index: 10,
@@ -281,21 +260,15 @@ var WheelFortune = {
   rw_addendum:
     "Destiny, fortune, success, elevation, luck, felicity.\n\
     Reversed: Increase, abundance, superfluity.",
-  rw_meaning:
-    "<p>In this symbol I have again followed the reconstruction of Eliphas Levi, who has furnished several variants. It is \
-    legitimate--as I have intimated--to use Egyptian symbolism when this serves our purpose, provided that no theory of origin is implied therein. \
-    I have, however, presented Typhon in his serpent form. The symbolism is, of course, not exclusively Egyptian, as the four Living Creatures of Ezekiel \
-    occupy the angles of the card, and the wheel itself follows other indications of Levi in respect of Ezekiel's vision, as illustrative of the \
-    particular Tarot Key. With the French occultist, and in the design itself, the symbolic picture stands for the perpetual motion of a fluidic universe \
-    and for the flux of human life. The Sphinx is the equilibrium therein. The transliteration of Taro as Rota is inscribed on the wheel, counterchanged \
-    with the letters of the Divine Name--to shew that Providence is imphed through all. But this is the Divine intention within, and the similar intention without \
-    is exemplified by the four Living Creatures. Sometimes the sphinx is represented couchant on a pedestal above, which defrauds the symbolism \
-    by stultifying the essential idea of stability amidst movement.</p><p>\
-    Behind the general notion expressed in the symbol there lies the denial of chance and the fatality which is implied therein. It may be added that, \
-    from the days of Levi onward, the occult explanations of this card are--even for occultism itself--of a singularly fatuous kind. It has been said \
-    to mean principle, fecundity, virile honour, ruling authority, etc. The findings of common fortune-telling are better than this on their own plane.</p>"
-};
+  rw_meaning: WheelFortune()};
 
+function Justice() {
+  if (u == 0) {
+    return "<p>If you’ve been having health issues, Justice can indicate that you are out of balance which is contributing to your health issues. It also cautions against overindulgence in any area of your life. Try to keep everything in moderation.</p>";
+  } else {
+    return "<p>Justice reversed indicates a need for balance but it’s a stronger indicator that a lack of balance may cause health issues. Try to make time to take care of yourself and avoid overindulgence.</p>";
+  }
+}
 var Justice = {
   name: "Justice",
   index: 11,
@@ -309,19 +282,15 @@ var Justice = {
   rw_addendum:
     "Equity, rightness, probity, executive; triumph of the deserving side in law.\n\
     Reversed: Law in all its departments, legal complications, bigotry, bias, excessive severity.",
-  rw_meaning:
-    "<p>As this card follows the traditional symbolism and carries above all its obvious meanings, there is little to say regarding it \
-    outside the few considerations collected in the first part, to which the reader is referred. \
-    It will be seen, however, that the figure is seated between pillars, like the High Priestess, and on this account it seems desirable to indicate \
-    that the moral principle which deals unto every man according to his works--while, of course, it is in strict analogy with higher things;--\
-    differs in its essence from the spiritual justice which is involved in the idea of election. The latter belongs to a mysterious order of \
-    Providence, in virtue of which it is possible for certain men to conceive the idea of dedication to the highest things. The operation of this \
-    is like the breathing of the Spirit where it wills, and we have no canon of criticism or ground of explanation concerning it. It is analogous \
-    to the possession of the fairy gifts and the high gifts and the gracious gifts of the poet: we have them or have not, and their presence \
-    is as much a mystery as their absence. The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice \
-    open into one world and the pillars of the High Priestess into another.</p>"
-};
+  rw_meaning: Justice()};
 
+function HangedMan() {
+  if (u == 0) {
+    return "<p>If you have been experiencing health issues, The Hanged Man encourages you to consider all of your treatment options. This does not mean you should reject the treatment you’ve been offered but it tells you to rethink your health issues and consider tackling them from multiple angles. It can also indicate that whatever the issue you are experiencing, you may need to just allow yourself time to heal rather than becoming frustrated that your health is not improving as quickly as you want it to. </p>";
+  } else {
+    return "<p>If you have been having health issues, The Hanged Man in a reversed position tells you that you really need to think outside the box to resolve them. You may consider the possibility that issues in other areas of your life may be aggravating or even causing your health issues. For example, stress, grief and anxiety can physically manifest themselves in a whole host of symptoms like migraines, insomnia, poor concentration, chronic fatigue, skin conditions and the list goes on. Alternative and holistic therapies could compliment your current medical treatment, boost your healing and help resolve any issues that may be exasperating your health woes.</p>";
+  }
+}
 var HangedMan = {
   name: "The Hanged Man",
   index: 12,
@@ -335,18 +304,15 @@ var HangedMan = {
   rw_addendum:
     "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.\n\
     Reversed: Selfishness, the crowd, body politic.",
-  rw_meaning:
-    "<p>The gallows from which he is suspended forms a Tau cross, while the figure--from the position of the legs--forms a fylfot cross.\
-  There is a nimbus about the head of the seeming martyr. It should be noted (1) that the tree of sacrifice is living wood, with leaves thereon;\
-  (2) that the face expresses deep entrancement, not suffering; (3) that the figure, as a whole, suggests life in suspension, but life and not death.\
-  It is a card of profound significance, but all the significance is veiled. One of his editors suggests that Eliphas Levi did not know the meaning,\
-  which is unquestionable nor did the editor himself. It has been called falsely a card of martyrdom, a card of prudence, a card of the Great Wrok,\
-  a card of duty; but we may exhaust all published interpretations and find only vanity. I will say very simply on my own part that it expresses the relation,\n\
-  in one of its aspects, between the Divine and the Universe.</p><p>\
-  He who can understand that the story of his higher nature is imbedded in this symbolism will receive intimations concerning a great awakening\
-  that is possible, and will know that after the sacred Mystery of Death there is a glorious Mystery of Resurrection.</p>"
-};
+  rw_meaning:HangedMan()};
 
+function Death() {
+  if (u == 0) {
+    return "<p>Don’t panic if you see the Death card in health reading, again the Death card only indicates physical death in extremely rare cases and only in certain combinations! If you have been feeling like your health is never going to improve, Death can signify that a change is coming. However, how you handle this change will go a long way to determining the outcome. If your health has been bad and illness has left you feeling pessimistic, try to embrace the coming changes by changing your attitude. Try to find something positive in each day even if you feel ill. You may also try a new approach that you haven’t tried before like a different diet, holistic therapy or energy healing. Know that your current state is temporary, it will change. </p>";
+  } else {
+    return "<p>Death reversed can be an indicator that you are resisting tackling your health issues or being proactive in your treatments. Maybe your health woes are physical symptoms of a deeper issue and you are resisting resolving that. Maybe you have old fears surrounding a particular type of illness and you’ve been avoiding check-ups as a result. Go and get it out of the way, it will give you renewed energy.  </p>";
+  }
+}
 var Death = {
   name: "Death",
   index: 13,
@@ -356,22 +322,16 @@ var Death = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img: "https://upload.wikimedia.org/wikipedia/en/d/d7/RWS_Tarot_13_Death.jpg",
-  rw_addendum:
-    "End, mortality, destruction, corruption; also, for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects.\n\
-  Reversed: Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.",
-  rw_meaning:
-    "<p>The veil or mask of life is perpetuated in change, transsformation and passage from lower to higher, and this is more fitly\
-  represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton. Behind it lies the \
-  whole world of ascent in the spirit. The mysterious horseman moves slowly, bearing a black banner emblazoned with the Mystic Rose, which signifies\
-   life. Between two pillars on the verge of the horizon there shines the sun of immortality. The horseman carries no visible weapon, but king and child and maiden \
-   fall before him, while a prelate with clasped hands awaits his end.</p><p>\n\
-   There should be no need to point out that the suggestion of death which I have made in connection with the previous card is, \
-   of course, to be understood mystically, but this is not the case in the present instance. The natural transit of man to the next stage \
-   of his being either is or may be one form of his progress, but the exotic and almost unknown entrance, while still in this life, into the state\
-   of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate. \
-   The existing occult explanations of the 13th card are, on the whole, better than usual, rebirth, creation, destination, renewal, and the rest.</p>"
-};
+  rw_addendum:"",
+  rw_meaning:Death()};
 
+function Temperance() {
+  if (u == 0) {
+    return "<p>The Temperance Tarot card indicates that moderation is the key to good health so if you need to get any unhealthy habits under control, you will find that now is a great time to do it. If you have been experiencing any health issues, look to the areas of your life or health where you have been overdoing it or under-doing it. Bringing balance these areas may give you the healing boost you need.  </p>";
+  } else {
+    return "<p>Temperance reversed  is a very strong indicator that you are out of balance in some areas of your life that are having a knock on effect on your health. The Temperance Tarot card reversed can also be a sign of unhealthy or harmful excesses when it appears in a Tarot spread so be mindful of what you are putting into your body at this time. You need to connect to how you are feeling, figure out what issues may be causing you to seek comfort in unhealthy ways and resolve those issues to bring your balance back.</p>";
+  }
+}
 var Temperance = {
   name: "Temperance",
   index: 14,
@@ -386,18 +346,15 @@ var Temperance = {
     "Economy, moderation, frugality, management, accommodation.\n\
   Reversed: Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent;\
   also disunion, unfortunate combinations, competing interests.",
-  rw_meaning:
-    "<p>A winged angel, with the sign of the sun upon his forehead and on his breast the square and triangle of the septenary.\
-  I speak of him in the masculine sense, but the figure is neither male nor female. It is held to be pouring the essences of life from \
-  chalice to chalice. It has one foot upon the earth and one upon the waters, thus illustrating the nature of the essences. A direct path \
-  goes up to certain heights on the verge of the horizon, and above there is a great light, through which a crown is seen vaguely. Hereof \
-  is some part of the Secret of Eternal Life, as it is possible to man in his incarnation. All the conventional emblems are renounced herein.</p><p>\
-  So also are the conventional meanings, which refer to changes in the seasons, perpetual movement of life and even the combination of ideas. \
-  It is, moreover, untrue to say that the figure symbolizes the genius of the sun, although it is the analogy of solar light, realized in the third part \
-  of our human triplicity. It is called Temperance fantastically, because, when the rule of it obtains in our consciousness, it tempers, combines and harmonises \
-  the psychic and material natures. Under that rule we know in our rational part something of whence we came and whither we are going.</p>"
-};
+  rw_meaning:Temperance()};
 
+function Devil() {
+  if (u == 0) {
+    return "<p>The Devil can indicate poor health brought about by harmful behaviour such as drug addiction, alcoholism or compulsive overeating. It is also an indicator of mental health issues such as depression, anxiety, panic attacks, bipolar, schizophrenia etc. If you feel like you have a mental health problem, please do not look to the cards to diagnose you, seek the help of a mental health professional. The Devil upright  can also indicate a silent illness like high blood pressure. If you have been feeling unwell or inexplicably exhausted, go to the doctor and get a check-up. If you have a diagnosed illness, The Devil tells you not to let it define you, while you may have some restrictions be careful that you are not putting excessive limitations on yourself out of fear of exasperating your illness.</p>";
+  } else {
+    return "<p>In a health Tarot spread, The Devil reversed is a good omen as it indicates stopping harmful habits and starting on the road to recovery so if you have suffered from any sort of addiction, you may well be getting the strength to overcome it. Stay strong and focused. It can also signify that you are starting to overcome stress, anxiety and any mental health issues that may have been causing issues in the past. It’s important to keep moving forward and to keep the momentum going with this new lease of life you’ve been given. Don’t fall back in to old patterns.</p>";
+  }
+}
 var Devil = {
   name: "The Devil",
   index: 15,
@@ -410,21 +367,15 @@ var Devil = {
   rw_addendum:
     "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.\n\
   Reversed: Evil fatality, weakness, pettiness, blindness.",
-  rw_meaning:
-    "<p>The design is an accommodation, mean or harmony, between several motives mentioned in the first part. The Horned Goat of Mendes, \
-  with wings like those of a bat, is standing on an altar. At the pit of the stomach there is the sign of Mercury. The right hand is upraised \
-  and extended, being the reverse of that benediction which is given by the Hierophant in the fifth card. In the left hand there is a great flaming torch\
-  inverted towards the earth. A reversed pentagram is on the forehead. There is a ring in front of the altar, from which two chains are carried \
-  to the necks of two figures, male and female. These are analogous with those of the fifth card, as if Adam and Eve after the Fall. Hereof \
-  is the chain and fatality of the material life.</p><p> \n\
-  The figures are tailed, to signify the animal nature, but there is human intelligence in the faces, and he who is exalted above them is not to be \
-  their master for ever. Even now, he is also a bondsman, sustained by the evil that is in him and blind to the liberty of service. With more than \
-  his usual derision for the arts which he pretended to respect and interpret as a master therein, Eliphas Levi affirms that the Baphometic figure is \
-  occult science and magic. Another commentator says that in the Divine world it signifies predestination, but there is no correspondence in that world \
-  with the things which below are of the brute. What it does signify is the Dweller on the Threshold without the Mystical Garden when those are driven forth \
-  therefrom who have eaten the forbidden fruit.</p>"
-};
+  rw_meaning: Devil()};
 
+function Tower() {
+  if (u == 0) {
+    return "<p>The Tower can represent a sudden illness or an accident so be mindful of your safety and well-being. If coupled with pregnancy cards it can indicate a difficult pregnancy, miscarriage, abortion or stillbirth. The Tower can also indicate mental health problems, which is understandable as Tower events generally bring with them extreme emotional turmoil. While the health issues The Tower represents are by no means easy, they are usually followed by a period of renewal. If health problems you are experiencing are forcing you to make changes in your life, try to go with the flow as these changes may ultimately prove to be for your best. Try to embrace them with a positive attitude. If you engage in any kind of substance abuse, The Tower is warning you to stop immediately or you may overdose.</p>";
+  } else {
+    return "<p>The Tower reversed can indicate that you may be ignoring an illness or a warning sign of an illness, hoping it will go away. You need to face this head on to give yourself the best chance at recovery. It may also indicate that a health scare may turn out to be nothing serious, and as such, you have averted disaster. Whatever the case, burying your head in the sand will not do you any good in terms of health issues.</p>";
+  }
+}
 var Tower = {
   name: "The Tower",
   index: 16,
@@ -438,23 +389,15 @@ var Tower = {
   rw_addendum:
     "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.\n\
   Reversed: According to one account, the same in a lesser degree; also, oppression, imprisonment, tyranny.",
-  rw_meaning:
-    "<p>Occult explanations attached to this card are meagre and mostly disconcerting. It is idle to indicate that it depicts mind in all \
-  its aspects, because it bears this evidence on the surface. It is said further that it contains the first allusion to a material building, but I \
-  do not conceive that the Tower is more or less material than the pillars which we have met with in three previous cases. I see nothing to warrant \
-  Papus in supposing that it is literally the fall of Adam, but there is more in favour of his alternative--that it signifes the materialization \
-  of the spiritual word. The bibliographer Christian imagines that it is the downfall of the mind, seeking to penetrate the mystery of God. \
-  I agree rather with Grand Orient that it is the ruin of the House of We, when evil has prevailed therein, and above all that it is the rending \
-  of a House of Doctrine. I understand that the reference is, however, to a House of Falsehood. It illustrates also in the most comprehensive way \
-  the old truth that 'except the Lord build the house, they labour in vain that build it.' </p><p>\n\
-  There is a sense in which the catastrophe is a reflection from the previous card, but not on the side of the symbolism which I have tried \
-  to indicate therein. It is more correctly a question of analogy; one is concerned with the fall into the material and animal state, while \
-  the other signifies destruction on the intellectual side. The Tower has been spoken of as the chastisement of pride and the intellect overwhelmed \
-  in the attempt to penetrate the Mystery of God; but in neither case do these explanations account for the two persons who are the living sufferers.\
-  The one is the literal word made void and the other its false interpretation. In  yet a deeper sense, it may signify also the end of a dispensation, \
-  but there is no possibility here for the consideration of this involved question.</p>"
-};
+  rw_meaning:Tower()};
 
+function Star() {
+  if (u == 0) {
+    return "<p>If you have been having health issues, The Star indicates that you are coming into a time of great healing. It can be a signifier for good health and for health issues being resolved in a positive way. Or it can simply signify that you will be feeling much more hopeful about your future health.</p>";
+  } else {
+    return "<p>The Star reversed can indicate that your health is not all that bad but any issues you have will be magnified by your anxiety and pessimism at the moment. You may be worrying about your health and blowing any symptoms way out of proportion rather than going for a simple check-up. Try to focus on the positive. If you are worried about a health issue, go and get it checked by a doctor to put your mind at ease. Energy healing may be beneficial to you at the moment to boost your health and help you to let go of any negative energy you’re holding onto.</p>";
+  }
+}
 var Star = {
   name: "Star",
   index: 17,
@@ -467,20 +410,15 @@ var Star = {
   rw_addendum:
     "Loss, theft, privation, abandnment; another reading says- hope and bright prospects.\n\
   Reversed: Arrogance, haughtiness, impotence.",
-  rw_meaning:
-    "<p>A great, radiant star of eight rays, surrounded by seven lesser stars--also of eight rays. The female figure \
-  in the foreground is entirely naked. Her left knee is on the land and her right foot upon the water. She pours Water of Life \
-  from two great ewers, irrigating sea and land. Behind her is rising ground and on the right a shrub or tree, whereon a bird alights.\
-  The figure expresses eternal youth and beauty. The star is l'etoile flamboyante, which appears in Masonic symbolism, but has been \
-  confused therein. That which the figure communicates to the living scene is the substance of the heavens and the elements. It has \
-  been said truly that the mottoes of this card are 'Waters of Life freely' and 'Gifts of the Spirit.'</p><p>\
-  The summary of several tawdry explantaions says that it is a card of hope. On other planes it has been certified as immortality and \
-  interior light. For the majority of prepared minds, the figure will appear as the type of Truth unveiled, glorious in undying beauty, \
-  pouring on the waters of the soul some part and measure of her priceless possession. But she is in reality the Great Mother in the \
-  Kabalistic Sephira Binah, which is supernal Understanding, who communicates to the Sephiroth that are below in the measure \
-  that they can receive her influx.</p>"
-};
+  rw_meaning:Star()};
 
+function Moon() {
+  if (u == 0) {
+    return "<p>The Moon can signify mental health issues. It can be an indicator of anxiety disorders and depression. The Moon may also be telling you to trust your instincts in relation to your health. If you feel you have an underlying health problem, go get a check-up and push for as many tests as you need to get to the bottom of what’s affecting you. For women, The Moon can indicate a health issue relating to the menstrual cycle or being affected by a hormonal imbalance in some way.</p>";
+  } else {
+    return "<p>The Moon reversed can be a positive card in relation to health issues as it can indicate lifting of mental health issues such as depression or anxiety. However, it can also be an indicator of being unable to separate reality from fantasy and as such, if the supporting cards are negative, it can indicate an illness involving delusions or paranoia becoming worse. Generally  The Moon reversed shows stability returning to your health in general. If you have been awaiting the results of health test or had issues with waiting for a diagnosis, you will soon get clarity on what is causing health problems for you.</p>";
+  }
+}
 var Moon = {
   name: "The Moon",
   index: 18,
@@ -493,19 +431,15 @@ var Moon = {
   rw_addendum:
     "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.\n\
   Reversed: Instability, inconstancy, silence, lesser degrees of deception and error.",
-  rw_meaning:
-    "<p>The distinction between this card and some of the conventional types is that the moon is increasing on what is called \
-  the side of mercy, to the right of the observer. It has sixteen chief and sixteen secondary rays. The card represents life of the imagination \
-  apart from life of the spirit. The path between the towers is the issue into the unknown. The dog and wolf are the fears of the natural \
-  mind in the presence of that place of exit, when there is only reflected light to guide it.<p></p>\
-  The last reference is a key to another form of symbolism. The intellectual light is a reflection and beyond it is the unknown mystery\
-  which it cannot shew forth. It illuminates our animal nature, types of which are represented below--the dog, the wolf and that which comes up\
-  out of the deeps, the nameless and hideous tendency which is lower than the savaage beast. It strives to attain manifestation, symbolized \
-  by crawling from the abyss of water to the land, but as a rule it sinks back whence it came. The face of the mind directs a calm gaze \
-  upon the unrest below; the dew of thought falls; the message is: Peace, be still; and it may be that there shall come a calm upon the animal nature, \
-  while the abyss beneath shall cease from giving up a form.</p>"
-};
+  rw_meaning:Moon()};
 
+function Sun() {
+  if (u == 0) {
+    return "<p>The Sun Tarot card is the Major Arcana card of positivity, optimism, freedom and fun. When The Sun appears in an upright position, things should be going well for you as this card also represents success and enthusiasm. You will find that people are drawn to the happy vibes and positive energy you are giving out and you will bring light and joy to everyone and everything you come into contact with. You will be feeling carefree, liberated and self-assured. It is also the card of truth so if you have been the victim of lies or deception, The Sun is coming to shine its light on the deceit to reveal the truth and the perpetrators of the lies. The Sun Tarot card in an upright position also signifies good luck. Any problems you have been experiencing will melt away with the warmth this card brings. It can also indicate travel to a country with a warm climate.</p>";
+  } else {
+    return "<p>In a general context, The Sun Tarot card reversed can indicate sadness, depression and pessimism. You may be finding it difficult to focus on the positive with this card in your Tarot reading. The Sun reversed does not usually mean that your situation or circumstances are all that bad but that you are feeling pessimistic and focusing on the negative which is affecting your outlook on life. It can signify a lack of enthusiasm for life, being unclear on the right path to take or being unable to see the way forward. This Major Arcana card may show that you are letting negative energy/thoughts close you off to the happiness and joy that is all around you. You have the power to change this by simply allowing yourself to be open to the positive things that are coming your way and by finding gratitude for the good things in your life.  The Sun reversed can also be an indicator of being overly enthusiastic or confident to the point that it becomes a negative trait. For example, you may be being so overly confident that you are actually becoming egotistical or arrogant. Or you may be so enthusiastic about achieving your goals that you haven’t stopped to check if they are actually realistic.</p>";
+  }
+}
 var Sun = {
   name: "The Sun",
   index: 19,
@@ -518,19 +452,15 @@ var Sun = {
   rw_addendum:
     "Material happiness, fortunate marriage, contentment.\n\
   Reversed: The same in a lesser sense.",
-  rw_meaning:
-    "<p>The naked child mounted on a white horse and displaying a red standard has been mentioned already as the better symbolism \
-  connected with this card. It is the destiny of the Supernatural East and the great and holy light which goes before the endless procession \
-  of humanity, coming out from the walled garden of the sensitive life and passing on the journey home. The card signifies, therefore, the transit \
-  from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes before aspiration \
-  and is typified by the heart of a child.</p>\n\
-  <p>But the last allusion is again the key to a different form or aspect of the symbolism. The sun is that of consciousness in the spirit-- \
-  the direct antithesis of the reflected light. The characteristic type of humanity has become a little child therein--a child in the sense of \
-  simplicity and innocence in the sense of wisdom. In that simplicity, he bears the seal of Nature and of Art; in that innocence, he signifies \
-  the restored world. When the self-knowing spirit has dawned in the consciousness above the natural mind, that mind in its renewal leads forth \
-  the animal nature in a state of perfect conformity.</p>"
-};
+  rw_meaning:Sun()};
 
+function Judgment() {
+  if (u == 0) {
+    return "<p>Judgement can signify a period of healing and wholeness after a difficult illness. You have come through the tough times, learned from them and you are ready and willing to take all necessary steps to help you on the road to recovery.</p>";
+  } else {
+    return "<p>If you suffer from a long-term illness or injury, Judgement reversed may be telling you to let go of any old negativity especially if it’s relating to someone who may have caused or contributed to your injury or illness. Holding onto negativity will only make your recovery more difficult. You have to accept where you are and let go of the past if you want to move forward.</p>";
+  }
+}
 var Judgment = {
   name: "Judgment",
   index: 20,
@@ -544,20 +474,15 @@ var Judgment = {
   rw_addendum:
     "Change of position, renewal, outcome. Another account specifies total loss through lawsuit.\n\
   Reversed: Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
-  rw_meaning:
-    "<p>I have said that this symbol is essentially invariable in all Tarot sets, or at least the variations do not alter its character.\
-  The great angel is here encompassed by clouds, but he blows his bannered trumpet, and the cross as usual is displayed on the banner. The dead are \
-  rising from their tombs--a woman on the right, a man on the left hand, and between them their child, whose back is turned. But in this card \
-  there are more than three who are restored, and it has been thought worth while to make this variation as illustrating the insufficiency of current explanations. \
-  It should be noted that all the figures are as one in the wonder, adoration and ecstasy expressed by their attitudes. It is the card which \
-  registers the accomplishment of the great work of transformation in answer to the summons of the Supernal--which summons is heard and answered from within.</p><p>\
-  Herein is the intimation of a significance which cannot well be carried further in the present place. What is that within us which does sound \
-  a trumpet and all that is lower in our nature rises in response--almost in a moment, almost in the twinkling of an eye? Let the card continue \
-  to depict, for those who can see no further, the Last judgment and the resurrection in the natural body; but let those who have inward eyes look \
-  and discover therewith. They will understand that it has been called truly in the past a card of eternal life, and for this reason it may be \
-  compared with that which passes under the name of Temperance.</p>"
-};
+  rw_meaning:Judgment()};
 
+function World() {
+  if (u == 0) {
+    return "<p>If you have been battling an illness or injury, The World is an excellent card to get as it represents successfully coming through adversity. It is a great omen for recovery. Your health generally should be on the up if The World appears in a health Tarot spread. </p>";
+  } else {
+    return "<p>if you have been suffering from an illness, The World reversed can indicate that you need to rethink your treatments. If you have been trying the same things over and over and they have not been working, The World reversed is telling to try something different. This does not mean ignore your doctor’s advice but maybe try a holistic approach in conjunction with your current treatments that will compliment them and boost your health. However, if you have been failing to complete treatments like a course of medication or complete a fitness plan, The World reversed tells you to stop trying to take shortcuts and finish what you’ve started, if you want to resolve your health issues.</p>";
+  }
+}
 var World = {
   name: "The World",
   index: 21,
@@ -570,18 +495,7 @@ var World = {
   rw_addendum:
     "Assured success, recompense, voyage, route, emigration, flight, change of place.\n\
   Reversed: Inertia, fixity, stagnation, permanence.",
-  rw_meaning:
-    "<p>As this final message of the Major Trumps is unchanged--and indeed unchangeable--in respect of its design, it has been partly \
-  described already regarding its deeper sense. It represents also the perfection and end of the Cosmos, the secret which is within it, the rapture \
-  of the universe when it understands itself in God. It is further the state of the soul in the consciousness of Divine Vision, reflected from \
-  the self-knowing spirit. But these meanings are without prejudice to that which I have said concerning it on the material side.</p><p> \n\
-  It has more than one message on the macrocosmic side and is, for example, the state of the restored world when the law of manifestation \
-  shall have been carried to the highest degree of natural perfection. But it is perhaps more especially a story of the past, referring to \
-  that day when all was declared to be good, when the morning stars sang together and all the Sons of God shouted for joy. \
-  One of the worst explanations concerning it is that the figure symbolizes the Magus when he has reached the highest degree of initiation; \
-  another account says that it represents the absolute, which is ridiculous. The figure has been said to stand for Truth, which is, however, \
-  more properly allocated to the seventeenth card. Lastly, it has been called the Crown of the Magi.</p>"
-};
+  rw_meaning:World()};
 
 /*======================================DECK======================================*/
 

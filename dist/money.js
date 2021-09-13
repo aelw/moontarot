@@ -39,9 +39,9 @@ var Fool = {
 
 function Magician() {
   if (u == 0) {
-    return "<p>자신감에 찬 표정으로 지팡이를 내거는 마술사. 그는 무에서 유를 만들어내는 힘을 가지고 요소를 자유자재로 조종할 수 있습니다. \"자신이, 무엇으로, 앞으로 어떻게 하고 싶은가\"라는 정체성과 목적의식이 뚜렷합니다. 자발적으로 생각하고 행동을 취할 수 있습니다. 그것은 꿈을 이루는 것이나 사람에게 인정받게 되는 것입니다.</p>";
+    return "<p>In terms of money and career, The Magician Tarot points to a new opportunities presenting themselves. They will require you to make a brave move and to put your original ideas into practice. Play your cards close to your chest with certain people as The Magicians never give away their secrets. It’s a good time for promotions or starting a new business venture, you will be feeling powerful and self-assured. Big things are coming your way! You might be presented with an opportunity to mentor someone or be mentored by someone who will give you the benefit of their experience.  Your finances will be improving or you will have a great opportunity to make extra money when this card appears.</p>";
   } else {
-    return "<p>정체성과 목적 의식이 뚜렷하지 않습니다. 아직 진정한 자신이 성숙되지 않은지도 모릅니다. 사람의 의견에 휩쓸리기 쉽기 때문에 사기당할 위험성도 높아지고 있습니다. 조심하세요.</p>";
+    return "<p>In terms of money and career, The Magician Tarot reversed suggests that you are not using the skills and abilities you have to make the best of the opportunities available to you. Again you may be experiencing feelings of self-doubt. You may feel like you are not living up to your full potential but feel afraid of the risks involved in giving a new venture a go. Take the time to figure out and resolve why you are finding change so difficult, what is holding you back? It is just fear of disappointing? The Magician reversed can indicate deceitful people around you so if you are holding back on a new venture because you are unsure you can trust the other people involved, this may be an indicator that you are right to be concerned. If you are stuck in a financial rut you will need to take a proactive approach to change your circumstances.</p>";
   }
 }
 var Magician = {
@@ -62,9 +62,9 @@ var Magician = {
 
 function HighPriestess() {
   if (u == 0) {
-    return "<p>대지 모신의 왕관을 받은 신비로운 여성의 사제가 바다가 보이는 성전에서 혼자 경전을 손에 지니고 있습니다. 주위에는 엄숙한 분위기가 감 돕니 다. 풍부한 영성과 높은 이상을 상징하는 카드입니다. 지적인 문제와 마주하는 성실한 태도를 나타냅니다. 고풍적인 플라톤의 생각, 근면한 자세가 당신에게 도움이 될 것입니다. 마음의 섬세함과 한결같음을 나타낼 수도 있습니다.</p>";
+    return "<pIn a work context, The High Priestess can indicate that you may soon become aware of information or an opportunity that will be of benefit to you. The High Priestess Tarot card is an indicator of creativity and inspiration for those involved in the arts. For students, if The High Priestess Tarot card appears a good teacher may be coming into your life to help you in your studies. Be careful who you discuss your finances with. Keep them on a need to know basis.</p>";
   } else {
-    return "<p>성실함이 지나쳐버리는 것을 나타냅니다. 결벽이거나 완벽주의이거나 당신을 살기 어렵게 만들 가능성이 있습니다. 영성이 흐트러지고 있어서 의심과 불안에 휩싸인다 볼 수 있을 것입니다.</p>";
+    return "<p>In a career context, The High Priestess reversed can indicate that you have not been kept in the loop in work. You may be feeling isolated and detached as a result. The High Priestess reversed can indicate a duplicitous female so be careful who you trust. Financially speaking, make sure you understand all the conditions before taking out loans or signing contracts, again somebody may be being dishonest with you. Trust your intuition if it doesn’t feel right.</p>";
   }
 }
 var HighPriestess = {
@@ -85,9 +85,9 @@ var HighPriestess = {
 
 function Empress() {
   if (u == 0) {
-    return "<p>풍부하게 여무는 자연에 둘러싸여 호화로운 의자에 느긋하게 앉아 있는 아름다운 여제. 사랑스러운 표정의 그녀는 임신하고 있는 것 같습니다. 모든 풍요와 결실을 나타내는 카드입니다. 모든 것을 받아들이는 포용력과 대가를 요구하지 않고 주는 사랑이 번영을 제공합니다. 물질적인 보상이나 성공뿐만 아니라 사랑과 여유와 같은 형태가 없는 것까지도 얻을 수 있을 것입니다.</p>";
+    return "<p>In a career context, when The Empress appears in a Tarot reading, you will be feeling very creative and will inspire the people around you with your passion. You will be full of new ideas. For those trying to decide on a career or thinking of changing career, it is usually an indicator that you would do well in a creative field such as the Arts. Financially speaking this is a good time for cash flow. It’s also a good time to follow your intuition in terms of investments. As you reap the benefits, remember to share your abundance of wealth with those in need.</p>";
   } else {
-    return "<p>다소 풍요로움이 과도한 상태입니다. 주어진 것  또는 가지고 있는 것에 대한 고마움을 잊고 오만하고 게으른 생각을 하고 있습니다. 달콤한 전망으로 나중에 눈을 당하는지도 모릅니다. 풍요로움이 부족하거나 고갈 등을 나타내는 수도 있습니다.</p>";
+    return "<p>In a career context, The Empress reversed can indicate that you are finding your work unfulfilling or monotonous and long to do something where you feel creatively inspired. You may feel unappreciated in your work. Again this is not necessarily the case. It’s more to do with your insecurities. Now is not a time for knee-jerk reactions or big decisions career wise, it is a time to stop and wait until you feel ready. Again take some time to get to the root of how you are feeling and resolve that. In terms of finances, you will have everything you need although you may not feel confident that there is an abundance of money. Trust that as long as you continue to make responsible choices you will be financially secure. Don’t squander your money.</p>";
   }
 }
 var Empress = {
@@ -108,9 +108,9 @@ var Empress = {
 
 function Emperor() {
   if (u == 0) {
-    return "<p>깎아지른 절벽에 있는 왕좌에 위엄 넘치는 앉아있는 황제. 야망과 통솔력에 차있으며 사람들을 지배하고 있습니다. 건설적인 노력을 통해 지역 사회를 안정시키는 데 성공하고 있는 상태. 확실한 실력과 경험, 자신감과 인품을 인정받아 사람들로부터 신뢰를 얻을 수 있을 것입니다. 또는 당신에게 권위를 가진 사람이 당신에게 크게 영향을 미칠 가능성을 보여줍니다.</p>";
+    return "<p>The Emperor in a career context indicates that your hard work will be noticed and you will reap the rewards of status and success. Concentration, focus and perseverance will get you where you want to go. If you are looking for work you will need to be persistent and logical in your job search. Good opportunities are coming that will bring structure and stability to your career. Again, it can be a sign that an older male colleague or boss will provide guidance and support to you. Financially, The Emperor is a sign that you need to be responsible and practical with your finances. You need to keep reasonable control of your spending and be aware of where your money is going. At the same time, you don’t need be a tyrant when it comes to controlling spending.</p>";
   } else {
-    return "<p>노력과 인품을 바탕으로 하지 않는 권위가 사람들을 억누르는 감이 있습니다. 사람과의 관계를 유지하려고 해도 실제 역부족인 것이 밝혀지면서 신뢰 관계가 무너지는 것입니다. 회사, 학교, 친구 관계 가족 관계 등 커뮤니티의 규모와 상관없이 늘 행동을 조심해야 합니다.</p>";
+    return "<p>In a career contact, The Emperor reversed shows a lack of consistency, focus and organisation leading to problems at work. If you are finding the restrictions work imposes on you are really starting to bother you, it may be time for a change. Perhaps there is another job in your chosen field that would give you greater freedom. Perhaps you are tired of following orders and want to be your own boss. These are options to consider. Financially speaking, you may be lacking control of your finances if The Emperor Tarot card appears in the reversed position. Consider getting the help of a professional.</p>";
   }
 }
 var Emperor = {
@@ -129,6 +129,13 @@ var Emperor = {
   rw_meaning: Emperor()
 };
 
+function Hierophant() {
+  if (u == 0) {
+    return "<p>This is a good time to get involved in group or team projects career wise. You should do what’s expected of you and avoid unconventional methods at work and you will be successful. The Hierophant is a signifier for sharing knowledge so you may find you get a teacher or mentor who will help you along your career path. Alternatively, you may also become a mentor or trainer of others. Also, now is a good time to take up study in an established educational institution. Financially, this is good time to get involved low risk, conventional investment opportunities. You should stick to conventional methods of managing your money. If you need financial advice use traditional financial institutions.</p>";
+  } else {
+    return "<p>When the Hierophant reversed appears in a career context, it can be a sign of a boss or person in a position of authority being a stickler for the rules and forcing others to conform to their way of doing things. You may have to tow-the-line with this person if they outrank you but you will not be happy about it and your work environment will feel restrictive. Alternatively, it can indicate that in group or team project you will feel pressured to conform to the group consensus even though it goes against your personal belief. You may also come into contact with a teacher or mentor who will teach you things with that you will feel the need to challenge.</p>";
+  }
+}
 var Hierophant = {
   name: "The Hierophant",
   index: 5,
@@ -142,26 +149,16 @@ var Hierophant = {
   rw_addendum:
     "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.\n\
     Reversed: Society, good understanding, concord, overkindness, weakness.",
-  rw_meaning:
-    "<p>He wears the triple crown and is seated between two pillars, but they are not those of the Temple which is guarded \
-    by the High Priestess. In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives \
-    the well-known ecclesiastical sign which is calleed that of esotericism, distinguishing between the manifest and concealed part \
-    of the doctrine. It is noticeable in this connexion that the High Priestess makes no sign. At his feet are the crossed keys, and two \
-    priestly ministers in albs kneel before him. He has been usually called the Pope, which is a particular application of the more general \
-    office that he symbolizes. He is the ruling power of external religion, as the High Priestess is the prevailing genius of the esoteric, \
-    withdrawn power. </p><p>\
-    The proper meanings of this card have suffered woeful admixture from nearly all hands. Grand Orient says truly that \
-    the Hierophant is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; \
-    but he is certainly not the prince of occult doctrine, as another commentator has suggested.\
-    He is rather the summa totius theologiae, when it has passed into the utmost rigidity of expression; \
-    but he symbolizes also all things that are righteous and sacred on the manifset side. </p><p> As such, he is the channel of grace belonging \
-    to the world of institution as distinct from that of Nature, and he is the leader of salvation for the human race at large. \
-    He is the order and the head of the recognized hierarchy, which is the reflection of another and greater hierarchic order; \
-    but it may so happen that the pontiff forgets the significance of this his symbolic state and acts as if he contained within his \
-    proper measures all that his sign signifies or his symbol seeks to shew forth. He is not, as it has been thought, philosophy--\
-    except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression."
+  rw_meaning: Hierophant()
 };
 
+function Lovers() {
+  if (u == 0) {
+    return "<p>When The Lovers card appears in a career context, it can represent a business partnership between two people. If this card is representing a partnership, it will be a great partnership and mutually beneficial. You and your business partner are on the same wavelength, will work well together and be mutually supportive of each other. The Lovers in a career Tarot reading can also indicate the possibility of getting romantically involved with a work colleague. Be cautious about mixing business with pleasure, make sure you know the risks involved and are prepared for the consequences. The Lover can also signify that you have a decision to make in relation to your career path. Again it may seem like you are only faced with undesirable choices but that’s not actually the case. Gather all your facts together to make the right decision. It may indicate a big change coming or a change of job, it may seem like something you don’t want at the time but it will be good for you.  Financially, now is a good time to seek financial opportunities as you will be attracting good fortune. </p>";
+  } else {
+    return "<p>The Lovers Tarot reversed in a career context can indicate disharmony in a business partnership. If you have a business partner you need to communicate with them and ensure that you are both in agreement about the direction the business is taking and your goals for the future. Like the upright meaning, The Lovers reversed can indicate the possibility of a romance at work but it comes with a stark warning. This romance could bring you trouble in your career. Be careful, make sure you understand and are prepared to accept the consequences of mixing business with pleasure if this gets messy. Financially, The Lovers reversed can represent being financially irresponsible and making impulsive decisions in relation to money. It can indicate being materialistic and seeking instant gratification by material means. Again, be accountable for your choices and learn from your mistakes.</p>";
+  }
+}
 var Lovers = {
   name: "The Lovers",
   index: 6,
@@ -174,21 +171,16 @@ var Lovers = {
   rw_addendum:
     "Attraction, love, beauty, trials overcome.\n\
     Reversed: Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
-  rw_meaning:
-    "<p>The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down influences. In the \
-    foreground are two human figures, male and female, unveiled before each other, as if Adam and Eve when they first occupied the paradise \
-    of the earthly body. Behind the man is the Tree of Life, bearing twelve fruits, and the Tree of the Knowledge of Good and Evil is behind the woman; \
-    the serpent is twining round it. The figures suggest youth, virginity, innocence and love before it is contaminated by gross material desire.\
-    This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life. It replaces, by recourse to first \
-    principles, the old card of marriage, which I have described previously, and the later follies which depicted man between vice and virtue. \
-    In a very high sense, the card is a mystery of the Covenant and Sabbath. </p><p>\
-    The suggestion in respect of the woman is that she signifies that attraction towards the sensitive life which carries within it the idea \
-    of the Fall of Man, but she is rather the working of a Secret Law of Providence than a willing and conscious temptress. It is through her \
-    imputed lapse that man shall arise ultimately, and only by her can he complete himself. The card is therefore in its way another intimation \
-    concerning the great mystery of womanhood. The old meanings fall to pieces of necessity with the old pictures, but even as interpretations \
-    of the latter, some of them were of the order of commonplace and others were false in symbolism.</p>"
+  rw_meaning: Lovers()
 };
 
+function Chariot() {
+  if (u == 0) {
+    return "<p>With The Chariot in a work context you should be feeling very ambitious and motivated. If you have been having any issues with work colleagues that you feel may be trying to sabotage you, put your worries aside and continue to work hard and keep your self-control. Alternately, if you are job-seeking or have been feeling stuck in a rut career-wise, now is a good time to go after the job you’ve always wanted. You will beat the competition and achieve your goals! The Chariot can also represent work-related travel. In a financial context, The Chariot is a good omen that can represent overcoming obstacles. If there has been a financial challenge that has seemed insurmountable, this card indicates that this may be a good time to tackle it. It can also represent a big travel or transport related purchase such as buying a car or plane ticket or paying for a holiday etc. </p>";
+  } else {
+    return "<p>The ambition and motivation we see in The Chariot upright is still present in The Chariot reversed. However, when reversed it suggests that you are trying to run before you can walk! Work towards your goals one step at a time. Be careful not to be too forceful in your approach, it could be counterproductive and you could set yourself up for a fall. You need to take a step back and evaluate the obstacles in your way. Consider a slightly softer approach to achieving your goals. Financially, you need to be careful not to rush in investments or financial deals without properly considering them. Make sure you have all the information and have obtained solid financial advice before committing to anything. </p>";
+  }
+}
 var Chariot = {
   name: "The Chariot",
   index: 7,
@@ -202,18 +194,16 @@ var Chariot = {
   rw_addendum:
     "Succour, providence; also war, triumph, presumption, vengeance, trouble.\n\
     Reversed: Riot, quarrel, dispute, litigation, defeat.",
-  rw_meaning:
-    "<p>An erect and princely figure carrying a drawn sword and corresponding, broadly speaking, to the traditional description which \
-    I have given in the first part. On the shoulders of the victorious hero are supposed to be the Urim and Thummim. He has led captivity captive; \
-    he is conquest on all planes--in the mind, in science, in progress, in certain trials of initiation. He has thus replied to the sphinx, \
-    and it is on this account that I have accepted the variation of Eliphas Levi; two sphinxes thus draw his chariot. He is above all things triumph in the mind.</p><p>\n\
-    It is to be understood for this reason (a) that the question of the sphinx is concerned with a Mystery of Nature and not of the world of Grace, to which the charioteer\
-    could offer no answer; (b) that the planes of his conquest are manifest or external and not within himself; (c) that the liberation which \
-    he effects may leave himself in the bondage of the logical understanding; (d) that the tests of initiation through which he has passed in triumph \
-    are to be understood physically or rationally; and (e) that if he came to the pillars of that Temple between which the High Priestess is seated, \
-    he could not open the scroll called Tora, nor if she questioned him could he answer. He is not hereditary royalty and he is not priesthood.</p>"
-};
+  rw_meaning: Chariot() 
+  };
 
+function Strength() {
+  if (u == 0) {
+    return "<p>In a career context Strength indicates that now is the time to master your emotions and forge ahead. You have the skills, you have the potential, you just need to be brave and believe in yourself. Don’t let fear of failure or fear of looking foolish hold you back from doing what you want to do and reaching your potential. If you want that promotion, go for it. If you feel like you are being overlooked, make yourself known. If you’ve always thought you could run your own business, believe in yourself and make it happen. Financially, avoid impulsive decisions when it comes to spending. That’s not to say you shouldn’t spend but make sure any purchases or investments are thought through properly and not based on an emotional impulse.</p>";
+  } else {
+    return "<p>The Strength Tarot reversed is similar to the upright meaning, in that it indicates that you need to be brave and have self-belief to get ahead in your career. In the reversed position in a career Tarot reading, this Major Arcana card is a stronger indicator that you have been letting fear and anxiety hold you back. Fear of failure can be paralysing if you allow it to be. Let go of the self-doubt, it doesn’t serve you. You have more inner strength, skill and ability than you realise. You just have to believe in yourself. Once you start to gain confidence you will find more direction and focus. Others will notice this change. Financially, Strength reversed is a stronger indicator not to be impulsive with your finances now. You may have money in abundance at the moment but you don’t know how long that will last for, be smart with your money.</p>";
+  }
+}
 var Strength = {
   name: "Strength",
   index: 8,
@@ -227,21 +217,15 @@ var Strength = {
   rw_addendum:
     "Power, energy, action, courage, magnanimity; also complete success and honours.\n\
     Reversed: Despotism, abuse if power, weakness, discord, sometimes even disgrace.",
-  rw_meaning:
-    "<p>A woman, over whose head there broods the same symbol of life which we have seen in the card of the Magician, is closing the jaws \
-    of a lion. The only point in which this design differs from the conventional presentations is that her beneficient fortitude has already subdued \
-    the lion, which is being led by a chain of flowers. For reasons which satisfy myself, this card has been interchanged with that of Justice, \
-    which is usually numbered eight. As the variation carries nothing with it which will signify to the reader, there is no cause for explanation. \
-    Fortitude, in one of its most exalted aspects, is connected wtih the Divine Mystery of Union; the virtue, of course, operates in all planes, \
-    and hence draws on all in its symbolism. It connects also with innocentia inviolata, and with the strength which resides in contemplation. </p><p>\n\
-    These higher meanings are, however, matters of inference, and I do not suggest that they are transparent on the surface of the card.\
-    They are intimated in a concealed manner by the chain of flowers, which signifies, among many other things, the sweet yoke and the light burden \
-    of Divine Law, when it has been taken into the heart of hearts. The card has nothing to do with self-confidence in the ordinary sense, though \
-    this has been suggested--but it concerns the confidence of those whose strength is God, who have found their refuge in Him. There is one aspect in which \
-    the lion signifies the passions, and she who is called Strength is the higher nature in its liberation. It has walked upon the asp and the basilisk \
-    and has trodden down the lion and the dragon.</p>"
-};
+  rw_meaning: Strength()};
 
+function Hermit() {
+  if (u == 0) {
+    return "<p>The Hermit in a career context can indicate may suggest that you are putting too much focus on your career or money and materialistic pursuits, rather than sharing your attention between activities that will leave you feeling fulfilled on all levels. It can also indicate that you are wondering if you are in the right career. Money and materialism may no longer be enough to motivate you and you may find yourself seeking a new more satisfying career path.  Financially, now is a time to be mature in your approach to money and investments.</p>";
+  } else {
+    return "<p>In a career context The Hermit reversed  can indicate that it’s time to start putting  yourself out there career wise and making business connections after a period of working in solitude. You may be finding it tough to work alone and would benefit from doing some team projects or doing some consultancy work which will encourage you to interact with more people in your chosen field. Financially, now is a good time to seek the advice of a wiser, more mature person on investments or money. Don’t jump into things you don’t understand where money is concerned.</p>";
+  }
+}
 var Hermit = {
   name: "The Hermit",
   index: 9,
@@ -254,20 +238,15 @@ var Hermit = {
   rw_addendum:
     "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.\n\
     Reversed: Concealment, disguise, policy, fear, unreasoned caution.",
-  rw_meaning:
-    "<p>The variation from conventional models in this card is only that the lamp is not enveloped partially in the mantle of its bearer, \
-    who blends the idea of the Ancient of Days with the Light of the World. It is a star which shines in the lantern. I have said that this \
-    is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence. Therefore the Hermit is not, \
-    as Court de Gebelin explained, a wise man in search of truth and justice; nor is he, as a later explanation proposes, an especial example of experience. \
-    His beacon intimates that 'where I am, you also may be.' </p><p>\n\
-    It is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of \
-    personal magnetism against admixture. This is one of the frivolous renderings which we owe to Eliphas Levi. It has been adopted by the \
-    French Order of Martinism and some of us have heard a great deal of the Silent and Unknown Philosophy enveloped by his mantle from the knowledge \
-    of the profane. In true Martinism, the significance fo the term Philosophe inconnu was of another order. It did not refer to the intended concealment \
-    of the Instituted Mysteries, much less of their substittues, but--like the card itself--to the truth that the Divine Mysteries secure their \
-    own protection from those who are unprepared.</p> "
-};
+  rw_meaning: Hermit()};
 
+function WheelFortune() {
+  if (u == 0) {
+    return "<p>In a career context, again the upright Wheel of Fortune is usually a good omen and an indicator of big changes coming. If you’ve always wanted to start your own business or you’ve been considering a career change now is a good time to make the change. The universe is conspiring to help you reach your dreams so now is the moment to go for whatever you’ve been hoping for in your career. If you are happy and stable in your career, Wheel of Fortune can still be an indicator of changes coming. Even if these changes are challenging for you, they will ultimately lead to bigger and better things so embrace the change and try to go with the flow as much as possible. Financially, Wheel of Fortune also indicates change, if you have been consistently comfortable money wise, it cautions you to be prepared for the unexpected and make sure you put something by for a time when you may need it. If you’ve been experiencing financial difficulties the Wheel of Fortune Tarot card upright is an indicator that things are going to improve for you as you will have good financial luck. </p>";
+  } else {
+    return "<p>In a career context, the Wheel of Fortune reversed signifies a career becoming stagnant or a period of disruption and uncertainty in your career. Again, this Major Arcana card in reverse can show unwelcome changes coming. You must assess the decisions you’ve made about your career and honesty ask yourself if they have been the right choices to help you achieve what you want to get out of life. Have you seized the opportunities that were available to you? If not, don’t beat yourself up over it. Know that your current setbacks are only temporary. Use this time to learn from past mistakes and position yourself to seize your moment when the Wheel swings upwards again. Financially, don’t gamble or take financial risks when the Wheel of Fortune is in a reversed position. If you are feeling the pinch financially, this trump card can signify that you have neglected to put money aside or build yourself a financial safety net. Your current hardship will not last forever, when your finances improve, carry the lessons from this time forward with you.</p>";
+  }
+}
 var WheelFortune = {
   name: "Wheel of Fortune",
   index: 10,
@@ -281,21 +260,15 @@ var WheelFortune = {
   rw_addendum:
     "Destiny, fortune, success, elevation, luck, felicity.\n\
     Reversed: Increase, abundance, superfluity.",
-  rw_meaning:
-    "<p>In this symbol I have again followed the reconstruction of Eliphas Levi, who has furnished several variants. It is \
-    legitimate--as I have intimated--to use Egyptian symbolism when this serves our purpose, provided that no theory of origin is implied therein. \
-    I have, however, presented Typhon in his serpent form. The symbolism is, of course, not exclusively Egyptian, as the four Living Creatures of Ezekiel \
-    occupy the angles of the card, and the wheel itself follows other indications of Levi in respect of Ezekiel's vision, as illustrative of the \
-    particular Tarot Key. With the French occultist, and in the design itself, the symbolic picture stands for the perpetual motion of a fluidic universe \
-    and for the flux of human life. The Sphinx is the equilibrium therein. The transliteration of Taro as Rota is inscribed on the wheel, counterchanged \
-    with the letters of the Divine Name--to shew that Providence is imphed through all. But this is the Divine intention within, and the similar intention without \
-    is exemplified by the four Living Creatures. Sometimes the sphinx is represented couchant on a pedestal above, which defrauds the symbolism \
-    by stultifying the essential idea of stability amidst movement.</p><p>\
-    Behind the general notion expressed in the symbol there lies the denial of chance and the fatality which is implied therein. It may be added that, \
-    from the days of Levi onward, the occult explanations of this card are--even for occultism itself--of a singularly fatuous kind. It has been said \
-    to mean principle, fecundity, virile honour, ruling authority, etc. The findings of common fortune-telling are better than this on their own plane.</p>"
-};
+  rw_meaning: WheelFortune()};
 
+function Justice() {
+  if (u == 0) {
+    return "<p>When Justice appears in a career context, it tells you that you need to pay attention to balancing your work and personal life. Don’t forget to take adequate time out for yourself. Career is important. We all need to be able to financially support ourselves and there’s nothing wrong with having ambition. At same time, consider how many people on their deathbeds think “I wish I’d spent more time at the office.”? Remember to make time for the people who are important to you and for yourself while you’re building and maintaining a career you can be proud of. Financially, Justice can literally show you balancing your books and is a reminder that if you behave with integrity in terms of money and business you will be rewarded. If you’re going to take a bit of a gamble on something, this card is a good omen.  </p>";
+  } else {
+    return "<p>In a career context, Justice reversed may indicate that you are being treated unfairly in work. Perhaps you are being blamed for others mistakes or shortcomings. Perhaps you feel others are trying to sabotage you. Whatever the issue, don’t be hasty in your reaction. It is better to hold back and take a logical approach to resolve the issue. Don’t charge in and confront the culprits as with justice in reverse, arguments are not likely to go in your favour. Justice in reversed can also indicate that if you have not been acting with integrity in your career, your behaviour may be coming back to bite you. It can be a sign of corruption in business. Don’t try to avoid the consequences but hold your hands up and learn from your mistakes. You will be more respected for it. Justice reversed can also be a stronger indicator of a lack of work/life balance than the upright card, so be mindful of putting too much emphasis on either your work or personal life when this Major Arcana card appears in your reading. Financially, avoid risky investments or gambles as you are not likely to be in luck with this card appearing. It can indicate injustice in relation to money so be very cautious of people you are doing financial deals with at the moment, they may not be trustworthy!</p>";
+  }
+}
 var Justice = {
   name: "Justice",
   index: 11,
@@ -309,19 +282,15 @@ var Justice = {
   rw_addendum:
     "Equity, rightness, probity, executive; triumph of the deserving side in law.\n\
     Reversed: Law in all its departments, legal complications, bigotry, bias, excessive severity.",
-  rw_meaning:
-    "<p>As this card follows the traditional symbolism and carries above all its obvious meanings, there is little to say regarding it \
-    outside the few considerations collected in the first part, to which the reader is referred. \
-    It will be seen, however, that the figure is seated between pillars, like the High Priestess, and on this account it seems desirable to indicate \
-    that the moral principle which deals unto every man according to his works--while, of course, it is in strict analogy with higher things;--\
-    differs in its essence from the spiritual justice which is involved in the idea of election. The latter belongs to a mysterious order of \
-    Providence, in virtue of which it is possible for certain men to conceive the idea of dedication to the highest things. The operation of this \
-    is like the breathing of the Spirit where it wills, and we have no canon of criticism or ground of explanation concerning it. It is analogous \
-    to the possession of the fairy gifts and the high gifts and the gracious gifts of the poet: we have them or have not, and their presence \
-    is as much a mystery as their absence. The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice \
-    open into one world and the pillars of the High Priestess into another.</p>"
-};
+  rw_meaning: Justice()};
 
+function HangedMan() {
+  if (u == 0) {
+    return "<p>In a career context The Hanged Man indicates that you are feeling uncertain about your career path or feel like your career has become stagnant. You may be unclear about what steps you need to take to move your career forward. If you are struggling to make a decision, understand that you don’t have to make a decision right now. Just relax and let things unfold. Things will become clearer in time. If you’re having financial issues, The Hanged Man indicates that you need a fresh perspective. Maybe anxiety around your finances is making them seem worse than they actually are or there may be positive things happening for you in other areas that you are not appreciating because you are focusing too much on money.  </p>";
+  } else {
+    return "<p>In a work context, The Hanged Man reversed Tarot card indicates that things may not be going well but you have neither the will nor inclination to deal with the issues involved. You may be resorting to blaming others or feeling like you are powerless to change your circumstances. Now is the time to take back control of your career. Figure out what you want and go for it, don’t be a passenger in your own life especially if it’s not taking you where you want to go. Financially, this Major Arcana card can indicate that you are paralysed by your fear of financial hardship. If you are struggling to cope financially, consider seeking financial advice from a professional. A fresh perspective might be all you need to get things moving in the right direction.</p>";
+  }
+}
 var HangedMan = {
   name: "The Hanged Man",
   index: 12,
@@ -335,18 +304,15 @@ var HangedMan = {
   rw_addendum:
     "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.\n\
     Reversed: Selfishness, the crowd, body politic.",
-  rw_meaning:
-    "<p>The gallows from which he is suspended forms a Tau cross, while the figure--from the position of the legs--forms a fylfot cross.\
-  There is a nimbus about the head of the seeming martyr. It should be noted (1) that the tree of sacrifice is living wood, with leaves thereon;\
-  (2) that the face expresses deep entrancement, not suffering; (3) that the figure, as a whole, suggests life in suspension, but life and not death.\
-  It is a card of profound significance, but all the significance is veiled. One of his editors suggests that Eliphas Levi did not know the meaning,\
-  which is unquestionable nor did the editor himself. It has been called falsely a card of martyrdom, a card of prudence, a card of the Great Wrok,\
-  a card of duty; but we may exhaust all published interpretations and find only vanity. I will say very simply on my own part that it expresses the relation,\n\
-  in one of its aspects, between the Divine and the Universe.</p><p>\
-  He who can understand that the story of his higher nature is imbedded in this symbolism will receive intimations concerning a great awakening\
-  that is possible, and will know that after the sacred Mystery of Death there is a glorious Mystery of Resurrection.</p>"
-};
+  rw_meaning:HangedMan()};
 
+function Death() {
+  if (u == 0) {
+    return "<p>Death in a career context is a warning not to get too dependent on anything that is not working for you. The only thing in life that is guaranteed is that things change. If you are unhappy in your current job, start looking for a new one or the universe may force you to find a new job. If you are starting your own business but have been reluctant to quit your old job because of the security it offers, Death may be indicating that’s it’s time to consider jumping in with both feet. Money can be tightening when the Death card appears in a financial context, you may have a sudden drop in income or loss of money. If that happens don’t let it get you down, this change will lead you somewhere positive and you will learn from it. If you experience financial hardship, don’t stick your head in the sand, make practical adjustments and keep moving forward in a positive way. If you are tight on money, consider getting back to basics, swap big nights out for cosy nights in with close friends. And remember, any financial issues will be fine in the long run if you make the changes necessary.</p>";
+  } else {
+    return "<p>Like the upright meaning, The Death Tarot card reversed is an indicator that now might be time for a career change or new direction. You may be resistant to this change because you are afraid to let go of the security you have. You may like the stability and routine your career brings even if you find it unfulfilling. You may have been engaging in behaviour patterns that have stopped you from getting to where you want to be. Take time to figure out what needs to change in order to get you to the place on the career ladder you want to be and make it happen. Financially, much like the upright meaning, when this Major Arcana card appears reversed in a Tarot spread, it tell you that a financial deterioration of some sort may be inevitable and you will need to rethink how you manage your finances to get through it. Have a rethink of your spending habits, are there ways you have been wasting money that could improve your ability to manage your finances that you are resisting? Maybe you could be eliminating debt but you overspend out of habit? Let go of bad financial practices and be responsible with your money. Any hardship will only be temporary if you manage your money carefully. </p>";
+  }
+}
 var Death = {
   name: "Death",
   index: 13,
@@ -356,22 +322,16 @@ var Death = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img: "https://upload.wikimedia.org/wikipedia/en/d/d7/RWS_Tarot_13_Death.jpg",
-  rw_addendum:
-    "End, mortality, destruction, corruption; also, for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects.\n\
-  Reversed: Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.",
-  rw_meaning:
-    "<p>The veil or mask of life is perpetuated in change, transsformation and passage from lower to higher, and this is more fitly\
-  represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton. Behind it lies the \
-  whole world of ascent in the spirit. The mysterious horseman moves slowly, bearing a black banner emblazoned with the Mystic Rose, which signifies\
-   life. Between two pillars on the verge of the horizon there shines the sun of immortality. The horseman carries no visible weapon, but king and child and maiden \
-   fall before him, while a prelate with clasped hands awaits his end.</p><p>\n\
-   There should be no need to point out that the suggestion of death which I have made in connection with the previous card is, \
-   of course, to be understood mystically, but this is not the case in the present instance. The natural transit of man to the next stage \
-   of his being either is or may be one form of his progress, but the exotic and almost unknown entrance, while still in this life, into the state\
-   of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate. \
-   The existing occult explanations of the 13th card are, on the whole, better than usual, rebirth, creation, destination, renewal, and the rest.</p>"
-};
+  rw_addendum:"",
+  rw_meaning:Death()};
 
+function Temperance() {
+  if (u == 0) {
+    return "<p>In a career context, Temperance tells you that now, is a great time to set goals as you have the patience and persistence to achieve what you want. Your hard work and dedication will be noticed with Temperance upright in your Tarot spread. If you are hoping for a promotion or career advancement, Temperance tells you to be patient and not to jump at the first opportunity if there is a chance for something better further down the line. In a financial context, things should be going well as you should have balanced finances. However, be careful to practice moderation in relation to money as now is a time to maintain the balance and build your savings up at a steady pace rather than take risks with money or make risky investments. </p>";
+  } else {
+    return "<p>In a career context, the Temperance Tarot card reversed can signify an imbalance or conflict in a work situation. You may be working too hard or not working hard enough or you could be clashing with your co-workers. It can also indicate that you are ignoring or reacting negatively to constructive criticism. Whatever the issue, you need to look inward to re-balance your own energy in order to resolve this situation. Financially, if you are having issues you need to nip them in the bud immediately. Watch out for impulsive spending as you find yourself looking for instant gratification to distract you from the imbalance you're feeling inside. You need to slow down and reconnect with yourself to find peace. Excessive spending will bring you debt, not inner tranquillity!   </p>";
+  }
+}
 var Temperance = {
   name: "Temperance",
   index: 14,
@@ -386,18 +346,15 @@ var Temperance = {
     "Economy, moderation, frugality, management, accommodation.\n\
   Reversed: Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent;\
   also disunion, unfortunate combinations, competing interests.",
-  rw_meaning:
-    "<p>A winged angel, with the sign of the sun upon his forehead and on his breast the square and triangle of the septenary.\
-  I speak of him in the masculine sense, but the figure is neither male nor female. It is held to be pouring the essences of life from \
-  chalice to chalice. It has one foot upon the earth and one upon the waters, thus illustrating the nature of the essences. A direct path \
-  goes up to certain heights on the verge of the horizon, and above there is a great light, through which a crown is seen vaguely. Hereof \
-  is some part of the Secret of Eternal Life, as it is possible to man in his incarnation. All the conventional emblems are renounced herein.</p><p>\
-  So also are the conventional meanings, which refer to changes in the seasons, perpetual movement of life and even the combination of ideas. \
-  It is, moreover, untrue to say that the figure symbolizes the genius of the sun, although it is the analogy of solar light, realized in the third part \
-  of our human triplicity. It is called Temperance fantastically, because, when the rule of it obtains in our consciousness, it tempers, combines and harmonises \
-  the psychic and material natures. Under that rule we know in our rational part something of whence we came and whither we are going.</p>"
-};
+  rw_meaning:Temperance()};
 
+function Devil() {
+  if (u == 0) {
+    return "<p>In a career context, The Devil upright in your Tarot reading can indicate that you feel trapped in a job that you hate. Again, you are in control of your own life even if you don’t feel that way. Evaluate what you really want in your career and if a move is what you need, make it. Remember that it is a choice you are making if you decide to stay in a job you dislike. The Devil can also indicate a colleague or person in a career context who is deceptive and may be trying to sabotage you. Be careful who you trust, this person will be all smiles to your face and while simultaneously stabbing you in the back. In a financial context, The Devil indicates that money will be tight but it suggests that there is more you could be doing to help yourself. Watch your spending! It can easily get out of control with The Devil in your Tarot spread. Also, avoid gambling or any sort of risky or impulsive investments.</p>";
+  } else {
+    return "<p>In a career context, The Devil reversed shows that your awareness of how your behaviour and choices have influenced your current circumstances is increasing dramatically and you are ready to start taking steps to get to where you want to be. While you may have felt stuck in your job due to financial constraints or being too focused on attaining status or materialistic goals, you are starting to see the big picture and refocus on what is going to make you happy and fulfilled in your life. Seize this new motivation and don’t fall back into old habits because they are comfortable or offer more financial security. Financially speaking, if you have been engaging in gambling, excessive spending or risky behaviours with money, you are starting to regain control of yourself.</p>";
+  }
+}
 var Devil = {
   name: "The Devil",
   index: 15,
@@ -410,21 +367,15 @@ var Devil = {
   rw_addendum:
     "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.\n\
   Reversed: Evil fatality, weakness, pettiness, blindness.",
-  rw_meaning:
-    "<p>The design is an accommodation, mean or harmony, between several motives mentioned in the first part. The Horned Goat of Mendes, \
-  with wings like those of a bat, is standing on an altar. At the pit of the stomach there is the sign of Mercury. The right hand is upraised \
-  and extended, being the reverse of that benediction which is given by the Hierophant in the fifth card. In the left hand there is a great flaming torch\
-  inverted towards the earth. A reversed pentagram is on the forehead. There is a ring in front of the altar, from which two chains are carried \
-  to the necks of two figures, male and female. These are analogous with those of the fifth card, as if Adam and Eve after the Fall. Hereof \
-  is the chain and fatality of the material life.</p><p> \n\
-  The figures are tailed, to signify the animal nature, but there is human intelligence in the faces, and he who is exalted above them is not to be \
-  their master for ever. Even now, he is also a bondsman, sustained by the evil that is in him and blind to the liberty of service. With more than \
-  his usual derision for the arts which he pretended to respect and interpret as a master therein, Eliphas Levi affirms that the Baphometic figure is \
-  occult science and magic. Another commentator says that in the Divine world it signifies predestination, but there is no correspondence in that world \
-  with the things which below are of the brute. What it does signify is the Dweller on the Threshold without the Mystical Garden when those are driven forth \
-  therefrom who have eaten the forbidden fruit.</p>"
-};
+  rw_meaning: Devil()};
 
+function Tower() {
+  if (u == 0) {
+    return "<p>In a career context, The Tower may indicate a lack of job security. It can be a signifier of a redundancy or job loss. However, it may also indicate a big change in your current position which will bring you unwelcome stress and may prove difficult but could ultimately lead to a better position or more security. For instance, the company you work for could be bought over by another company which could cause you a lot of stress or uncertainty for a while but may eventually lead to a more secure job. Financially speaking, The Tower warns to you to be careful with money. In its extreme negative, The Tower can represent bankruptcy. Avoid risky investments. There may be an unexpected upheaval coming in financial terms so if you haven’t put any money aside for a rainy day, you'd better do so quickly.</p>";
+  } else {
+    return "<p>In a career context, The Tower reversed can indicate that you may be managing to hold onto your job in difficult circumstances. This can be simply a sign that you are successfully avoiding a job loss. However, if you are avoiding something you perceive as a career disaster and rather than feel relieved you find yourself unhappy or dissatisfied, consider that this outcome may not actually be the best thing for you. Sometimes being out of our comfort zones can inspire us to do amazing things we never would have attempted otherwise. Financially, The Tower reversed is the same, it can indicate that you are averting a financial disaster but it does not necessarily mean that you should. It may be worth considering allowing whatever this negative event is, to just happen so you can deal with it and move forward, rather than constantly trying to push a boulder up a big hill and always struggling. For instance, being made redundant while scary, stressful and difficult for you, may give you the time and motivation to start your own business. Or if you have been struggling to make payments on a mortgage you can no longer afford to the detriment of every other area of your life, giving the keys back to the bank and renting might actually be a tough choice that would ultimately make you happier.</p>";
+  }
+}
 var Tower = {
   name: "The Tower",
   index: 16,
@@ -438,23 +389,15 @@ var Tower = {
   rw_addendum:
     "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.\n\
   Reversed: According to one account, the same in a lesser degree; also, oppression, imprisonment, tyranny.",
-  rw_meaning:
-    "<p>Occult explanations attached to this card are meagre and mostly disconcerting. It is idle to indicate that it depicts mind in all \
-  its aspects, because it bears this evidence on the surface. It is said further that it contains the first allusion to a material building, but I \
-  do not conceive that the Tower is more or less material than the pillars which we have met with in three previous cases. I see nothing to warrant \
-  Papus in supposing that it is literally the fall of Adam, but there is more in favour of his alternative--that it signifes the materialization \
-  of the spiritual word. The bibliographer Christian imagines that it is the downfall of the mind, seeking to penetrate the mystery of God. \
-  I agree rather with Grand Orient that it is the ruin of the House of We, when evil has prevailed therein, and above all that it is the rending \
-  of a House of Doctrine. I understand that the reference is, however, to a House of Falsehood. It illustrates also in the most comprehensive way \
-  the old truth that 'except the Lord build the house, they labour in vain that build it.' </p><p>\n\
-  There is a sense in which the catastrophe is a reflection from the previous card, but not on the side of the symbolism which I have tried \
-  to indicate therein. It is more correctly a question of analogy; one is concerned with the fall into the material and animal state, while \
-  the other signifies destruction on the intellectual side. The Tower has been spoken of as the chastisement of pride and the intellect overwhelmed \
-  in the attempt to penetrate the Mystery of God; but in neither case do these explanations account for the two persons who are the living sufferers.\
-  The one is the literal word made void and the other its false interpretation. In  yet a deeper sense, it may signify also the end of a dispensation, \
-  but there is no possibility here for the consideration of this involved question.</p>"
-};
+  rw_meaning:Tower()};
 
+function Star() {
+  if (u == 0) {
+    return "<p>The Star in a career context indicates that you will have great opportunities coming your way in terms of work. If you have been waiting to find out the outcome of a promotion or job interview, The Star is very positive sign that things are going to go in your favour or something even better is going to come your way. It can also be an indicator that you would do well in a more creative role. You may be feeling very creatively inspired with The Star in your Tarot reading. Financially speaking, if you have been having money issues, The Star tells you that there is a way to get your finances in check. Now is a good time to make investments, within reason, as The Star in an upright position, signifies your finances moving in a positive direction.</p>";
+  } else {
+    return "<p>In a career Tarot spread, The Star reversed indicates that you may be feeling bored in your career or feel that you are stuck in a career that is going nowhere. Monotony has set in and you no longer feel the creative spark or enthusiasm you once had. You need to change your attitude and start focusing on the positive. Things are not as bad as they seem and anything you are unhappy with is within your power to change. The Star reversed can also indicate that you are not using your creativity and are letting your talents go to waste. In a financial context, if your finances have not been going well, The Star reversed tells you that any problems are within your power to change. Reassess your financial plans in light of any recent changes in your circumstances and ask yourself are these plans still working for you and will they get you what you want? If not, look at what you can do to change them to suit your current circumstances. Don’t let anxiety over money overwhelm you, it’s not all doom and gloom! Things are not as bad as you think they are.</p>";
+  }
+}
 var Star = {
   name: "Star",
   index: 17,
@@ -467,20 +410,15 @@ var Star = {
   rw_addendum:
     "Loss, theft, privation, abandnment; another reading says- hope and bright prospects.\n\
   Reversed: Arrogance, haughtiness, impotence.",
-  rw_meaning:
-    "<p>A great, radiant star of eight rays, surrounded by seven lesser stars--also of eight rays. The female figure \
-  in the foreground is entirely naked. Her left knee is on the land and her right foot upon the water. She pours Water of Life \
-  from two great ewers, irrigating sea and land. Behind her is rising ground and on the right a shrub or tree, whereon a bird alights.\
-  The figure expresses eternal youth and beauty. The star is l'etoile flamboyante, which appears in Masonic symbolism, but has been \
-  confused therein. That which the figure communicates to the living scene is the substance of the heavens and the elements. It has \
-  been said truly that the mottoes of this card are 'Waters of Life freely' and 'Gifts of the Spirit.'</p><p>\
-  The summary of several tawdry explantaions says that it is a card of hope. On other planes it has been certified as immortality and \
-  interior light. For the majority of prepared minds, the figure will appear as the type of Truth unveiled, glorious in undying beauty, \
-  pouring on the waters of the soul some part and measure of her priceless possession. But she is in reality the Great Mother in the \
-  Kabalistic Sephira Binah, which is supernal Understanding, who communicates to the Sephiroth that are below in the measure \
-  that they can receive her influx.</p>"
-};
+  rw_meaning:Star()};
 
+function Moon() {
+  if (u == 0) {
+    return "<p>With The Moon Tarot card appearing in a career context, you may be very unclear or even anxious about your career direction. There may be miscommunication between you and your colleagues or superiors in a work context which could cause problems or misunderstandings. Alternatively, someone may be holding information back from you and you may not have all the facts you need to make a decision. In terms of finance, The Moon indicates that you should be wary of undertaking investments or any big financial gambles as you may not have all the facts you need to make an informed decision. It can also indicate that someone may be purposely deceiving you to con you out of money. Don’t be overly paranoid but do trust your instincts, if it feels like it’s too good to be true it probably is!</p>";
+  } else {
+    return "<p>In a career context, if you work in an artistic or creative field, The Moon reversed can indicate a creative block such as writer’s block. In a general career context, it can indicate that any uncertainty or instability that you’ve been experiencing in your career will begin to stabilise. If you have been unclear about your career path recently, this Major Arcana card can signify that things will start to become clearer and you will feel more confident about your direction. Financially, if you have been confused about how to manage your finances, this may start to become clearer. However, The Moon in a reversed position can be a sign that deception is being or is about to be exposed so if your gut instincts tell you not to invest or commit money to something, listen to them and wait for the information you are missing to be revealed.</p>";
+  }
+}
 var Moon = {
   name: "The Moon",
   index: 18,
@@ -493,19 +431,15 @@ var Moon = {
   rw_addendum:
     "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.\n\
   Reversed: Instability, inconstancy, silence, lesser degrees of deception and error.",
-  rw_meaning:
-    "<p>The distinction between this card and some of the conventional types is that the moon is increasing on what is called \
-  the side of mercy, to the right of the observer. It has sixteen chief and sixteen secondary rays. The card represents life of the imagination \
-  apart from life of the spirit. The path between the towers is the issue into the unknown. The dog and wolf are the fears of the natural \
-  mind in the presence of that place of exit, when there is only reflected light to guide it.<p></p>\
-  The last reference is a key to another form of symbolism. The intellectual light is a reflection and beyond it is the unknown mystery\
-  which it cannot shew forth. It illuminates our animal nature, types of which are represented below--the dog, the wolf and that which comes up\
-  out of the deeps, the nameless and hideous tendency which is lower than the savaage beast. It strives to attain manifestation, symbolized \
-  by crawling from the abyss of water to the land, but as a rule it sinks back whence it came. The face of the mind directs a calm gaze \
-  upon the unrest below; the dew of thought falls; the message is: Peace, be still; and it may be that there shall come a calm upon the animal nature, \
-  while the abyss beneath shall cease from giving up a form.</p>"
-};
+  rw_meaning:Moon()};
 
+function Sun() {
+  if (u == 0) {
+    return "<p>In a career context, The Sun Tarot card signifies a time of great success! New opportunities will be coming your way and you will be full of optimism and enthusiasm. You will be ready and able to jump in and make any project a success. Financially, you should be doing very well with The Sun appearing in your Tarot reading as it is the Tarot card of abundance. Business ventures, investments and any sort of money making initiatives should be going well for you. If you have any hidden debts, they should also come to the surface during this time so remember to put some of your wealth aside to cover them.  </p>";
+  } else {
+    return "<p>In a career context, The Sun reversed can signify feeling trapped or oppressed by your career. This oppression is more than likely within your power to change. For example, you may be feeling pessimistic and drained because you are working too many hours but you haven’t asked for the time off you need to rest. The Sun Tarot card reversed can also signify success evading you! You may be missing opportunities because you lack the confidence and self-assurance to go for them. Alternately, it can indicate that you may have set unrealistic career goals or may not be taking the appropriate practical steps to achieve what you want but relying on positivity alone to get you there. It can also indicate that you work in a cut-throat environment where being egotistical or competitive may be more valued. In a financial Tarot spread, The Sun reversed can be a bad omen. Investments may take a downturn or you may experience temporary financial hardship. However, The Sun Tarot card reversed usually indicates issues that are of your own making so look at your financial worries realistically and ask yourself if there is more you could be doing to resolve them.</p>";
+  }
+}
 var Sun = {
   name: "The Sun",
   index: 19,
@@ -518,19 +452,15 @@ var Sun = {
   rw_addendum:
     "Material happiness, fortunate marriage, contentment.\n\
   Reversed: The same in a lesser sense.",
-  rw_meaning:
-    "<p>The naked child mounted on a white horse and displaying a red standard has been mentioned already as the better symbolism \
-  connected with this card. It is the destiny of the Supernatural East and the great and holy light which goes before the endless procession \
-  of humanity, coming out from the walled garden of the sensitive life and passing on the journey home. The card signifies, therefore, the transit \
-  from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes before aspiration \
-  and is typified by the heart of a child.</p>\n\
-  <p>But the last allusion is again the key to a different form or aspect of the symbolism. The sun is that of consciousness in the spirit-- \
-  the direct antithesis of the reflected light. The characteristic type of humanity has become a little child therein--a child in the sense of \
-  simplicity and innocence in the sense of wisdom. In that simplicity, he bears the seal of Nature and of Art; in that innocence, he signifies \
-  the restored world. When the self-knowing spirit has dawned in the consciousness above the natural mind, that mind in its renewal leads forth \
-  the animal nature in a state of perfect conformity.</p>"
-};
+  rw_meaning:Sun()};
 
+function Judgment() {
+  if (u == 0) {
+    return "<p>In a career Tarot reading, Judgement can be an indication that you are being assessed or evaluated. You may be in the running for a promotion and not even know it. Be careful how you represent yourself when this card is in your reading, you are being watched. If you’ve been letting projects slide lately, now is the time to pick up the slack before you lose an opportunity. Financially speaking, Judgment tells you to be careful with money and not to make snap judgements. Make sure you have all the information you need to make an informed decision before making any big purchases or investments. It can also indicate a loss in a lawsuit so don’t do anything that could be negligent or lead to trouble like dangerous driving and make sure any insurance you need to have is up to date.</p>";
+  } else {
+    return "<p>Judgement reversed shows that you are at a turning point in your career and this time could make or break you in terms of success. You need to make a decision but you are paralysed by self-doubt. This is not a time for indecisiveness. You need to seize the opportunities available to you. If you let them slip by you may regret it. In a financial context, don’t be overly cautious with money. That’s not to suggest you should go wild and blow all your money at a casino but loosening the purse strings a little bit won’t kill you. You may find yourself deliberating endlessly about every purchase, if it’s something you need and you can afford it, just buy it! It’s good to be financially responsible but you don’t have to fret about every penny you spend.</p>";
+  }
+}
 var Judgment = {
   name: "Judgment",
   index: 20,
@@ -544,20 +474,15 @@ var Judgment = {
   rw_addendum:
     "Change of position, renewal, outcome. Another account specifies total loss through lawsuit.\n\
   Reversed: Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
-  rw_meaning:
-    "<p>I have said that this symbol is essentially invariable in all Tarot sets, or at least the variations do not alter its character.\
-  The great angel is here encompassed by clouds, but he blows his bannered trumpet, and the cross as usual is displayed on the banner. The dead are \
-  rising from their tombs--a woman on the right, a man on the left hand, and between them their child, whose back is turned. But in this card \
-  there are more than three who are restored, and it has been thought worth while to make this variation as illustrating the insufficiency of current explanations. \
-  It should be noted that all the figures are as one in the wonder, adoration and ecstasy expressed by their attitudes. It is the card which \
-  registers the accomplishment of the great work of transformation in answer to the summons of the Supernal--which summons is heard and answered from within.</p><p>\
-  Herein is the intimation of a significance which cannot well be carried further in the present place. What is that within us which does sound \
-  a trumpet and all that is lower in our nature rises in response--almost in a moment, almost in the twinkling of an eye? Let the card continue \
-  to depict, for those who can see no further, the Last judgment and the resurrection in the natural body; but let those who have inward eyes look \
-  and discover therewith. They will understand that it has been called truly in the past a card of eternal life, and for this reason it may be \
-  compared with that which passes under the name of Temperance.</p>"
-};
+  rw_meaning:Judgment()};
 
+function World() {
+  if (u == 0) {
+    return "<p>In a career context, The World can represent reaching your career goals. If you have gone into business for yourself, it represents reaching a point, after all the stress and uncertainty of the start-up phase when you weren’t sure it would work, where your business is a success and you can finally breathe a sigh of relief! Enjoy the fruits of your hard work, you deserve it and remember to share your success with the people who helped you along the way. If you work for someone else, it can represent finally getting the position you always dreamed of or completing a successful project that will get you the recognition you deserve. The World in a career Tarot reading can also represent travelling in relation to work. In a financial context, The World indicates that money should be coming your way. However, this is not encouragement to gamble or make risky investments, rather it tells you that all the hard work you’ve been doing is going to pay off. Maybe you’ll receive an unexpected but well-deserved bonus or you will land a big contract which will give you financial security or maybe you’ll just reach the point where you feel financially secure after a long period of scrimping and saving. Whatever it is, your finances will be looking good with The World in your Tarot reading.</p>";
+  } else {
+    return "<p>In a career context, The World reversed can indicate that you have not reached the career goals you have set for yourself. It can also signify that you are falling short of your potential. Ask yourself what is holding you back? Have you putting the effort in? Are you afraid to strive to be all you can be for fear of failure? Are you stuck in a career that does not fulfil you? Remember you are the master of your own destiny. Don’t be afraid to make mistakes, mistakes are how we learn. And don’t be afraid to think outside the box or take an unconventional career path if it’s what you love to do. In a financial Tarot spread, The World Tarot card reversed can indicate that your finances have become stagnant. There are always things you can do to help yourself. Don’t try to take shortcuts or engage in risky investments or get rich quick schemes to boost your bank balance. Hard work, consistency and determination are needed to get you into a comfortable financial position.</p>";
+  }
+}
 var World = {
   name: "The World",
   index: 21,
@@ -570,18 +495,7 @@ var World = {
   rw_addendum:
     "Assured success, recompense, voyage, route, emigration, flight, change of place.\n\
   Reversed: Inertia, fixity, stagnation, permanence.",
-  rw_meaning:
-    "<p>As this final message of the Major Trumps is unchanged--and indeed unchangeable--in respect of its design, it has been partly \
-  described already regarding its deeper sense. It represents also the perfection and end of the Cosmos, the secret which is within it, the rapture \
-  of the universe when it understands itself in God. It is further the state of the soul in the consciousness of Divine Vision, reflected from \
-  the self-knowing spirit. But these meanings are without prejudice to that which I have said concerning it on the material side.</p><p> \n\
-  It has more than one message on the macrocosmic side and is, for example, the state of the restored world when the law of manifestation \
-  shall have been carried to the highest degree of natural perfection. But it is perhaps more especially a story of the past, referring to \
-  that day when all was declared to be good, when the morning stars sang together and all the Sons of God shouted for joy. \
-  One of the worst explanations concerning it is that the figure symbolizes the Magus when he has reached the highest degree of initiation; \
-  another account says that it represents the absolute, which is ridiculous. The figure has been said to stand for Truth, which is, however, \
-  more properly allocated to the seventeenth card. Lastly, it has been called the Crown of the Magi.</p>"
-};
+  rw_meaning:World()};
 
 /*======================================DECK======================================*/
 

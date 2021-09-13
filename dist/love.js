@@ -39,9 +39,9 @@ var Fool = {
 
 function Magician() {
   if (u == 0) {
-    return "<p>자신감에 찬 표정으로 지팡이를 내거는 마술사. 그는 무에서 유를 만들어내는 힘을 가지고 요소를 자유자재로 조종할 수 있습니다. \"자신이, 무엇으로, 앞으로 어떻게 하고 싶은가\"라는 정체성과 목적의식이 뚜렷합니다. 자발적으로 생각하고 행동을 취할 수 있습니다. 그것은 꿈을 이루는 것이나 사람에게 인정받게 되는 것입니다.</p>";
+    return "<p>The Magician in the context of a love Tarot reading is a positive card. For those in relationships, The Magician Tarot signifies the relationship moving to new and deeper level where you can expect stronger commitment and happiness. If you are single The Magician indicates that now is great time to meet someone new. Your partner will be serious about you, has good intentions and will treat you well.</p>";
   } else {
-    return "<p>정체성과 목적 의식이 뚜렷하지 않습니다. 아직 진정한 자신이 성숙되지 않은지도 모릅니다. 사람의 의견에 휩쓸리기 쉽기 때문에 사기당할 위험성도 높아지고 있습니다. 조심하세요.</p>";
+    return "<p>The Magician reversed in the context of a love Tarot reading for those in relationships, can indicate that you need to be more open and honest with your partner about your needs and desires. If you are tempted to try and manipulate your partner to get what you want, don’t. Honesty will get you much further than trickery.  It can also indicate that partner/lover who appears to be trustworthy, may be using their influence over you to manipulate you for their own selfish reasons.  If you are single The Magician indicates that you may be becoming cynical about love and your future love life and feeling like you will never attract anyone good to your life. Don’t lose faith. If you stay positive and send love and light out into the world you will eventually attract the same back to you!</p>";
   }
 }
 var Magician = {
@@ -62,9 +62,9 @@ var Magician = {
 
 function HighPriestess() {
   if (u == 0) {
-    return "<p>대지 모신의 왕관을 받은 신비로운 여성의 사제가 바다가 보이는 성전에서 혼자 경전을 손에 지니고 있습니다. 주위에는 엄숙한 분위기가 감 돕니 다. 풍부한 영성과 높은 이상을 상징하는 카드입니다. 지적인 문제와 마주하는 성실한 태도를 나타냅니다. 고풍적인 플라톤의 생각, 근면한 자세가 당신에게 도움이 될 것입니다. 마음의 섬세함과 한결같음을 나타낼 수도 있습니다.</p>";
+    return "<p>If you are a man The High Priestess appearing in your reading in a love Tarot context usually signifies you will become infatuated with an attractive feminine sensual person who may be unattainable to you. If you are a female, The High Priestess indicates that you will be highly-desired by more than one person. People will find you irresistible! If you are involved with someone The High Priestess is an indicator of good sex! </p>";
   } else {
-    return "<p>성실함이 지나쳐버리는 것을 나타냅니다. 결벽이거나 완벽주의이거나 당신을 살기 어렵게 만들 가능성이 있습니다. 영성이 흐트러지고 있어서 의심과 불안에 휩싸인다 볼 수 있을 것입니다.</p>";
+    return "<p>With the High Priestess reversed Tarot you will still find yourself highly-desired by others but you may question their motives or the attention may make you feel uncomfortable. you can expect uncontrolled emotional outbursts and high sexual tension.  If you find yourself losing patience with your partner or looking for arguments, take some time out for yourself.</p>";
   }
 }
 var HighPriestess = {
@@ -85,9 +85,9 @@ var HighPriestess = {
 
 function Empress() {
   if (u == 0) {
-    return "<p>풍부하게 여무는 자연에 둘러싸여 호화로운 의자에 느긋하게 앉아 있는 아름다운 여제. 사랑스러운 표정의 그녀는 임신하고 있는 것 같습니다. 모든 풍요와 결실을 나타내는 카드입니다. 모든 것을 받아들이는 포용력과 대가를 요구하지 않고 주는 사랑이 번영을 제공합니다. 물질적인 보상이나 성공뿐만 아니라 사랑과 여유와 같은 형태가 없는 것까지도 얻을 수 있을 것입니다.</p>";
+    return "<p>The Empress Tarot in a love Tarot reading is a very positive card to get.  If you are single, get ready to mingle because The Empress indicates that real love and romance is on the way. If you are in a relationship it is an indicator of a committed relationship becoming deeper and more loving and affectionate. The Empress is also an indicator of good sex. For those enjoying the romance The Empress card can bring you must also remember that the Empress is a strong pregnancy indicator so if you are not ready for parenthood, take proper precautions!</p>";
   } else {
-    return "<p>다소 풍요로움이 과도한 상태입니다. 주어진 것  또는 가지고 있는 것에 대한 고마움을 잊고 오만하고 게으른 생각을 하고 있습니다. 달콤한 전망으로 나중에 눈을 당하는지도 모릅니다. 풍요로움이 부족하거나 고갈 등을 나타내는 수도 있습니다.</p>";
+    return "<p>In a love Tarot meaning, if you are single, The Empress reversed can indicate that you will have many potential partners pursuing you but you may not necessarily be putting out to the world the person you really are. Don’t try to be someone you’re not, just to gain other people’s approval especially when it comes to romantic relationships.  If you are in a relationship it can indicate that you are not expressing your true emotions and suppressing them to try and keep your relationship in balance. Maybe you fear rejection or a negative reaction if you are honest with your partner about how you feel. You need to take time to figure out why you are suppressing your emotions. Be mindful of becoming overbearing to those around you as you may have this tendency at the moment. It is simply a symptom of the insecurities you are feeling inside, so shift the focus back to yourself and it will stop. Trust your intuition and let it guide you back to the beautiful, confident and inspiring person you were born to be!</p>";
   }
 }
 var Empress = {
@@ -108,9 +108,9 @@ var Empress = {
 
 function Emperor() {
   if (u == 0) {
-    return "<p>깎아지른 절벽에 있는 왕좌에 위엄 넘치는 앉아있는 황제. 야망과 통솔력에 차있으며 사람들을 지배하고 있습니다. 건설적인 노력을 통해 지역 사회를 안정시키는 데 성공하고 있는 상태. 확실한 실력과 경험, 자신감과 인품을 인정받아 사람들로부터 신뢰를 얻을 수 있을 것입니다. 또는 당신에게 권위를 가진 사람이 당신에게 크게 영향을 미칠 가능성을 보여줍니다.</p>";
+    return "<p>If you are single and interested in men, The Emperor in a love Tarot context can indicate a romantic relationship with an older man. He will like structure, order, logic and routine. He will be a good influence on you but romance is not his strong point. He is however practical, dependable and protective. If you are single and interested in women, The Emperor Tarot is a sign that you need to be more open with your feelings. If you have feelings for someone in particular you need to bite the bullet and tell her. Don’t expect her to guess! For those already in relationships, The Emperor is a good omen of monogamy and a long lasting relationship. If you have been experiencing relationship problems they begin to improve and stability will return to the relationship.</p>";
   } else {
-    return "<p>노력과 인품을 바탕으로 하지 않는 권위가 사람들을 억누르는 감이 있습니다. 사람과의 관계를 유지하려고 해도 실제 역부족인 것이 밝혀지면서 신뢰 관계가 무너지는 것입니다. 회사, 학교, 친구 관계 가족 관계 등 커뮤니티의 규모와 상관없이 늘 행동을 조심해야 합니다.</p>";
+    return "<p>The Emperor Tarot card reversed in a love Tarot reading can indicate an imbalance of power in the relationship which is causing conflict or unhappiness. It can signify one partner controlling the other, being possessive, stubborn or overbearing. This type of behaviour will lead to the other partner feeling trapped. The Emperor reversed shows that there needs to be balance between wanting structure in a relationship and being a control freak. Learn to compromise! If you are single, The Emperor reversed can indicate that your father issues are leading to destructive patterns in your choice of partners. You need to resolve these issues to avoid attracting those who would seek to take advantage of you. It can also indicate a lack of commitment, flitting from one partner to another and a lack of monogamy, in essence rebelling again what The Emperor represents.</p>";
   }
 }
 var Emperor = {
@@ -129,6 +129,13 @@ var Emperor = {
   rw_meaning: Emperor()
 };
 
+function Hierophant() {
+  if (u == 0) {
+    return "<p>For those in relationships, The Hierophant is the marriage and commitment card of the Major Arcana. You can expect your relationship to become more committed and begin moving towards new relationship milestones when this card appears. It indicates that you and your partner share the same values and goals, a very good card to get if a committed relationship is what you want. If you are single, this card signifies a new relationship on the horizon which will be built on commitment, love and security.</p>";
+  } else {
+    return "<p>The Hierophant reversed in a love Tarot context may signify an unconventional relationship or the desire for one if you are single. You may be breaking with tradition by choosing not to marry. it can also indicate a reversal of traditional gender roles. It can also indicate that you and your partner are not on the same page when it comes to values and goals. This may be causing conflict and insecurity in your relationship. Each of you need to stay open minded and try to understand where the other person is coming from.  Compromise is needed to bring about agreement without pushing either of you too far out of your comfort zone.</p>";
+  }
+}
 var Hierophant = {
   name: "The Hierophant",
   index: 5,
@@ -142,26 +149,16 @@ var Hierophant = {
   rw_addendum:
     "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.\n\
     Reversed: Society, good understanding, concord, overkindness, weakness.",
-  rw_meaning:
-    "<p>He wears the triple crown and is seated between two pillars, but they are not those of the Temple which is guarded \
-    by the High Priestess. In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives \
-    the well-known ecclesiastical sign which is calleed that of esotericism, distinguishing between the manifest and concealed part \
-    of the doctrine. It is noticeable in this connexion that the High Priestess makes no sign. At his feet are the crossed keys, and two \
-    priestly ministers in albs kneel before him. He has been usually called the Pope, which is a particular application of the more general \
-    office that he symbolizes. He is the ruling power of external religion, as the High Priestess is the prevailing genius of the esoteric, \
-    withdrawn power. </p><p>\
-    The proper meanings of this card have suffered woeful admixture from nearly all hands. Grand Orient says truly that \
-    the Hierophant is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; \
-    but he is certainly not the prince of occult doctrine, as another commentator has suggested.\
-    He is rather the summa totius theologiae, when it has passed into the utmost rigidity of expression; \
-    but he symbolizes also all things that are righteous and sacred on the manifset side. </p><p> As such, he is the channel of grace belonging \
-    to the world of institution as distinct from that of Nature, and he is the leader of salvation for the human race at large. \
-    He is the order and the head of the recognized hierarchy, which is the reflection of another and greater hierarchic order; \
-    but it may so happen that the pontiff forgets the significance of this his symbolic state and acts as if he contained within his \
-    proper measures all that his sign signifies or his symbol seeks to shew forth. He is not, as it has been thought, philosophy--\
-    except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression."
+  rw_meaning: Hierophant()
 };
 
+function Lovers() {
+  if (u == 0) {
+    return "<p>In a love or relationship Tarot reading The Lovers is one of the best cards you can get! It is a soulmate card and signifies kindred spirits and an intense bond between two people. If you are single, love is coming your way! This will be more than mere infatuation. There will be an intense attraction and sexual passion as well as romance and a deep connection and mutual understanding. this Major Arcana card tells you to expect a rekindling of the romance in your relationship. The bond between you and your partner will increase and deepen more than you can imagine. The Lovers represent you and your partner having a spiritual, emotional, mental and physical connection that most couples can only dream about. Lucky you!</p>";
+  } else {
+    return "<p>The Lovers reversed can indicate that while the sexual aspect of things is still great, you and your partner may not be on the same page in other important areas. It can also be a signifier that one partner is more emotionally invested in the relationship. Fear or trust issues could be stopping you from jumping in fully, which is necessary for the relationship to flourish. You may have different goals, values or hopes for the future. The relationship may have started off with you both feelings connected on many levels but you don’t feel as close as you used to. Look to the supporting cards for confirmation of the root cause. Whatever the reason, these differences need to be resolved if the relationship is to survive. If you are single The Lovers does indicate a relationship is coming your way but it may not happen as soon as you hoped. Alternatively, it can represent picking partners for the wrong reasons. If you are going to get involved with someone, this Major Arcana card tells you to make sure you connect with them in more than one way. A sexual connection, even an intense one, is not enough in itself to make a relationship work.</p>";
+  }
+}
 var Lovers = {
   name: "The Lovers",
   index: 6,
@@ -174,21 +171,16 @@ var Lovers = {
   rw_addendum:
     "Attraction, love, beauty, trials overcome.\n\
     Reversed: Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
-  rw_meaning:
-    "<p>The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down influences. In the \
-    foreground are two human figures, male and female, unveiled before each other, as if Adam and Eve when they first occupied the paradise \
-    of the earthly body. Behind the man is the Tree of Life, bearing twelve fruits, and the Tree of the Knowledge of Good and Evil is behind the woman; \
-    the serpent is twining round it. The figures suggest youth, virginity, innocence and love before it is contaminated by gross material desire.\
-    This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life. It replaces, by recourse to first \
-    principles, the old card of marriage, which I have described previously, and the later follies which depicted man between vice and virtue. \
-    In a very high sense, the card is a mystery of the Covenant and Sabbath. </p><p>\
-    The suggestion in respect of the woman is that she signifies that attraction towards the sensitive life which carries within it the idea \
-    of the Fall of Man, but she is rather the working of a Secret Law of Providence than a willing and conscious temptress. It is through her \
-    imputed lapse that man shall arise ultimately, and only by her can he complete himself. The card is therefore in its way another intimation \
-    concerning the great mystery of womanhood. The old meanings fall to pieces of necessity with the old pictures, but even as interpretations \
-    of the latter, some of them were of the order of commonplace and others were false in symbolism.</p>"
+  rw_meaning: Lovers()
 };
 
+function Chariot() {
+  if (u == 0) {
+    return "<p>In a Love card meaning, The Chariot suggests that you need to conquer your emotions in order to have a successful relationship. If you and your partner have been going through a rough patch, you will need to come together, communicate and work hard. The challenges you face are not insurmountable. They just require some hard work and focus to resolve them. If you or your partner anxiety issues, it is crucial to get these under control as The Chariot Tarot also represents the need to balance the mind and heart to be successful. If your partner uses logic as emotional armour, you may need to get around their defences in order for your relationship to work. If you are single, The Chariot is an indication that your past relationships have let you battle weary. The Chariot signifies that you can overcome the pain of your past and move forward in your love life.</p>";
+  } else {
+    return "<p>The overall message of The Chariot reversed in a love Tarot reading is slow down! If you are a relationship and things aren’t progressing as fast as you would like you need to have patience and be confident that things will progress in their own time. Forcing things could be disastrous. Likewise, if you are feeling pressure into moving your relationship to the next level, don’t allow yourself to be coerced. Take a step back and consider what you are ready for. Be clear with your partner and set boundaries. If you are single, you may meet someone soon but the same message applies, don’t rush things. Enjoy the excitement of a new relationship and take time to get to know your new love interest without piling on the pressure. Sometimes it’s better to just go with the flow and let things evolve at their own pace.</p>";
+  }
+}
 var Chariot = {
   name: "The Chariot",
   index: 7,
@@ -202,18 +194,16 @@ var Chariot = {
   rw_addendum:
     "Succour, providence; also war, triumph, presumption, vengeance, trouble.\n\
     Reversed: Riot, quarrel, dispute, litigation, defeat.",
-  rw_meaning:
-    "<p>An erect and princely figure carrying a drawn sword and corresponding, broadly speaking, to the traditional description which \
-    I have given in the first part. On the shoulders of the victorious hero are supposed to be the Urim and Thummim. He has led captivity captive; \
-    he is conquest on all planes--in the mind, in science, in progress, in certain trials of initiation. He has thus replied to the sphinx, \
-    and it is on this account that I have accepted the variation of Eliphas Levi; two sphinxes thus draw his chariot. He is above all things triumph in the mind.</p><p>\n\
-    It is to be understood for this reason (a) that the question of the sphinx is concerned with a Mystery of Nature and not of the world of Grace, to which the charioteer\
-    could offer no answer; (b) that the planes of his conquest are manifest or external and not within himself; (c) that the liberation which \
-    he effects may leave himself in the bondage of the logical understanding; (d) that the tests of initiation through which he has passed in triumph \
-    are to be understood physically or rationally; and (e) that if he came to the pillars of that Temple between which the High Priestess is seated, \
-    he could not open the scroll called Tora, nor if she questioned him could he answer. He is not hereditary royalty and he is not priesthood.</p>"
-};
+  rw_meaning: Chariot() 
+  };
 
+function Strength() {
+  if (u == 0) {
+    return "<p>Strength is the Major Arcana card that represents the Leo star sign so a relationship with a Leo may be on the cards if this appears. If you are single the Strength card is an indicator that now is a great time to meet someone as your confidence will be shining through. It can also be an indicator of a relationship coming up with someone who has a bit of a wild side. This can be an exciting prospect but if this person is too wild you may feel the need to tame them somewhat. If you do want to tame them, coax them gently, don’t try to dominate them. For those already in a relationship, Strength is generally a good indicator that you are a strong couple, close and united. If your relationship has gone through a lot of emotional upheaval, this card suggest that you are starting to get back on top of it and that any problems you faced in the past have actually brought you closer together.</p>";
+  } else {
+    return "<p>The Strength Tarot reversed in a love Tarot reading if you are single can indicate that lack of impulse control or unresolved self-esteem issues may be leading you to choose the wrong partners. This can become a vicious circle as bad relationships negatively affect your self-esteem. You need to resolve these issues and summon your inner strength and confidence and believe that you deserve better. Strength reversed can indicate that while your relationship is strong, low self-esteem may be leaving you feeling unworthy of the love you are receiving. This in turn may lead you to act impulsively and behave in manner that is not a true reflection of the feelings you have for your partner. Don’t let your anxiety or fear create problems where there are none.</p>";
+  }
+}
 var Strength = {
   name: "Strength",
   index: 8,
@@ -227,21 +217,15 @@ var Strength = {
   rw_addendum:
     "Power, energy, action, courage, magnanimity; also complete success and honours.\n\
     Reversed: Despotism, abuse if power, weakness, discord, sometimes even disgrace.",
-  rw_meaning:
-    "<p>A woman, over whose head there broods the same symbol of life which we have seen in the card of the Magician, is closing the jaws \
-    of a lion. The only point in which this design differs from the conventional presentations is that her beneficient fortitude has already subdued \
-    the lion, which is being led by a chain of flowers. For reasons which satisfy myself, this card has been interchanged with that of Justice, \
-    which is usually numbered eight. As the variation carries nothing with it which will signify to the reader, there is no cause for explanation. \
-    Fortitude, in one of its most exalted aspects, is connected wtih the Divine Mystery of Union; the virtue, of course, operates in all planes, \
-    and hence draws on all in its symbolism. It connects also with innocentia inviolata, and with the strength which resides in contemplation. </p><p>\n\
-    These higher meanings are, however, matters of inference, and I do not suggest that they are transparent on the surface of the card.\
-    They are intimated in a concealed manner by the chain of flowers, which signifies, among many other things, the sweet yoke and the light burden \
-    of Divine Law, when it has been taken into the heart of hearts. The card has nothing to do with self-confidence in the ordinary sense, though \
-    this has been suggested--but it concerns the confidence of those whose strength is God, who have found their refuge in Him. There is one aspect in which \
-    the lion signifies the passions, and she who is called Strength is the higher nature in its liberation. It has walked upon the asp and the basilisk \
-    and has trodden down the lion and the dragon.</p>"
-};
+  rw_meaning: Strength()};
 
+function Hermit() {
+  if (u == 0) {
+    return "<p>if you are single The Hermit Tarot card represents coming out the other side of a period of loneliness and solitude that may have been needed to recuperate from past heartbreak or a bad breakup. You will soon be ready for a fresh start. It can also indicate celibacy or chastity. The Hermit upright can represent an older wiser partner. It can also suggest that you may need to make more of an effort to connect with your partner. It can indicate that you and your partner are too focused on doing your own thing rather than spending quality time together.  </p>";
+  } else {
+    return "<p>The Hermit reversed in a love Tarot context is strong indicator of loneliness. If you are in a relationship it suggests that you may be feeling shut out or rejected by your partner. It can also indicate that you and your partner are so busy that you have no time to connect. This may be leading you to feel lonely even though you are in a relationship. It can also suggest one person withdrawing from a relationship while the other is still trying to hold on to it. If you are single, The Hermit reversed can indicate that you fear being left on the shelf or you feel you may have missed your window of opportunity to meet someone special. The Hermit in reverse can indicate that now is time to start looking for love after a being single for a long time. You need to put aside your fears and put yourself out there again.  If you have recently broken up with your partner it can be a sign that you want to get back together with your ex.</p>";
+  }
+}
 var Hermit = {
   name: "The Hermit",
   index: 9,
@@ -254,20 +238,15 @@ var Hermit = {
   rw_addendum:
     "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.\n\
     Reversed: Concealment, disguise, policy, fear, unreasoned caution.",
-  rw_meaning:
-    "<p>The variation from conventional models in this card is only that the lamp is not enveloped partially in the mantle of its bearer, \
-    who blends the idea of the Ancient of Days with the Light of the World. It is a star which shines in the lantern. I have said that this \
-    is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence. Therefore the Hermit is not, \
-    as Court de Gebelin explained, a wise man in search of truth and justice; nor is he, as a later explanation proposes, an especial example of experience. \
-    His beacon intimates that 'where I am, you also may be.' </p><p>\n\
-    It is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of \
-    personal magnetism against admixture. This is one of the frivolous renderings which we owe to Eliphas Levi. It has been adopted by the \
-    French Order of Martinism and some of us have heard a great deal of the Silent and Unknown Philosophy enveloped by his mantle from the knowledge \
-    of the profane. In true Martinism, the significance fo the term Philosophe inconnu was of another order. It did not refer to the intended concealment \
-    of the Instituted Mysteries, much less of their substittues, but--like the card itself--to the truth that the Divine Mysteries secure their \
-    own protection from those who are unprepared.</p> "
-};
+  rw_meaning: Hermit()};
 
+function WheelFortune() {
+  if (u == 0) {
+    return "<p>Wheel of Fortune in an upright position normally indicates a positive change so you could be taking the next step in your relationship or starting a new phase with your partner or even some sort of joint project. At the same time, the change the Wheel of Fortune Tarot card brings can be difficult. If you have been finding that you are no longer content in a relationship, this card can signal an upheaval. That could be you and your partner shaking things up and making much needed changes to improve your relationship or it could be a breakup that will leave you free to move onto better things. Whatever happens, it will lead you to where you are supposed to be. If you are single, Wheel of Fortune in your Tarot reading can indicate that the universe is working to bring you the love you deserve but you have to work with the universe! You have good fortune coming in love so now is the time to put yourself out there, get out and meet new people. Make sure you are discerning about exactly what you want in a partner as you have an opportunity to get just that with this card making an appearance in your Tarot spread. The Wheel of Fortune is also a card of destiny so in a love context it can signify soulmates. If you are single you may be meeting yours soon. it may indicate that you and your partner are meant to be! Look to the supporting cards to confirm this. </p>";
+  } else {
+    return "<p>if you are in a relationship the Wheel of Fortune Tarot reversed can represent stagnancy or the sparkle going out of the relationship. That doesn’t mean that you should automatically make a knee-jerk decision to end the relationship as all relationships have their ups and downs. You may just be moving from one phase of a relationship to another and this could be a little slump in between. Try and assess the situation and find what works for you. Either way this time of upheaval shall pass. Previous mistakes may come back and cause issues. If you are single and feel you have been unlucky in relationships, you need to look at your own choices and behaviour. Have you thrown away opportunities for love? If so, learn from your mistakes and you will get another chance at happiness. We choose the lessons we are meant to learn in this life and you can change your luck by learning from your past and applying these karmic lessons to your future. Whether you are single or in a relationship, the Wheel of Fortune Tarot card in a reversed position is a sign that you may experience setbacks or delays. Try to go with the flow, the only way is up. </p>";
+  }
+}
 var WheelFortune = {
   name: "Wheel of Fortune",
   index: 10,
@@ -281,21 +260,15 @@ var WheelFortune = {
   rw_addendum:
     "Destiny, fortune, success, elevation, luck, felicity.\n\
     Reversed: Increase, abundance, superfluity.",
-  rw_meaning:
-    "<p>In this symbol I have again followed the reconstruction of Eliphas Levi, who has furnished several variants. It is \
-    legitimate--as I have intimated--to use Egyptian symbolism when this serves our purpose, provided that no theory of origin is implied therein. \
-    I have, however, presented Typhon in his serpent form. The symbolism is, of course, not exclusively Egyptian, as the four Living Creatures of Ezekiel \
-    occupy the angles of the card, and the wheel itself follows other indications of Levi in respect of Ezekiel's vision, as illustrative of the \
-    particular Tarot Key. With the French occultist, and in the design itself, the symbolic picture stands for the perpetual motion of a fluidic universe \
-    and for the flux of human life. The Sphinx is the equilibrium therein. The transliteration of Taro as Rota is inscribed on the wheel, counterchanged \
-    with the letters of the Divine Name--to shew that Providence is imphed through all. But this is the Divine intention within, and the similar intention without \
-    is exemplified by the four Living Creatures. Sometimes the sphinx is represented couchant on a pedestal above, which defrauds the symbolism \
-    by stultifying the essential idea of stability amidst movement.</p><p>\
-    Behind the general notion expressed in the symbol there lies the denial of chance and the fatality which is implied therein. It may be added that, \
-    from the days of Levi onward, the occult explanations of this card are--even for occultism itself--of a singularly fatuous kind. It has been said \
-    to mean principle, fecundity, virile honour, ruling authority, etc. The findings of common fortune-telling are better than this on their own plane.</p>"
-};
+  rw_meaning: WheelFortune()};
 
+function Justice() {
+  if (u == 0) {
+    return "<p>In a love Tarot reading, if you are single, Justice can indicate a relationship with a person in the legal industry (judge, lawyer, legal secretary etc.) It is the Tarot card that corresponds to Libra, so a Libra may be coming into your life. If you have treated others with integrity and kindness and not been treated well in return in relationships, Justice in a love tarot reading can indicate that this imbalance is about to be corrected with the loving partner you deserve coming into your life. It can also signify that those who have treated you badly will get their comeuppance. whether Justice is a good or bad omen really depends on the behaviour of you and your partner. If you are both being honest and acting with integrity in your relationship then you will see the rewards in the form of a period of harmony or a bigger commitment. It can indicate marriage, representing the marriage contract. However, if either of you have been dishonest or have cheated, Justice indicates that the truth will be revealed and whoever has been dishonest will reap what they have sown.</p>";
+  } else {
+    return "<p>if you are in a relationship Justice reversed can be a strong indicator of being caught out in a deception or cheating. So if you have been cheating on your partner or lying to them, expect big repercussions. You may also find that any arguments between you and your partner seem endless with this Major Arcana trump card in your Tarot reading. It can also be a sign that you feel you are not being treated fairly or as an equal in the relationship. Before you go casting judgements on your partner, examine your own role in the relationship and ask yourself if you are being fair by apportioning the blame to your partner. If you assess your relationship issues and feel you are blameless, you should still try to learn from the situation. Remember, we teach people how to treat us and what we put up with, we end up with! If you are single, Justice reversed can indicate that while you may feel you are ready for the relationship you deserve, you have still not learned the lessons from your past relationships that are necessary for you to move forward and avoid repeating the same mistakes. It can also indicate that you tend to lack balance in relationships and this maybe causing your relationships to flounder. We all get caught up in the initial excitement of new love but be careful not lose yourself completely! Try to maintain a balance between you love life and your own independent life when you meet someone, it will give your relationships the space they need to grow. If you have treated past partners badly, Justice reversed can be a sign that you may be suffering the consequences of your actions.</p>";
+  }
+}
 var Justice = {
   name: "Justice",
   index: 11,
@@ -309,19 +282,15 @@ var Justice = {
   rw_addendum:
     "Equity, rightness, probity, executive; triumph of the deserving side in law.\n\
     Reversed: Law in all its departments, legal complications, bigotry, bias, excessive severity.",
-  rw_meaning:
-    "<p>As this card follows the traditional symbolism and carries above all its obvious meanings, there is little to say regarding it \
-    outside the few considerations collected in the first part, to which the reader is referred. \
-    It will be seen, however, that the figure is seated between pillars, like the High Priestess, and on this account it seems desirable to indicate \
-    that the moral principle which deals unto every man according to his works--while, of course, it is in strict analogy with higher things;--\
-    differs in its essence from the spiritual justice which is involved in the idea of election. The latter belongs to a mysterious order of \
-    Providence, in virtue of which it is possible for certain men to conceive the idea of dedication to the highest things. The operation of this \
-    is like the breathing of the Spirit where it wills, and we have no canon of criticism or ground of explanation concerning it. It is analogous \
-    to the possession of the fairy gifts and the high gifts and the gracious gifts of the poet: we have them or have not, and their presence \
-    is as much a mystery as their absence. The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice \
-    open into one world and the pillars of the High Priestess into another.</p>"
-};
+  rw_meaning: Justice()};
 
+function HangedMan() {
+  if (u == 0) {
+    return "<p>In a love Tarot context The Hanged Man indicates that you may be unhappy with the way your relationship is going at the moment. It can also signify that either you or your partner may be feeling the need to take a step back from the relationship to assess your options or where you want the relationship to lead. The Hanged Man tells you to hold off on making any decisions and just give yourself time to think things through. You may need to rethink your perceptions of what your relationship should be like and focus on the positive aspects of the relationship as it is instead of worrying about what it isn’t. Alternatively, if you find that you are truly unhappy, The Hanged Man appearing in your Tarot reading tells you that you are the only one keeping yourself in this situation. You can walk away if you want to. If you are single, The Hanged Man can indicate that you need to release yourself from situations, ideas or people that do not make you happy. This may involve releasing old negative relationship patterns. If you have been holding on to your feelings for an ex, The Hanged Man tells you it’s time to release those feelings. It may also signify that you need to release any rigid preconceptions about your ideal partner in order to open yourself up to the options around you.   </p>";
+  } else {
+    return "<p>If you are single, The Hanged Man in a reversed position can indicate that you have been repeating the same negative relationship patterns over and over without learning from your mistakes. You may be rushing from bad relationship to the next and never taking responsibility for the role you play in choosing these relationships. Try to slow down, figure out why this pattern keeps continuing and what you need to resolve within yourself to change it. The Hanged Man can indicate that your relationship may not be working but you or your partner may be holding onto it for fear of being alone or starting over. It can also indicate that the relationship could be salvageable but you are not currently prepared to confront the issues you are experiencing.</p>";
+  }
+}
 var HangedMan = {
   name: "The Hanged Man",
   index: 12,
@@ -335,18 +304,15 @@ var HangedMan = {
   rw_addendum:
     "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.\n\
     Reversed: Selfishness, the crowd, body politic.",
-  rw_meaning:
-    "<p>The gallows from which he is suspended forms a Tau cross, while the figure--from the position of the legs--forms a fylfot cross.\
-  There is a nimbus about the head of the seeming martyr. It should be noted (1) that the tree of sacrifice is living wood, with leaves thereon;\
-  (2) that the face expresses deep entrancement, not suffering; (3) that the figure, as a whole, suggests life in suspension, but life and not death.\
-  It is a card of profound significance, but all the significance is veiled. One of his editors suggests that Eliphas Levi did not know the meaning,\
-  which is unquestionable nor did the editor himself. It has been called falsely a card of martyrdom, a card of prudence, a card of the Great Wrok,\
-  a card of duty; but we may exhaust all published interpretations and find only vanity. I will say very simply on my own part that it expresses the relation,\n\
-  in one of its aspects, between the Divine and the Universe.</p><p>\
-  He who can understand that the story of his higher nature is imbedded in this symbolism will receive intimations concerning a great awakening\
-  that is possible, and will know that after the sacred Mystery of Death there is a glorious Mystery of Resurrection.</p>"
-};
+  rw_meaning:HangedMan()};
 
+function Death() {
+  if (u == 0) {
+    return "<p>Death in a love tarot context can signify that you or your partner may be holding onto a relationship that’s not working or you may be clinging to old patterns that are stopping your relationship from moving forward. Death signifies that things are going to change whether you want them to or not. You can either resist the change or embrace it. If your relationship is not going well, the Death Tarot card can indicate that it may be time to walk away, it can indicate divorce or it can indicate that you and your partner need to make big changes and let go of old patterns or issues to make it work. The old issues the Death card seeks to change can be deep seated and painful. If that’s the case, you may want to consider relationship counselling. The outcome really depends on whether or not you and your partner are both willing to embrace the transformation and really want the relationship to survive because you love each other rather than because you fear not being in the relationship. The changes the Death Tarot card can bring to a relationship can be positive too, it can indicate an unexpected change like a surprise engagement or a pregnancy, you may find these changes overwhelming initially. If you are single, the Death card can indicate that you will soon be casting off the old beliefs, issues or behaviours that are no longer useful to you. Embrace this transformation as it will bring new love into your life.    </p>";
+  } else {
+    return "<p>the Death Tarot card reversed in a love tarot reading, is a strong indicator that you are resistant to a change in your relationship. You may be holding on to a relationship that has long since run its course because you feel dependent on your partner or are terrified of loneliness. Or you may be staying with a partner who you no longer love out of a sense of obligation. It can also indicate that a relationship that you thought was finished long ago could resurface and rekindle. If you are single, Death reversed is a strong indicator that you need to let go of negative behaviour patterns in order to bring something positive into your love life. For example, if you have a tendency to pick bad partners due to low self-esteem you will need to build your self-confidence and let go of your self-sabotaging behaviours in order to allow a partner in to your life who will treat you with love and respect. </p>";
+  }
+}
 var Death = {
   name: "Death",
   index: 13,
@@ -356,22 +322,16 @@ var Death = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img: "https://upload.wikimedia.org/wikipedia/en/d/d7/RWS_Tarot_13_Death.jpg",
-  rw_addendum:
-    "End, mortality, destruction, corruption; also, for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects.\n\
-  Reversed: Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.",
-  rw_meaning:
-    "<p>The veil or mask of life is perpetuated in change, transsformation and passage from lower to higher, and this is more fitly\
-  represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton. Behind it lies the \
-  whole world of ascent in the spirit. The mysterious horseman moves slowly, bearing a black banner emblazoned with the Mystic Rose, which signifies\
-   life. Between two pillars on the verge of the horizon there shines the sun of immortality. The horseman carries no visible weapon, but king and child and maiden \
-   fall before him, while a prelate with clasped hands awaits his end.</p><p>\n\
-   There should be no need to point out that the suggestion of death which I have made in connection with the previous card is, \
-   of course, to be understood mystically, but this is not the case in the present instance. The natural transit of man to the next stage \
-   of his being either is or may be one form of his progress, but the exotic and almost unknown entrance, while still in this life, into the state\
-   of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate. \
-   The existing occult explanations of the 13th card are, on the whole, better than usual, rebirth, creation, destination, renewal, and the rest.</p>"
-};
+  rw_addendum:"",
+  rw_meaning:Death()};
 
+function Temperance() {
+  if (u == 0) {
+    return "<p>In a love Tarot reading, the Temperance Tarot card is one of the best cards you can get. It signifies a harmonious relationship where you and your partner find the perfect balance of love, commitment and respect. It is also a signifier of soulmates. If you have been having relationship problems, Temperance is an indicator that you will both resolve whatever issues have been holding your relationship back in order to move forward together. If you are single, Temperance is an indicator that you will be learning to balance the other areas of your life in order to make room for a loving partner to come into your life. Once you have done this you will attract the right partner to you.</p>";
+  } else {
+    return "<p>In a love Tarot spread, Temperance reversed can indicate conflict and clashes caused by an imbalance in the relationship. This may be a result of one of you feeling like you care more than the other or feeling like the love and respect you show your partner is not reciprocated. There is a lack of harmony in the relationship and you may find that you are arguing with each other, that you’re not willing to listen to each other.  You may also find yourselves being outright antagonistic with each other and trying to point score rather than working together to resolve your issues. Try to calm the situation down and find your own inner balance so that you can better cope with the issues you are facing and make yourself more open to finding solutions. If you are single, Temperance reversed can indicate that you are giving too much of yourself too soon to the people you’re interested in. This can be simply that you’re trying too hard or coming across as too eager or it can indicate promiscuity or coming across as completely desperate! Try to be patient if you’re looking for love. Don’t be hasty or try to force a relationship before you’ve gotten to know someone properly. Just relax, try to find your own inner balance and let any new romance develop at its own pace.</p>";
+  }
+}
 var Temperance = {
   name: "Temperance",
   index: 14,
@@ -386,18 +346,15 @@ var Temperance = {
     "Economy, moderation, frugality, management, accommodation.\n\
   Reversed: Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent;\
   also disunion, unfortunate combinations, competing interests.",
-  rw_meaning:
-    "<p>A winged angel, with the sign of the sun upon his forehead and on his breast the square and triangle of the septenary.\
-  I speak of him in the masculine sense, but the figure is neither male nor female. It is held to be pouring the essences of life from \
-  chalice to chalice. It has one foot upon the earth and one upon the waters, thus illustrating the nature of the essences. A direct path \
-  goes up to certain heights on the verge of the horizon, and above there is a great light, through which a crown is seen vaguely. Hereof \
-  is some part of the Secret of Eternal Life, as it is possible to man in his incarnation. All the conventional emblems are renounced herein.</p><p>\
-  So also are the conventional meanings, which refer to changes in the seasons, perpetual movement of life and even the combination of ideas. \
-  It is, moreover, untrue to say that the figure symbolizes the genius of the sun, although it is the analogy of solar light, realized in the third part \
-  of our human triplicity. It is called Temperance fantastically, because, when the rule of it obtains in our consciousness, it tempers, combines and harmonises \
-  the psychic and material natures. Under that rule we know in our rational part something of whence we came and whither we are going.</p>"
-};
+  rw_meaning:Temperance()};
 
+function Devil() {
+  if (u == 0) {
+    return "<p>The Devil can be a sign that you or your partner are feeling trapped. It may indicate a loss of freedom brought on by becoming too engrossed in a relationship. The Devil shows that this level of co-dependence is unhealthy. You and your partner should take a step back and try to rediscover some interests outside the relationship. It can also signify that you or your partner may be suffering from mental health issues that are affecting the relationship. If this is the case, seek the help of a professional counsellor to assist you both during this time. The Devil Tarot card can be a sign of jealousy, envy, deception, dominance, cheating and in an extremely negative context abuse, violence or sexual assault. Look to supporting cards to confirm this. If you feel trapped in a relationship because of any form of abuse, remember you can free yourself of this situation, don’t let The Devil make you feel powerless. If you are single, The Devil can indicate sex without love. You may be having unfulfilling or even dangerous sexual encounters or allowing yourself to be used by people who do not care about you because you desperately want to be loved. If that is the case, take a break from dating until you’ve built up your self-esteem. The Devil can also be an indicator of a potential relationship that may be harmful to you. This new love interest may have a drug addiction, become overly dependent on you possibly as a result of mental health issues, be deceptive or become violent or abusive. Although they may seem intriguing or exciting at first, The Devil indicates danger, so avoid letting this person into your life.</p>";
+  } else {
+    return "<p>The Devil Tarot card reversed can indicate that you and your partner may have been feeling stuck in a rut or felt like the relationship was on its way out but you having started to come out the other side of this. It can also be an indicator of a close call, one of you may have come close to doing something that would have irreparably damaged your relationship (e.g. an affair or infidelity) but decided to honour your relationship instead. If you have been in an abusive relationship, you may be beginning to realise that you deserve better and to take back your power. The influence your abusive partner once had over you may be lessening as you start to realise that you have choices and there is help out there for you. If you are single, The Devil reversed can indicate a close call with the type of negative, abusive or dangerous person described in the upright meaning. It can also indicate that previously you may have felt you were stuck with being single or were so desperately seeking someone to love you that you were prepared to put up anything. However, you are starting to become more aware of yourself and how this behaviour has been hindering your search for love. You may need to take a step back from dating for while to just start enjoying the freedom of only having yourself to answer to that being single brings. With this new attitude emerging, the right partner won’t be far behind so relax and enjoy this time.</p>";
+  }
+}
 var Devil = {
   name: "The Devil",
   index: 15,
@@ -410,21 +367,15 @@ var Devil = {
   rw_addendum:
     "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.\n\
   Reversed: Evil fatality, weakness, pettiness, blindness.",
-  rw_meaning:
-    "<p>The design is an accommodation, mean or harmony, between several motives mentioned in the first part. The Horned Goat of Mendes, \
-  with wings like those of a bat, is standing on an altar. At the pit of the stomach there is the sign of Mercury. The right hand is upraised \
-  and extended, being the reverse of that benediction which is given by the Hierophant in the fifth card. In the left hand there is a great flaming torch\
-  inverted towards the earth. A reversed pentagram is on the forehead. There is a ring in front of the altar, from which two chains are carried \
-  to the necks of two figures, male and female. These are analogous with those of the fifth card, as if Adam and Eve after the Fall. Hereof \
-  is the chain and fatality of the material life.</p><p> \n\
-  The figures are tailed, to signify the animal nature, but there is human intelligence in the faces, and he who is exalted above them is not to be \
-  their master for ever. Even now, he is also a bondsman, sustained by the evil that is in him and blind to the liberty of service. With more than \
-  his usual derision for the arts which he pretended to respect and interpret as a master therein, Eliphas Levi affirms that the Baphometic figure is \
-  occult science and magic. Another commentator says that in the Divine world it signifies predestination, but there is no correspondence in that world \
-  with the things which below are of the brute. What it does signify is the Dweller on the Threshold without the Mystical Garden when those are driven forth \
-  therefrom who have eaten the forbidden fruit.</p>"
-};
+  rw_meaning: Devil()};
 
+function Tower() {
+  if (u == 0) {
+    return "<p>In a love Tarot reading, The Tower can be a bad omen representing, break-ups, separation or divorce. It can also represent either you or your partner or both, going through a difficult or traumatic event that will push your relationship to its absolute limits. If you want your relationship to survive this Tower event, you will need to try to be there for each other and maintain open and honest communication. If your relationship survives this upheaval, The Tower tells you that the relationship will have changed significantly. This may not necessarily be a bad thing as The Tower represents destruction of false beliefs too, so the relationship may come out completely changed but with a more solid and honest foundation. However, getting to that point will be one of the most difficult things you will go through as a couple. If you are single, you may find that you suddenly have to face an uncomfortable revelation about why you are single. If ego or arrogance has been getting in the way of you forming healthy relationships, it may indicate that a chaotic or destructive event is going to break down that ego. While this will not be a pleasant experience, it will teach you humility and improve your chances of a happy, healthy relationship in the future.  The Tower can also indicate violence or assault so it can be a warning to be mindful of your personal safety when getting out there and meeting new people. Don’t be overly cautious but have your wits about you and take appropriate safety precautions.</p>";
+  } else {
+    return "<p>The Tower reversed can signify that while you know your relationship is as good as over, you are avoiding actually ending it for fear of the pain it will bring. You may think you can paper over the cracks but this would be like putting a band aid on a gunshot wound. You need to face facts and understand that as long as you hold onto something that is broken you are preventing yourself from moving onto something better. If your relationship has recently come through a Tower event, different but intact, The Tower reversed is telling you not to try and get the relationship back to the way it was previously. Your relationship has changed because it needed to, you can’t go back. You need to decide if this new version of your relationship is something you want. If you are single, The Tower reversed can indicate that you have avoided a disastrous relationship with someone who was possibly dangerous, abusive or violent. It can also indicate that you are delaying or completely avoiding dealing with a traumatic or painful breakup. While you may think this approach is easier than facing up to what you’ve been through, it is actually stopping you from moving on your love life.  Stop and face whatever you’re running from, learn what you can from it and then draw a line under it and leave it in the past where it belongs. It hard to move forward when you’re dragging a truck load of baggage behind you so deal with it and let it go.</p>";
+  }
+}
 var Tower = {
   name: "The Tower",
   index: 16,
@@ -438,23 +389,15 @@ var Tower = {
   rw_addendum:
     "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.\n\
   Reversed: According to one account, the same in a lesser degree; also, oppression, imprisonment, tyranny.",
-  rw_meaning:
-    "<p>Occult explanations attached to this card are meagre and mostly disconcerting. It is idle to indicate that it depicts mind in all \
-  its aspects, because it bears this evidence on the surface. It is said further that it contains the first allusion to a material building, but I \
-  do not conceive that the Tower is more or less material than the pillars which we have met with in three previous cases. I see nothing to warrant \
-  Papus in supposing that it is literally the fall of Adam, but there is more in favour of his alternative--that it signifes the materialization \
-  of the spiritual word. The bibliographer Christian imagines that it is the downfall of the mind, seeking to penetrate the mystery of God. \
-  I agree rather with Grand Orient that it is the ruin of the House of We, when evil has prevailed therein, and above all that it is the rending \
-  of a House of Doctrine. I understand that the reference is, however, to a House of Falsehood. It illustrates also in the most comprehensive way \
-  the old truth that 'except the Lord build the house, they labour in vain that build it.' </p><p>\n\
-  There is a sense in which the catastrophe is a reflection from the previous card, but not on the side of the symbolism which I have tried \
-  to indicate therein. It is more correctly a question of analogy; one is concerned with the fall into the material and animal state, while \
-  the other signifies destruction on the intellectual side. The Tower has been spoken of as the chastisement of pride and the intellect overwhelmed \
-  in the attempt to penetrate the Mystery of God; but in neither case do these explanations account for the two persons who are the living sufferers.\
-  The one is the literal word made void and the other its false interpretation. In  yet a deeper sense, it may signify also the end of a dispensation, \
-  but there is no possibility here for the consideration of this involved question.</p>"
-};
+  rw_meaning:Tower()};
 
+function Star() {
+  if (u == 0) {
+    return "<p>The Star in a love Tarot reading can indicate a relationship with an Aquarius. If you are single, The Star is an indicator that you are ready to let go of any baggage you have been carrying from past relationships. Your future love life looks positive and now is a great time to meet people. It can also signify someone from your past coming back into your life to rekindle a relationship. If you are in a relationship the Star is a sign that your relationship will be progressing into something deeper. If you have had problems in the relationship previously, The Star tells you that these issues can be healed and you can have a bright future if you open yourself up to healing.</p>";
+  } else {
+    return "<p>The Star reversed indicates that you may have lost faith in the relationship or are focusing on the negative and missing the positive aspects of your relationship. Your relationship may have lost some of its spark, you may feel that the relationship has become stagnant and monotonous and that you and your partner have disconnected on some level. The Star reversed tells you that these problems can be fixed but you have to be prepared to heal old wounds and clear out any negative energy from the relationship if you want to go forward. If you are single, The Star reversed indicates loneliness and lack of faith in the universe’s plan for you. You may be feeling like you will never meet the right person for you. You may feel that you are becoming cynical about love. You need to release your fears and let go of the negative energy you’ve been holding on to in order to move forward. Love will appear when you least expect it!</p>";
+  }
+}
 var Star = {
   name: "Star",
   index: 17,
@@ -467,20 +410,15 @@ var Star = {
   rw_addendum:
     "Loss, theft, privation, abandnment; another reading says- hope and bright prospects.\n\
   Reversed: Arrogance, haughtiness, impotence.",
-  rw_meaning:
-    "<p>A great, radiant star of eight rays, surrounded by seven lesser stars--also of eight rays. The female figure \
-  in the foreground is entirely naked. Her left knee is on the land and her right foot upon the water. She pours Water of Life \
-  from two great ewers, irrigating sea and land. Behind her is rising ground and on the right a shrub or tree, whereon a bird alights.\
-  The figure expresses eternal youth and beauty. The star is l'etoile flamboyante, which appears in Masonic symbolism, but has been \
-  confused therein. That which the figure communicates to the living scene is the substance of the heavens and the elements. It has \
-  been said truly that the mottoes of this card are 'Waters of Life freely' and 'Gifts of the Spirit.'</p><p>\
-  The summary of several tawdry explantaions says that it is a card of hope. On other planes it has been certified as immortality and \
-  interior light. For the majority of prepared minds, the figure will appear as the type of Truth unveiled, glorious in undying beauty, \
-  pouring on the waters of the soul some part and measure of her priceless possession. But she is in reality the Great Mother in the \
-  Kabalistic Sephira Binah, which is supernal Understanding, who communicates to the Sephiroth that are below in the measure \
-  that they can receive her influx.</p>"
-};
+  rw_meaning:Star()};
 
+function Moon() {
+  if (u == 0) {
+    return "<p>The Moon Tarot card in a love Tarot reading can indicate that you may be feeling uncertain or insecure in the relationship. If your relationship looks fine to the outside world, The Moon can show that things are not as perfect as they seem. There may be miscommunication in the relationship. There could be a lot of arguments or old issues or insecurities coming to the surface. It can also signify deception, but don’t jump to conclusions if you see it in your Tarot reading. Stay calm and wait until the facts of the matter become clearer. If you are single, The Moon can indicate deceit around you or that you may be being conned. If you are dating, be mindful that this person’s intentions may not be as honourable as they seem or you may not have all the facts about them yet. It indicates that there is some piece of information that is yet to reveal itself. </p>";
+  } else {
+    return "<p>If you are in relationship, The Moon reversed can indicate deception or lies being unveiled. This could be an affair being exposed. It can also simply be an indication of the truth of your relationship coming to light. Perhaps you have been deceiving yourself about the current state of the relationship or blinding yourself to certain things about your partner. If so, The Moon reversed shows that you will see your partner’s true character or the truth about your relationship. If you are single, The Moon reversed can be an indicator that you are starting to regain your composure and self-confidence after a period of uncertainty. It can also be an indicator that you may be ignoring signs or your instincts that a potential partner is not suitable for you. An example of this would be noticing warning signs that the person you’re dating is married or involved but ignoring the signs because you don’t want to believe it.</p>";
+  }
+}
 var Moon = {
   name: "The Moon",
   index: 18,
@@ -493,19 +431,15 @@ var Moon = {
   rw_addendum:
     "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.\n\
   Reversed: Instability, inconstancy, silence, lesser degrees of deception and error.",
-  rw_meaning:
-    "<p>The distinction between this card and some of the conventional types is that the moon is increasing on what is called \
-  the side of mercy, to the right of the observer. It has sixteen chief and sixteen secondary rays. The card represents life of the imagination \
-  apart from life of the spirit. The path between the towers is the issue into the unknown. The dog and wolf are the fears of the natural \
-  mind in the presence of that place of exit, when there is only reflected light to guide it.<p></p>\
-  The last reference is a key to another form of symbolism. The intellectual light is a reflection and beyond it is the unknown mystery\
-  which it cannot shew forth. It illuminates our animal nature, types of which are represented below--the dog, the wolf and that which comes up\
-  out of the deeps, the nameless and hideous tendency which is lower than the savaage beast. It strives to attain manifestation, symbolized \
-  by crawling from the abyss of water to the land, but as a rule it sinks back whence it came. The face of the mind directs a calm gaze \
-  upon the unrest below; the dew of thought falls; the message is: Peace, be still; and it may be that there shall come a calm upon the animal nature, \
-  while the abyss beneath shall cease from giving up a form.</p>"
-};
+  rw_meaning:Moon()};
 
+function Sun() {
+  if (u == 0) {
+    return "<p>In a love Tarot spread, The Sun is an indication great joy and happiness. It can be a sign of a period of fun, passion and positivity in your relationship. At the same time, The Sun in an upright position shines light onto everything in its path and this includes relationships, so it can also indicate that any hidden issues in your relationship will be highlighted. Any issues highlighted by The Sun will be resolved for your greater good. This can either take the form of the relationship becoming more open and honest or in some cases ending to allow a better relationship to come to you. Look to supporting cards for verification. Whatever the outcome The Sun is bringing something positive and good into your love life. The Sun can also indicate a celebration such as an engagement or wedding. If you are single, The Sun indicates that a great relationship could be coming your way. It can also indicate that you will be feeling carefree and enjoying the fun aspects of being single. Whether you are involved or single, The Sun is one of the main pregnancy indicators in the Tarot deck. If you are not ready for children, take appropriate precautions.</p>";
+  } else {
+    return "<p>The Sun reversed can indicate that you are feeling left out in the cold by your partner. Some of the spark or passion may have gone out of the relationship. It can be an indication of a broken engagement or cancelled wedding. It may indicate that you are finding it difficult to see a way forward for you and your partner. It can also signify jealousy or trying to score points off each other. Try to focus on the positive things in the relationship, spend quality time together and remind yourself of why you got together in the first place. If you are single, The Sun reversed can be an indicator that you have become so egotistical that you are putting off potential partners. Trying to impress a potential partner may actually be having the opposite effect as it may come across that you are constantly bragging. Just dial it back a bit. They will respond much more favourably if you drop that ego, just be yourself!</p>";
+  }
+}
 var Sun = {
   name: "The Sun",
   index: 19,
@@ -518,19 +452,15 @@ var Sun = {
   rw_addendum:
     "Material happiness, fortunate marriage, contentment.\n\
   Reversed: The same in a lesser sense.",
-  rw_meaning:
-    "<p>The naked child mounted on a white horse and displaying a red standard has been mentioned already as the better symbolism \
-  connected with this card. It is the destiny of the Supernatural East and the great and holy light which goes before the endless procession \
-  of humanity, coming out from the walled garden of the sensitive life and passing on the journey home. The card signifies, therefore, the transit \
-  from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes before aspiration \
-  and is typified by the heart of a child.</p>\n\
-  <p>But the last allusion is again the key to a different form or aspect of the symbolism. The sun is that of consciousness in the spirit-- \
-  the direct antithesis of the reflected light. The characteristic type of humanity has become a little child therein--a child in the sense of \
-  simplicity and innocence in the sense of wisdom. In that simplicity, he bears the seal of Nature and of Art; in that innocence, he signifies \
-  the restored world. When the self-knowing spirit has dawned in the consciousness above the natural mind, that mind in its renewal leads forth \
-  the animal nature in a state of perfect conformity.</p>"
-};
+  rw_meaning:Sun()};
 
+function Judgment() {
+  if (u == 0) {
+    return "<p>In a love Tarot spread, Judgement can indicate that you or your partner may be judging each other too harshly. Be wary of throwing blame or accusations at each other during arguments to try and provoke a reaction, you may do more damage to your relationship than you mean to. Instead try to sit down and talk through how you are feeling without trying to apportion blame. You need to forgive past mistakes if you want the relationship to move forward. You may be able to breathe new life into a relationship that’s falling flat with simple, open and honest communication. It can also indicate that others are judging your relationship or talking about you and your partner behind your back. The best thing you can do in this instance is rise above it. It’s really their issue, not yours. Alternatively, Judgement can signify being separated from someone you love by an ocean or sea so it may indicate that you and your partner could be living in separate countries for a while or having a long distance relationship. If you are single, judgement tells you not to be too hasty in judging potential partners. Give yourself a chance to get to know them before you decide if they are right or wrong for you. It also reminds you to be mindful of how you come across as you never get a second chance to make a first impression!  </p>";
+  } else {
+    return "<p>Judgement reversed can indicate that you are avoiding making a decision about the relationship because of self-doubt. Whether this decision is about the relationship moving forward or ending, it is a decision that needs to be made. Judgement reversed can also indicate malicious gossip or false accusations so if you have heard nasty rumours about your partner, make sure you get the facts before you rush to judgement. The Judgement Tarot card reversed can also indicate issues caused by failure to learn from the past. Perhaps you and your partner have been through a rough patch and you feel like you should be closer now but you’re not. Ask yourself have you learned all you could from those past issues and are you applying that knowledge to your relationship? If you are single, Judgement reversed can indicate that you are letting shyness or embarrassment stop you from approaching the person you are interested in. Don’t let fear hold you back! Whether or not it works out the way you want it to, at least you’ll know you tried and you won’t have to forever wonder “what if?”</p>";
+  }
+}
 var Judgment = {
   name: "Judgment",
   index: 20,
@@ -544,20 +474,15 @@ var Judgment = {
   rw_addendum:
     "Change of position, renewal, outcome. Another account specifies total loss through lawsuit.\n\
   Reversed: Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
-  rw_meaning:
-    "<p>I have said that this symbol is essentially invariable in all Tarot sets, or at least the variations do not alter its character.\
-  The great angel is here encompassed by clouds, but he blows his bannered trumpet, and the cross as usual is displayed on the banner. The dead are \
-  rising from their tombs--a woman on the right, a man on the left hand, and between them their child, whose back is turned. But in this card \
-  there are more than three who are restored, and it has been thought worth while to make this variation as illustrating the insufficiency of current explanations. \
-  It should be noted that all the figures are as one in the wonder, adoration and ecstasy expressed by their attitudes. It is the card which \
-  registers the accomplishment of the great work of transformation in answer to the summons of the Supernal--which summons is heard and answered from within.</p><p>\
-  Herein is the intimation of a significance which cannot well be carried further in the present place. What is that within us which does sound \
-  a trumpet and all that is lower in our nature rises in response--almost in a moment, almost in the twinkling of an eye? Let the card continue \
-  to depict, for those who can see no further, the Last judgment and the resurrection in the natural body; but let those who have inward eyes look \
-  and discover therewith. They will understand that it has been called truly in the past a card of eternal life, and for this reason it may be \
-  compared with that which passes under the name of Temperance.</p>"
-};
+  rw_meaning:Judgment()};
 
+function World() {
+  if (u == 0) {
+    return "<p>In a love Tarot reading, The World can signify reaching a goal you have aspired to. That may be getting married or having children or just being in a very happy, secure, loving and committed place in your relationship. There are whole worlds opening up to you and your partner, enjoy this time, you have both had to work to get your relationship to this point. If you are single, The World signifies that there are so many options open to you. It suggests that you have worked hard to overcome your personal challenges to reach stage where you are at peace with yourself and your place in the world. This can only mean good things for you romantically, as like attracts like. When you are comfortable with yourself, happy and open to the possibilities this life has to offer you will draw someone amazing into your life. It can also be an indication that you may meet someone new while travelling or someone who travels a lot perhaps as part of their job. It also suggests that you will be popular and in-demand.</p>";
+  } else {
+    return "<p>In a love Tarot spread, The World reversed can indicate that your relationship has become stagnant. It may be that you and your partner have let things slide and you need to put more effort in to the relationship and having open and honest communication to get it back on track. If, however, you have been putting serious work into your relationship but it doesn’t seem to be getting any better, you may need to consider if this is the right relationship for you. If you are single, you may feel that your love life has fallen flat but ask yourself if you’ve been making enough effort to get out and meet the right people. Prince/Princess charming is not just going to knock on your door and sweep you off your feet. You have to get out and meet people. Don’t be afraid to put yourself out there. The World reversed can also indicate that you are struggling to move on from a relationship that ended without warning. Perhaps a previous partner suddenly cut you off without warning or didn’t give you the time you needed to come to terms with the end of relationship. This can be incredibly difficult to deal with as you have not had an opportunity to get closure. Don’t wish your life away waiting for them to come back. You may never get closure from your previous partner so you must focus on finding another way to make your peace with what has happened. Ask the universe to help you in this and keep yourself open to opportunities for healing. You will get through it in time but it will take a big conscious effort on your part, so put your focus into that.</p>";
+  }
+}
 var World = {
   name: "The World",
   index: 21,
@@ -570,18 +495,7 @@ var World = {
   rw_addendum:
     "Assured success, recompense, voyage, route, emigration, flight, change of place.\n\
   Reversed: Inertia, fixity, stagnation, permanence.",
-  rw_meaning:
-    "<p>As this final message of the Major Trumps is unchanged--and indeed unchangeable--in respect of its design, it has been partly \
-  described already regarding its deeper sense. It represents also the perfection and end of the Cosmos, the secret which is within it, the rapture \
-  of the universe when it understands itself in God. It is further the state of the soul in the consciousness of Divine Vision, reflected from \
-  the self-knowing spirit. But these meanings are without prejudice to that which I have said concerning it on the material side.</p><p> \n\
-  It has more than one message on the macrocosmic side and is, for example, the state of the restored world when the law of manifestation \
-  shall have been carried to the highest degree of natural perfection. But it is perhaps more especially a story of the past, referring to \
-  that day when all was declared to be good, when the morning stars sang together and all the Sons of God shouted for joy. \
-  One of the worst explanations concerning it is that the figure symbolizes the Magus when he has reached the highest degree of initiation; \
-  another account says that it represents the absolute, which is ridiculous. The figure has been said to stand for Truth, which is, however, \
-  more properly allocated to the seventeenth card. Lastly, it has been called the Crown of the Magi.</p>"
-};
+  rw_meaning:World()};
 
 /*======================================DECK======================================*/
 
