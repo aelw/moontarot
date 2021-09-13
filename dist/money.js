@@ -7,9 +7,9 @@ function getRndInteger(min, max) {
 function upright_or_reversed() {
   u = getRndInteger(0, 1);
   if (u == 0) {
-    return "정방향";
+    return "upright";
   } else {
-    return "역방향";
+    return "reversed";
   }
 }
 
@@ -33,7 +33,7 @@ var Fool = {
   img: "https://upload.wikimedia.org/wikipedia/en/9/90/RWS_Tarot_00_Fool.jpg",
   rw_addendum:
     "어리석음, 조증, 사치, 도취, 정신 착란, 광란, 비통함.\n \
-    역방향 : 태만, 부재, 분배, 부주의, 무관심, 무효, 허영심.",
+    reversed : 태만, 부재, 분배, 부주의, 무관심, 무효, 허영심.",
   rw_meaning: fool()
 };
 
@@ -125,7 +125,7 @@ var Emperor = {
     "https://upload.wikimedia.org/wikipedia/en/c/c3/RWS_Tarot_04_Emperor.jpg",
   rw_addendum:
     "사회성 권위, 지배, 안정, 행동력, 성취, 달성, 완전 강한 긍정, 능력자, 사업자기질, 완벽주의\n\
-    역방향: 낭비하는, 의심 많은, 자기 주장이 강함, 게으름",
+    reversed: 낭비하는, 의심 많은, 자기 주장이 강함, 게으름",
   rw_meaning: Emperor()
 };
 
@@ -552,7 +552,7 @@ var show_indexed_card = function (index) {
   //generic display message
   // document.getElementById("results").innerHTML +="The card drawn is...<br> <br> <div class='placard-container'><div class='card-container'>";
   //testing reverse or upright
-  if (rightCard["direction"] == "역방향") {
+  if (rightCard["direction"] == "reversed") {
     document.getElementById("results").innerHTML +=
       "<img src= '" +
       rightCard["img"] +
@@ -621,34 +621,34 @@ var set_celtic_identifier = function (card_obj, i) {
   console.log("inside set_celtic_identifier");
   switch (i) {
     case 1:
-      card_obj["identifier"] = "선물";
+      card_obj["identifier"] = "Present";
       break;
     case 2:
-      card_obj["identifier"] = "도전";
+      card_obj["identifier"] = "Challenge";
       break;
     case 3:
-      card_obj["identifier"] = "과거";
+      card_obj["identifier"] = "Past";
       break;
     case 4:
-      card_obj["identifier"] = "미래";
+      card_obj["identifier"] = "Future";
       break;
     case 5:
-      card_obj["identifier"] = "내가 생각하는 미래";
+      card_obj["identifier"] = "Above";
       break;
     case 6:
-      card_obj["identifier"] = "내가 처한 상황";
+      card_obj["identifier"] = "Below";
       break;
     case 7:
-      card_obj["identifier"] = "조언";
+      card_obj["identifier"] = "Advice";
       break;
     case 8:
-      card_obj["identifier"] = "영향";
+      card_obj["identifier"] = "Influences";
       break;
     case 9:
-      card_obj["identifier"] = "소망";
+      card_obj["identifier"] = "Hopes";
       break;
     case 10:
-      card_obj["identifier"] = "결과";
+      card_obj["identifier"] = "Outcome";
       break;
   }
   return card_obj;
