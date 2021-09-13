@@ -17,9 +17,9 @@ function upright_or_reversed() {
 
 function fool() {
   if (u == 0) {
-    return "<p>절벽을 향해 발을 디디려고 하는 젊은 여행자. 개가 그곳은 위험하다고 경고를 해주고 있지만, 그는 마치 아무것도 모른 채 자신감이 있어 보이는 것 같습니다. 고정관념이나 상식, 대중의 시선에 얽매이지 않는 자유로운 가치관을 나타냅니다. 미래는 불확실하고, 한 치 앞도 어떻게 될지 모르겠지만, 그래도 \"어떻게든 될 것\"이라고 낙관적으로 보입니다.</p>";
+    return "<p>The Fool in love is exciting and spontaneous but a little bit fickle. For those in relationships, The Fool indicates being so in love you can hardly contain your excitement. However, if the person asking the question is asking about commitment, this card is linked to lack of commitment /not being ready for a commitment. For those that are single, it is a very good indicator that an impulsive, carefree romance is on the cards (or many such romances). If the Fool appears, be prepared for fun-filled romance but be careful not to miss true love if it comes your way during this time.</p>";
   } else {
-    return "<p>아무것도 결정하지 않은 등 부정적으로 작용합니다. 불안해하거나 제멋대로이거나 게으른, 불성실한 태도를 취했다고 할 수 있습니다. 변덕이나 무책임한 모습은 주위에서 보기에 신용을 깎아내릴 수 있는 원인이 되어 버립니다.</p>";
+    return "<p>The Fool reversed in love can indicate that your pursuit of adventure may be holding you back from having the kind love you really want or causing uncertainty in your current relationship. If The Fool is reversed, your relationship may be exciting but may involve some risky behaviour. Be warned, this could lead to feelings of insecurity and may leave your relationship on shaky ground.</p>";
   }
 }
 var Fool = {
