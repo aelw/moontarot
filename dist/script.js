@@ -221,7 +221,7 @@ var Strength = {
 
 function Hermit() {
   if (u == 0) {
-    return "<p>The Hermit in an upright position generally indicates that you are entering a period of soul searching, self-reflection and spiritual enlightenment. You may find that you need time alone to gain a deeper understanding of yourself, to remove yourself from the daily grind in order to discover your true spiritual self, contemplate your existence, your direction in life or your values. The Hermit can also indicate isolating yourself or withdrawing into oneself in order to recover from a difficult situation. This Major Arcana trump card can suggest that you may be going through an anti-social phase where you just don’t want to interact with people as much as you normally would. The Hermit is wise, mature and knowledgeable and may be an indication of someone seeking the services of a counsellor or psychiatrist.  This is a time to focus on yourself and meeting your own needs.  </p>";
+    return "<p>The Hermit in an upright position generally indicates that you are entering a period of soul searching, self-reflection and spiritual enlightenment. You may find that you need time alone to gain a deeper understanding of yourself, to remove yourself from the daily grind in order to discover your true spiritual self, contemplate your existence, your direction in life or your values. The Hermit can also indicate isolating yourself or withdrawing into oneself in order to recover from a difficult situation. This Major Arcana trump card can suggest that you may be going through an anti-social phase where you just don’t want to interact with people as much as you normally would. The Hermit is wise, mature and knowledgeable and may be an indication of someone seeking the services of a counsellor or psychiatrist. This is a time to focus on yourself and meeting your own needs.</p>";
   } else {
     return "<p>The Hermit reversed suggests that you have withdrawn too much from the world or are becoming too reclusive. Solitude might have been necessary or good for you at one point but The Hermit reversed is telling you that it is time to come back to the world and the people around you. Taking time for soul-searching and self-reflection can be a great thing in moderation but too much can be damaging. At some point, you do need to draw a line under things and move forward, this Major Arcana card in reversed position indicates that now is that time. It can also indicate that you may be feeling shy or apprehensive about being in social situations. Don’t be afraid to get back out there. Alternatively, The Hermit in reversed can indicate that you are avoiding self-reflection completely as you are afraid of what you’ll discover if you look inside yourself. It can be an indicator of becoming too fixated with someone or something or too rigid and restricted in your views.</p>";
   }
@@ -416,9 +416,7 @@ function Moon() {
   if (u == 0) {
     return "<p>The general meaning of The Moon in an upright position is that everything is not as it seems. It is also the Major Arcana of intuition. The Moons tells you that something about a situation or person in your life is not what it appears to be and you need to trust what your instincts are telling you in order to see past this illusion. The Moon also indicates that you should pay attention to your dreams as your subconscious may be bringing your attention to some information you’ve missed. The Moon can also signify that you are letting your anxiety or fear overwhelm you which may be having a negative effect on your outlook and causing you to suffer from mood swings, instability or insecurity. It can also represent a woman’s menstrual cycle. The Moon can also signify dormant insecurities or repressed issues resurfacing. The Moon can represent underhanded or dodgy deals or illegal behaviour. If it appears in this context it is a warning to clean your act up before your behaviour is exposed. If you are awaiting a decision on something, The Moon indicates that the answer will either be delayed or be so vague it will add to your confusion rather than clarify matters</p>";
   } else {
-    return "<p>In a general context The Moon reversed can signify releasing fears or negative energy clearing. It can also indicate secrets or lies being exposed. If you have been experiencing fear or anxiety it should begin to subside. If you have lost something, The Moon reversed is a sign you will find it. This Major Arcana card may also be an indication of self-deception or delusions. You may be kidding yourself about your role in creating your current circumstances or you may be struggling to separate your own deception or fantasies from reality. The Moon reversed can also indicate that any depression or mental health issues you have been having will begin to lift and you will begin to see the light again. You will work through any repressed issues or insecurities to find new confidence and clarity. If you have been awaiting a decision on something, The Moon reversed indicates that you will get an answer or clarity on the matter.
-
-​</p>";
+    return "<p>In a general context The Moon reversed can signify releasing fears or negative energy clearing. It can also indicate secrets or lies being exposed. If you have been experiencing fear or anxiety it should begin to subside. If you have lost something, The Moon reversed is a sign you will find it. This Major Arcana card may also be an indication of self-deception or delusions. You may be kidding yourself about your role in creating your current circumstances or you may be struggling to separate your own deception or fantasies from reality. The Moon reversed can also indicate that any depression or mental health issues you have been having will begin to lift and you will begin to see the light again. You will work through any repressed issues or insecurities to find new confidence and clarity. If you have been awaiting a decision on something, The Moon reversed indicates that you will get an answer or clarity on the matter.";
   }
 }
 var Moon = {
@@ -431,8 +429,7 @@ var Moon = {
   direction: upright_or_reversed(),
   img: "https://upload.wikimedia.org/wikipedia/en/7/7f/RWS_Tarot_18_Moon.jpg",
   rw_addendum:
-    "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.\n\
-  Reversed: Instability, inconstancy, silence, lesser degrees of deception and error.",
+    "",
   rw_meaning:Moon()};
 
 function Sun() {
@@ -442,6 +439,7 @@ function Sun() {
     return "<p>The Sun reversed can indicate sadness, depression and pessimism. You may be finding it difficult to focus on the positive with this card in your Tarot reading. The Sun reversed does not usually mean that your situation or circumstances are all that bad but that you are feeling pessimistic and focusing on the negative which is affecting your outlook on life. It can signify a lack of enthusiasm for life, being unclear on the right path to take or being unable to see the way forward. This Major Arcana card may show that you are letting negative energy/thoughts close you off to the happiness and joy that is all around you. You have the power to change this by simply allowing yourself to be open to the positive things that are coming your way and by finding gratitude for the good things in your life.  The Sun reversed can also be an indicator of being overly enthusiastic or confident to the point that it becomes a negative trait. For example, you may be being so overly confident that you are actually becoming egotistical or arrogant. Or you may be so enthusiastic about achieving your goals that you haven’t stopped to check if they are actually realistic.</p>";
   }
 }
+
 var Sun = {
   name: "The Sun",
   index: 19,
@@ -452,8 +450,7 @@ var Sun = {
   direction: upright_or_reversed(),
   img: "https://upload.wikimedia.org/wikipedia/en/1/17/RWS_Tarot_19_Sun.jpg",
   rw_addendum:
-    "Material happiness, fortunate marriage, contentment.\n\
-  Reversed: The same in a lesser sense.",
+    "",
   rw_meaning:Sun()};
 
 function Judgment() {
