@@ -18,9 +18,21 @@
   
 </head>
   
- 
-<img onClick="javascript:window.scrollTo(0,0)" style='width:50px;position:fixed;padding:10px'src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/waxing-crescent-moon-symbol_1f312.png'>    
-  
+  <script>
+	function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+var id = getParameterByName('img');
+</script>
+
+<script>
+document.write("\
+<img onClick=\"javascript:window.scrollTo(0,0)\" onerror=\"this.src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/full-moon-with-face_1f31d.png';\"style='width:80px;position:fixed;padding:10px'src='http://"+id+"'>");
+</script>
+
 <body>
 <main>
   
