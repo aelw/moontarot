@@ -7,7 +7,7 @@
 var id = getParameterByName('img');
 
 document.write("\
-<img onClick=\"javascript:window.scrollTo(0,0)\" onerror=\"this.src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/full-moon-with-face_1f31d.png';\"style='width:80px;border-radius:5px;position:fixed;padding:10px'src='http://"+id+"'>");
+<img onClick=\"javascript:window.scrollTo(0,0)\" onerror=\"this.src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/full-moon-with-face_1f31d.png';\"style='width:80px;border-radius:10px;position:fixed;padding:10px'src='http://"+id+"'>");
 
 document.write("\
 <body>\n\
